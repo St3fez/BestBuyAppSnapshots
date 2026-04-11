@@ -5,7 +5,7 @@
   "displayQuery": "burro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-11T14:27:57+00:00",
+  "lastUpdatedAt": "2026-04-11T16:07:17+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [],
   "refreshRequested": false,
@@ -16,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+  "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
   "videoSource": "Burro: come sceglierlo, tipi, calorie e quanto consumarne",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/guida-acquisto/scegliere-burro"
 }

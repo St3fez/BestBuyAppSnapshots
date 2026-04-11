@@ -5,11 +5,11 @@
   "displayQuery": "riso",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-11T11:05:20+00:00",
+  "lastUpdatedAt": "2026-04-11T16:04:46+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=CONAD+RISO+BASMATI&tag=your_amazon_tag-20",
+      "amazonLink": "https://amazon.it/s?k=CONAD+RISO+BASMATI",
       "name": "CONAD RISO BASMATI",
       "pros": [
         "Taken from the latest official consumer comparison available in the allowed year window.",
@@ -19,7 +19,7 @@
       "rank": 1
     },
     {
-      "amazonLink": "https://amazon.com/s?k=SELEX+RISO+BASMATI&tag=your_amazon_tag-20",
+      "amazonLink": "https://amazon.it/s?k=SELEX+RISO+BASMATI",
       "name": "SELEX RISO BASMATI",
       "pros": [
         "Taken from the latest official consumer comparison available in the allowed year window.",
@@ -37,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted. Showing the last verified snapshot from 2026-04-11 until a fresher extraction succeeds.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
   "videoSource": "Migliori marche di Riso",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore"
 }
