@@ -5,18 +5,28 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-11T11:05:08+00:00",
+  "lastUpdatedAt": "2026-04-11T14:23:56+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=PASTA+REALE+%28MD%29+PENNE+RIGATE&tag=your_amazon_tag-20",
-      "name": "PASTA REALE (MD) PENNE RIGATE",
+      "amazonLink": "https://amazon.com/s?k=Barilla&tag=your_amazon_tag-20",
+      "name": "Barilla",
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2026-01-26.",
-        "Extracted directly from the official comparison page 'Migliori marche di Pasta'."
+        "Recommended by Altroconsumo in 2026",
+        "High quality pasta",
+        "Good price point"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Agnesi&tag=your_amazon_tag-20",
+      "name": "Agnesi",
+      "pros": [
+        "Recommended by Altroconsumo in 2026",
+        "Excellent taste",
+        "Affordable"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -27,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2026 test \"Migliori marche di Pasta\" lists Barilla and Agnesi as recommended brands, indicating high quality and good price.",
   "videoSource": "Migliori marche di Pasta",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore"
 }
