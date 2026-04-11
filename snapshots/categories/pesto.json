@@ -5,7 +5,7 @@
   "displayQuery": "pesto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-11T11:14:23+00:00",
+  "lastUpdatedAt": "2026-04-11T11:06:29+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
@@ -37,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
   "videoSource": "Migliori marche di Sughi Rossi e al Pesto",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/sughi-pronti/comparatore"
 }

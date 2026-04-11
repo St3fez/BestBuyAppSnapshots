@@ -1,11 +1,11 @@
 {
   "cached": true,
-  "categoryKey": "olio",
+  "categoryKey": "olio-extravergine",
   "channelTitle": "Altroconsumo",
-  "displayQuery": "olio",
+  "displayQuery": "olio extravergine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-11T11:07:19+00:00",
+  "lastUpdatedAt": "2026-04-11T10:32:54+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [],
   "refreshRequested": false,
@@ -16,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
+  "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
   "videoSource": "Olio extravergine di oliva",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/olio-oliva"
 }

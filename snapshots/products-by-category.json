@@ -1,9 +1,9 @@
 {
   "success": true,
-  "generatedAt": "2026-04-11T11:20:12+00:00",
-  "totalCategories": 26,
+  "generatedAt": "2026-04-11T11:11:06+00:00",
+  "totalCategories": 51,
   "categoriesWithProducts": 13,
-  "totalProducts": 19,
+  "totalProducts": 24,
   "categories": [
     {
       "categoryKey": "aceto",
@@ -15,7 +15,7 @@
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted. Showing the last published verified snapshot from 2026-04-11 until a fresher rebuild succeeds.",
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets. Showing the last published verified snapshot from 2026-04-11 until a fresher rebuild succeeds.",
       "videoSource": "Aceto balsamico: come scegliere quello giusto",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico",
       "products": [
@@ -46,13 +46,13 @@
       "displayQuery": "acqua",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:15:47+00:00",
+      "lastUpdatedAt": "2026-04-11T11:07:36+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo",
         "Federconsumatori APS"
       ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo, Federconsumatori APS. Open the source and try again later, or refresh when the quota resets.",
       "videoSource": "Acqua",
       "videoUrl": "https://www.spreaker.com/episode/acqua--28523645",
       "products": []
@@ -62,12 +62,12 @@
       "displayQuery": "birra",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:16:35+00:00",
+      "lastUpdatedAt": "2026-04-11T11:08:30+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
       "videoSource": "Birra, come sceglierla? La nostra guida",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/birra/come-scegliere",
       "products": []
@@ -77,12 +77,12 @@
       "displayQuery": "biscotti",
       "status": "ready",
       "productCount": 1,
-      "lastUpdatedAt": "2026-04-11T11:16:22+00:00",
+      "lastUpdatedAt": "2026-04-11T11:08:12+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "I migliori biscotti integrali a confronto.",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore/caratteristiche/biscotti-integrali",
       "products": [
@@ -103,12 +103,12 @@
       "displayQuery": "burro",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:15:14+00:00",
+      "lastUpdatedAt": "2026-04-11T11:07:03+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
       "videoSource": "Burro: come sceglierlo, tipi, calorie e quanto consumarne",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/guida-acquisto/scegliere-burro",
       "products": []
@@ -117,33 +117,91 @@
       "categoryKey": "caffe",
       "displayQuery": "caffe",
       "status": "ready",
-      "productCount": 1,
-      "lastUpdatedAt": "2026-04-11T11:13:22+00:00",
+      "productCount": 2,
+      "lastUpdatedAt": "2026-04-11T11:05:46+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo",
         "Assoutenti APS"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori Capsule Caffè : marche e prezzi",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20",
-          "name": "Dolce Gusto",
+          "amazonLink": "https://amazon.com/s?k=CAFF%C3%88+CORCOVADO+ESPRESSO+CREMOSO&tag=your_amazon_tag-20",
+          "name": "CAFFÈ CORCOVADO ESPRESSO CREMOSO",
           "pros": [
-            "Recommended by Altro"
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-03-21.",
+            "Extracted directly from the official comparison page 'Migliori Capsule Caffè : marche e prezzi'."
           ],
           "rank": 1
+        },
+        {
+          "amazonLink": "https://amazon.com/s?k=CAFF%C3%88+BERNINI+ORO+DI+NAPOLI&tag=your_amazon_tag-20",
+          "name": "CAFFÈ BERNINI ORO DI NAPOLI",
+          "pros": [
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-03-21.",
+            "Extracted directly from the official comparison page 'Migliori Capsule Caffè : marche e prezzi'."
+          ],
+          "rank": 2
         }
       ]
+    },
+    {
+      "categoryKey": "cereali",
+      "displayQuery": "cereali",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:34:50+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Migliori marche di cereali per la colazione",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/cereali/comparatore",
+      "products": []
+    },
+    {
+      "categoryKey": "cioccolato-fondente",
+      "displayQuery": "cioccolato fondente",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:35:36+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
+      "categoryKey": "colomba",
+      "displayQuery": "colomba",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:34:05+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo",
+        "UNC",
+        "Codacons"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Quale colomba piace di più? Il test di assaggio su 12 prodotti",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/news/test-colombe-pasquali",
+      "products": []
     },
     {
       "categoryKey": "cracker",
       "displayQuery": "cracker",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:18:39+00:00",
+      "lastUpdatedAt": "2026-04-11T11:10:18+00:00",
       "sourceSignals": [
         "official consumer source"
       ],
@@ -157,12 +215,12 @@
       "displayQuery": "farina",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:17:20+00:00",
+      "lastUpdatedAt": "2026-04-11T11:09:04+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
       "videoSource": "Come eliminare insetti della farina e prevenire infestazioni",
       "videoUrl": "https://www.altroconsumo.it/casa-energia/pulizie/consigli/come-eliminare-gli-insetti-nella-farina",
       "products": []
@@ -171,32 +229,89 @@
       "categoryKey": "fette-biscottate",
       "displayQuery": "fette biscottate",
       "status": "ready",
-      "productCount": 1,
-      "lastUpdatedAt": "2026-04-11T11:18:15+00:00",
+      "productCount": 2,
+      "lastUpdatedAt": "2026-04-11T11:09:49+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori marche di fette biscottate",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/fette-biscottate/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=Mulino+Bianco&tag=your_amazon_tag-20",
-          "name": "Mulino Bianco",
+          "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+%28EUROSPIN%29+FETTE+BISCOTTATE+SENZA+GLUTINE&tag=your_amazon_tag-20",
+          "name": "AMO ESSERE (EUROSPIN) FETTE BISCOTTATE SENZA GLUTINE",
           "pros": [
-            "Offers a wide variety of options including"
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2026-01-15.",
+            "Extracted directly from the official comparison page 'Migliori marche di fette biscottate'."
           ],
           "rank": 1
+        },
+        {
+          "amazonLink": "https://amazon.com/s?k=BENES%C3%8C+%28COOP%29+FETTE+BISCOTTATE+A+BASSISSIMO+CONTENUTO+DI+SALE&tag=your_amazon_tag-20",
+          "name": "BENESÌ (COOP) FETTE BISCOTTATE A BASSISSIMO CONTENUTO DI SALE",
+          "pros": [
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2026-01-15.",
+            "Extracted directly from the official comparison page 'Migliori marche di fette biscottate'."
+          ],
+          "rank": 2
         }
       ]
+    },
+    {
+      "categoryKey": "frigorifero",
+      "displayQuery": "frigorifero",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-10T18:34:31+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
+      "videoSource": "Frigoriferi: marche, recensioni, confronti",
+      "videoUrl": "https://www.altroconsumo.it/elettrodomestici/frigoriferi",
+      "products": []
+    },
+    {
+      "categoryKey": "frollini",
+      "displayQuery": "frollini",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:35:21+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Scopri le migliori marche di frollini secondo Altroconsumo.",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore/caratteristiche/frollini",
+      "products": []
+    },
+    {
+      "categoryKey": "gelato",
+      "displayQuery": "gelato",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:30:41+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Miglior gelato confezionato secondo Altroconsumo",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/gelati/comparatore",
+      "products": []
     },
     {
       "categoryKey": "grana-padano",
       "displayQuery": "grana padano",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:20:09+00:00",
+      "lastUpdatedAt": "2026-04-11T11:11:03+00:00",
       "sourceSignals": [
         "official consumer source"
       ],
@@ -206,16 +321,60 @@
       "products": []
     },
     {
+      "categoryKey": "grissini",
+      "displayQuery": "grissini",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:31:29+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
+      "categoryKey": "hamburger-vegetali",
+      "displayQuery": "hamburger vegetali",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:36:05+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
+      "categoryKey": "ketchup",
+      "displayQuery": "ketchup",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:36:20+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "U.Di.Con.",
+        "UNC"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Ue, addio alle bustine monouso al ristorante: dal 2026 cambiano le nostre abitudini",
+      "videoUrl": "https://www.udicon.org/2026/01/21/ue-addio-alle-bustine-monouso-al-ristorante-dal-2026-cambiano-le-nostre-abitudini/",
+      "products": []
+    },
+    {
       "categoryKey": "latte",
       "displayQuery": "latte",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-04-11T11:13:02+00:00",
+      "lastUpdatedAt": "2026-04-11T11:05:38+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Miglior Latte: marche, prezzi, confezioni",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore",
       "products": [
@@ -246,7 +405,23 @@
       "displayQuery": "maionese",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:18:29+00:00",
+      "lastUpdatedAt": "2026-04-11T11:10:03+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "U.Di.Con.",
+        "UNC"
+      ],
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: U.Di.Con., UNC. Open the source and try again later, or refresh when the quota resets.",
+      "videoSource": "Ue, addio alle bustine monouso al ristorante: dal 2026 cambiano le nostre abitudini",
+      "videoUrl": "https://www.udicon.org/2026/01/21/ue-addio-alle-bustine-monouso-al-ristorante-dal-2026-cambiano-le-nostre-abitudini/",
+      "products": []
+    },
+    {
+      "categoryKey": "marmellata",
+      "displayQuery": "marmellata",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:28:48+00:00",
       "sourceSignals": [
         "official consumer source",
         "U.Di.Con."
@@ -261,12 +436,12 @@
       "displayQuery": "miele",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:16:56+00:00",
+      "lastUpdatedAt": "2026-04-11T11:08:50+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
       "videoSource": "MIELE TEC645WP",
       "videoUrl": "https://www.altroconsumo.it/elettrodomestici/asciugatrici/comparatore/miele-tec645wp/33231_124983",
       "products": []
@@ -276,12 +451,12 @@
       "displayQuery": "mozzarella",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:18:54+00:00",
+      "lastUpdatedAt": "2026-04-11T11:10:36+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
       "videoSource": "Mozzarella vaccina",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella",
       "products": []
@@ -291,14 +466,29 @@
       "displayQuery": "mozzarella di bufala",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:19:59+00:00",
+      "lastUpdatedAt": "2026-04-11T11:10:48+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The broader official category \"mozzarella\" was checked because exact official tests for \"mozzarella di bufala\" were not available. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
       "videoSource": "Mozzarella vaccina",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella",
+      "products": []
+    },
+    {
+      "categoryKey": "muesli",
+      "displayQuery": "muesli",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:35:07+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Muesli e granola: scopri le differenze",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/cereali/news/muesli-e-granola",
       "products": []
     },
     {
@@ -306,7 +496,22 @@
       "displayQuery": "olio",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:15:26+00:00",
+      "lastUpdatedAt": "2026-04-11T11:07:19+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
+      "videoSource": "Olio extravergine di oliva",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/olio-oliva",
+      "products": []
+    },
+    {
+      "categoryKey": "olio-extravergine",
+      "displayQuery": "olio extravergine",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:32:54+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -320,23 +525,35 @@
       "categoryKey": "pandoro",
       "displayQuery": "pandoro",
       "status": "ready",
-      "productCount": 1,
-      "lastUpdatedAt": "2026-04-11T11:14:56+00:00",
+      "productCount": 2,
+      "lastUpdatedAt": "2026-04-11T11:06:48+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori Pandori 2025",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=Tre+Marie+Pandoro&tag=your_amazon_tag-20",
-          "name": "Tre Marie Pandoro",
+          "amazonLink": "https://amazon.com/s?k=FAVORINA+%28LIDL%29+PANDORO+CLASSICO&tag=your_amazon_tag-20",
+          "name": "FAVORINA (LIDL) PANDORO CLASSICO",
           "pros": [
-            "Awarded 'Migliore del"
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-12-04.",
+            "Extracted directly from the official comparison page 'Migliori Pandori 2025'."
           ],
           "rank": 1
+        },
+        {
+          "amazonLink": "https://amazon.com/s?k=BISTEFANI+PANDORO&tag=your_amazon_tag-20",
+          "name": "BISTEFANI PANDORO",
+          "pros": [
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-12-04.",
+            "Extracted directly from the official comparison page 'Migliori Pandori 2025'."
+          ],
+          "rank": 2
         }
       ]
     },
@@ -345,12 +562,12 @@
       "displayQuery": "panettone",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-04-11T11:17:58+00:00",
+      "lastUpdatedAt": "2026-04-11T11:09:35+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori Panettoni 2025",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore",
       "products": [
@@ -377,16 +594,30 @@
       ]
     },
     {
+      "categoryKey": "parmigiano-reggiano",
+      "displayQuery": "parmigiano reggiano",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:36:47+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
       "categoryKey": "passata",
       "displayQuery": "passata",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-04-11T11:13:50+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:07+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori Passate di pomodoro",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore",
       "products": [
@@ -417,12 +648,12 @@
       "displayQuery": "passata di pomodoro",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-04-11T11:14:05+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:16+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Exact official tests for \"passata di pomodoro\" were not available in 2025-2026, so the broader official category \"passata\" was used. No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "Exact official tests for \"passata di pomodoro\" were not available in 2025-2026, so the broader official category \"passata\" was used. No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori Passate di pomodoro",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore",
       "products": [
@@ -453,12 +684,12 @@
       "displayQuery": "pasta",
       "status": "ready",
       "productCount": 1,
-      "lastUpdatedAt": "2026-04-11T11:12:27+00:00",
+      "lastUpdatedAt": "2026-04-11T11:05:08+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori marche di Pasta",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore",
       "products": [
@@ -475,26 +706,52 @@
       ]
     },
     {
+      "categoryKey": "pasta-integrale",
+      "displayQuery": "Pasta Integrale",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-10T20:16:10+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and no recent review videos were found for this category.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
       "categoryKey": "patatine",
       "displayQuery": "patatine",
       "status": "ready",
-      "productCount": 1,
-      "lastUpdatedAt": "2026-04-11T11:14:40+00:00",
+      "productCount": 2,
+      "lastUpdatedAt": "2026-04-11T11:06:37+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori marche di patatine",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS&tag=your_amazon_tag-20",
-          "name": "AMICA CHIPS",
+          "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS+ELDORADA+GUSTO+SALSA+BARBECUE&tag=your_amazon_tag-20",
+          "name": "AMICA CHIPS ELDORADA GUSTO SALSA BARBECUE",
           "pros": [
-            "Recommended by Altro"
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-12-16.",
+            "Extracted directly from the official comparison page 'Migliori marche di patatine'."
           ],
           "rank": 1
+        },
+        {
+          "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS+ELDORADA+RICETTA+GRIGLIATA&tag=your_amazon_tag-20",
+          "name": "AMICA CHIPS ELDORADA RICETTA GRIGLIATA",
+          "pros": [
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-12-16.",
+            "Extracted directly from the official comparison page 'Migliori marche di patatine'."
+          ],
+          "rank": 2
         }
       ]
     },
@@ -503,12 +760,12 @@
       "displayQuery": "pesto",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-04-11T11:14:23+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:29+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori marche di Sughi Rossi e al Pesto",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/sughi-pronti/comparatore",
       "products": [
@@ -535,16 +792,74 @@
       ]
     },
     {
-      "categoryKey": "riso",
-      "displayQuery": "riso",
+      "categoryKey": "pizza-surgelata",
+      "displayQuery": "pizza surgelata",
       "status": "ready",
-      "productCount": 1,
-      "lastUpdatedAt": "2026-04-11T11:12:43+00:00",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:34:20+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Pizza surgelata: cinque cose da sapere",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/pizza/news/test-pizze-surgelate",
+      "products": []
+    },
+    {
+      "categoryKey": "pomodori-pelati",
+      "displayQuery": "pomodori pelati",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:48:36+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
+      "categoryKey": "prosciutto-cotto",
+      "displayQuery": "prosciutto cotto",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:33:06+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Il prosciutto cotto fa male? Scopri calorie e additivi",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/guida-acquisto/prosciutto-cotto",
+      "products": []
+    },
+    {
+      "categoryKey": "prosciutto-crudo",
+      "displayQuery": "prosciutto crudo",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:33:18+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
+      "categoryKey": "riso",
+      "displayQuery": "riso",
+      "status": "ready",
+      "productCount": 2,
+      "lastUpdatedAt": "2026-04-11T11:05:20+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori marche di Riso",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore",
       "products": [
@@ -552,25 +867,126 @@
           "amazonLink": "https://amazon.com/s?k=CONAD+RISO+BASMATI&tag=your_amazon_tag-20",
           "name": "CONAD RISO BASMATI",
           "pros": [
-            "Product tested in"
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-11-20.",
+            "Extracted directly from the official comparison page 'Migliori marche di Riso'."
           ],
           "rank": 1
+        },
+        {
+          "amazonLink": "https://amazon.com/s?k=SELEX+RISO+BASMATI&tag=your_amazon_tag-20",
+          "name": "SELEX RISO BASMATI",
+          "pros": [
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-11-20.",
+            "Extracted directly from the official comparison page 'Migliori marche di Riso'."
+          ],
+          "rank": 2
         }
       ]
+    },
+    {
+      "categoryKey": "riso-basmati",
+      "displayQuery": "riso basmati",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:37:28+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Riso Basmati: qualità inaccettabile, lo dice il test",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/news/test-riso-basmati",
+      "products": []
+    },
+    {
+      "categoryKey": "salmone-affumicato",
+      "displayQuery": "salmone affumicato",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:34:34+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
+      "categoryKey": "succo-d-arancia",
+      "displayQuery": "succo d arancia",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:30:24+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Codacons"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "DAZI, CODACONS: ECCO TUTTI I PRODOTTI MADE IN USA A RISCHIO RINCARI IN CASO DI GUERRA COMMERCIALE CON L’UE",
+      "videoUrl": "https://codacons.it/dazi-codacons-ecco-tutti-i-prodotti-made-in-usa-a-rischio-rincari-in-caso-di-guerra-commerciale-con-lue/",
+      "products": []
+    },
+    {
+      "categoryKey": "sugo-pronto",
+      "displayQuery": "sugo pronto",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:37:00+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
     },
     {
       "categoryKey": "tonno",
       "displayQuery": "tonno",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:17:38+00:00",
+      "lastUpdatedAt": "2026-04-11T11:09:18+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
       "videoSource": "Tonno in scatola e in vetro: consigli e recensioni",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/tonno",
+      "products": []
+    },
+    {
+      "categoryKey": "tonno-in-scatola",
+      "displayQuery": "tonno in scatola",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:48:40+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
+      "videoSource": "Tonno in scatola e in vetro: consigli e recensioni",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/tonno",
+      "products": []
+    },
+    {
+      "categoryKey": "uova",
+      "displayQuery": "uova",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:35:51+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo",
+        "UNC"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Uova di Pasqua: come scegliere e marchi di sostenibilità",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/cioccolato/speciali/uova-di-pasqua-come-sceglierle-sicure-e-buone",
       "products": []
     },
     {
@@ -578,7 +994,22 @@
       "displayQuery": "yogurt",
       "status": "ready",
       "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T11:15:58+00:00",
+      "lastUpdatedAt": "2026-04-11T11:07:51+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
+      "videoSource": "Yogurt Greco: calorie, proteine e differenze con lo yogurt",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/speciali/yogurt-greco",
+      "products": []
+    },
+    {
+      "categoryKey": "yogurt-greco",
+      "displayQuery": "yogurt greco",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:36:31+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -631,7 +1062,7 @@
     {
       "categoryKey": "biscotti",
       "displayQuery": "biscotti",
-      "lastUpdatedAt": "2026-04-11T11:16:22+00:00",
+      "lastUpdatedAt": "2026-04-11T11:08:12+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -650,7 +1081,7 @@
     {
       "categoryKey": "caffe",
       "displayQuery": "caffe",
-      "lastUpdatedAt": "2026-04-11T11:13:22+00:00",
+      "lastUpdatedAt": "2026-04-11T11:05:46+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo",
@@ -658,34 +1089,77 @@
       ],
       "videoSource": "Migliori Capsule Caffè : marche e prezzi",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore",
-      "name": "Dolce Gusto",
+      "name": "CAFFÈ CORCOVADO ESPRESSO CREMOSO",
       "rank": 1,
       "pros": [
-        "Recommended by Altro"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-03-21.",
+        "Extracted directly from the official comparison page 'Migliori Capsule Caffè : marche e prezzi'."
       ],
-      "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=CAFF%C3%88+CORCOVADO+ESPRESSO+CREMOSO&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "caffe",
+      "displayQuery": "caffe",
+      "lastUpdatedAt": "2026-04-11T11:05:46+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo",
+        "Assoutenti APS"
+      ],
+      "videoSource": "Migliori Capsule Caffè : marche e prezzi",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore",
+      "name": "CAFFÈ BERNINI ORO DI NAPOLI",
+      "rank": 2,
+      "pros": [
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-03-21.",
+        "Extracted directly from the official comparison page 'Migliori Capsule Caffè : marche e prezzi'."
+      ],
+      "amazonLink": "https://amazon.com/s?k=CAFF%C3%88+BERNINI+ORO+DI+NAPOLI&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "fette-biscottate",
       "displayQuery": "fette biscottate",
-      "lastUpdatedAt": "2026-04-11T11:18:15+00:00",
+      "lastUpdatedAt": "2026-04-11T11:09:49+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori marche di fette biscottate",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/fette-biscottate/comparatore",
-      "name": "Mulino Bianco",
+      "name": "AMO ESSERE (EUROSPIN) FETTE BISCOTTATE SENZA GLUTINE",
       "rank": 1,
       "pros": [
-        "Offers a wide variety of options including"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2026-01-15.",
+        "Extracted directly from the official comparison page 'Migliori marche di fette biscottate'."
       ],
-      "amazonLink": "https://amazon.com/s?k=Mulino+Bianco&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+%28EUROSPIN%29+FETTE+BISCOTTATE+SENZA+GLUTINE&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "fette-biscottate",
+      "displayQuery": "fette biscottate",
+      "lastUpdatedAt": "2026-04-11T11:09:49+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "Migliori marche di fette biscottate",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fette-biscottate/comparatore",
+      "name": "BENESÌ (COOP) FETTE BISCOTTATE A BASSISSIMO CONTENUTO DI SALE",
+      "rank": 2,
+      "pros": [
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2026-01-15.",
+        "Extracted directly from the official comparison page 'Migliori marche di fette biscottate'."
+      ],
+      "amazonLink": "https://amazon.com/s?k=BENES%C3%8C+%28COOP%29+FETTE+BISCOTTATE+A+BASSISSIMO+CONTENUTO+DI+SALE&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "latte",
       "displayQuery": "latte",
-      "lastUpdatedAt": "2026-04-11T11:13:02+00:00",
+      "lastUpdatedAt": "2026-04-11T11:05:38+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -704,7 +1178,7 @@
     {
       "categoryKey": "latte",
       "displayQuery": "latte",
-      "lastUpdatedAt": "2026-04-11T11:13:02+00:00",
+      "lastUpdatedAt": "2026-04-11T11:05:38+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -723,24 +1197,45 @@
     {
       "categoryKey": "pandoro",
       "displayQuery": "pandoro",
-      "lastUpdatedAt": "2026-04-11T11:14:56+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:48+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori Pandori 2025",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro/comparatore",
-      "name": "Tre Marie Pandoro",
+      "name": "FAVORINA (LIDL) PANDORO CLASSICO",
       "rank": 1,
       "pros": [
-        "Awarded 'Migliore del"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-12-04.",
+        "Extracted directly from the official comparison page 'Migliori Pandori 2025'."
       ],
-      "amazonLink": "https://amazon.com/s?k=Tre+Marie+Pandoro&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=FAVORINA+%28LIDL%29+PANDORO+CLASSICO&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "pandoro",
+      "displayQuery": "pandoro",
+      "lastUpdatedAt": "2026-04-11T11:06:48+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "Migliori Pandori 2025",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro/comparatore",
+      "name": "BISTEFANI PANDORO",
+      "rank": 2,
+      "pros": [
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-12-04.",
+        "Extracted directly from the official comparison page 'Migliori Pandori 2025'."
+      ],
+      "amazonLink": "https://amazon.com/s?k=BISTEFANI+PANDORO&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "panettone",
       "displayQuery": "panettone",
-      "lastUpdatedAt": "2026-04-11T11:17:58+00:00",
+      "lastUpdatedAt": "2026-04-11T11:09:35+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -759,7 +1254,7 @@
     {
       "categoryKey": "panettone",
       "displayQuery": "panettone",
-      "lastUpdatedAt": "2026-04-11T11:17:58+00:00",
+      "lastUpdatedAt": "2026-04-11T11:09:35+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -778,7 +1273,7 @@
     {
       "categoryKey": "passata",
       "displayQuery": "passata",
-      "lastUpdatedAt": "2026-04-11T11:13:50+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:07+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -797,7 +1292,7 @@
     {
       "categoryKey": "passata",
       "displayQuery": "passata",
-      "lastUpdatedAt": "2026-04-11T11:13:50+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:07+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -816,7 +1311,7 @@
     {
       "categoryKey": "passata-di-pomodoro",
       "displayQuery": "passata di pomodoro",
-      "lastUpdatedAt": "2026-04-11T11:14:05+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:16+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -835,7 +1330,7 @@
     {
       "categoryKey": "passata-di-pomodoro",
       "displayQuery": "passata di pomodoro",
-      "lastUpdatedAt": "2026-04-11T11:14:05+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:16+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -854,7 +1349,7 @@
     {
       "categoryKey": "pasta",
       "displayQuery": "pasta",
-      "lastUpdatedAt": "2026-04-11T11:12:27+00:00",
+      "lastUpdatedAt": "2026-04-11T11:05:08+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -873,24 +1368,45 @@
     {
       "categoryKey": "patatine",
       "displayQuery": "patatine",
-      "lastUpdatedAt": "2026-04-11T11:14:40+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:37+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori marche di patatine",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore",
-      "name": "AMICA CHIPS",
+      "name": "AMICA CHIPS ELDORADA GUSTO SALSA BARBECUE",
       "rank": 1,
       "pros": [
-        "Recommended by Altro"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-12-16.",
+        "Extracted directly from the official comparison page 'Migliori marche di patatine'."
       ],
-      "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS+ELDORADA+GUSTO+SALSA+BARBECUE&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "patatine",
+      "displayQuery": "patatine",
+      "lastUpdatedAt": "2026-04-11T11:06:37+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "Migliori marche di patatine",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore",
+      "name": "AMICA CHIPS ELDORADA RICETTA GRIGLIATA",
+      "rank": 2,
+      "pros": [
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-12-16.",
+        "Extracted directly from the official comparison page 'Migliori marche di patatine'."
+      ],
+      "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS+ELDORADA+RICETTA+GRIGLIATA&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "pesto",
       "displayQuery": "pesto",
-      "lastUpdatedAt": "2026-04-11T11:14:23+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:29+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -909,7 +1425,7 @@
     {
       "categoryKey": "pesto",
       "displayQuery": "pesto",
-      "lastUpdatedAt": "2026-04-11T11:14:23+00:00",
+      "lastUpdatedAt": "2026-04-11T11:06:29+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -928,7 +1444,7 @@
     {
       "categoryKey": "riso",
       "displayQuery": "riso",
-      "lastUpdatedAt": "2026-04-11T11:12:43+00:00",
+      "lastUpdatedAt": "2026-04-11T11:05:20+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -938,9 +1454,30 @@
       "name": "CONAD RISO BASMATI",
       "rank": 1,
       "pros": [
-        "Product tested in"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-11-20.",
+        "Extracted directly from the official comparison page 'Migliori marche di Riso'."
       ],
       "amazonLink": "https://amazon.com/s?k=CONAD+RISO+BASMATI&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "riso",
+      "displayQuery": "riso",
+      "lastUpdatedAt": "2026-04-11T11:05:20+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "Migliori marche di Riso",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore",
+      "name": "SELEX RISO BASMATI",
+      "rank": 2,
+      "pros": [
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-11-20.",
+        "Extracted directly from the official comparison page 'Migliori marche di Riso'."
+      ],
+      "amazonLink": "https://amazon.com/s?k=SELEX+RISO+BASMATI&tag=your_amazon_tag-20"
     }
   ]
 }
