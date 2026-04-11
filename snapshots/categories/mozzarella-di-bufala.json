@@ -1,32 +1,22 @@
 {
   "cached": true,
   "categoryKey": "mozzarella-di-bufala",
-  "channelTitle": "CasaBufala",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "mozzarella di bufala",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-11T08:59:23+00:00",
+  "lastUpdatedAt": "2026-04-11T09:23:11+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Mozzarella+di+bufala+campana+DOP&tag=your_amazon_tag-20",
-      "name": "Mozzarella di bufala campana DOP",
-      "pros": [
-        "freschissima",
-        "produced today, delivered tomorrow",
-        "refrigerated delivery system"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "Mozzarella di bufala campana: come alleviamo le nostre bufale | Casabufala",
-  "videoUrl": "https://www.youtube.com/watch?v=sX6EedolvpI"
+  "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The broader official category \"mozzarella\" was checked because exact official tests for \"mozzarella di bufala\" were not available. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+  "videoSource": "Mozzarella vaccina",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella"
 }

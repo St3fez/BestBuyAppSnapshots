@@ -5,69 +5,72 @@
       "displayQuery": "grana padano",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:00:01+00:00",
+      "lastUpdatedAt": "2026-04-11T09:23:22+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source"
       ],
       "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "Grana Padano con Sofia Goggia e Feberica Brignone spot 2025 pubblicità settembre"
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null
     },
     {
       "categoryKey": "mozzarella-di-bufala",
       "displayQuery": "mozzarella di bufala",
-      "hasProducts": true,
+      "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T08:59:23+00:00",
-      "productCount": 1,
+      "lastUpdatedAt": "2026-04-11T09:23:11+00:00",
+      "productCount": 0,
       "sourceSignals": [
+        "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-      "videoSource": "Mozzarella di bufala campana: come alleviamo le nostre bufale | Casabufala"
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The broader official category \"mozzarella\" was checked because exact official tests for \"mozzarella di bufala\" were not available. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Mozzarella vaccina"
     },
     {
       "categoryKey": "mozzarella",
       "displayQuery": "mozzarella",
-      "hasProducts": true,
+      "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T08:58:38+00:00",
-      "productCount": 1,
+      "lastUpdatedAt": "2026-04-11T09:23:02+00:00",
+      "productCount": 0,
       "sourceSignals": [
+        "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-      "videoSource": "LA MOZZARELLA FIORDILATTE MIGLIORE SUL MERCATO NEL 2025"
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Mozzarella vaccina"
     },
     {
       "categoryKey": "cracker",
       "displayQuery": "cracker",
-      "hasProducts": true,
+      "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T08:58:00+00:00",
-      "productCount": 1,
-      "sourceSignals": [],
+      "lastUpdatedAt": "2026-04-11T09:22:50+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
       "status": "ready",
-      "trustedSourceSummary": "Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-      "videoSource": "Recensiamo Novità Gran Pavesi Sfoglie Crispy Pepe e Lime 🍋"
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null
     },
     {
       "categoryKey": "maionese",
       "displayQuery": "maionese",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T08:57:22+00:00",
+      "lastUpdatedAt": "2026-04-11T09:22:40+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
-        "U.Di.Con.",
-        "UNC"
+        "U.Di.Con."
       ],
       "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
       "videoSource": "Ue, addio alle bustine monouso al ristorante: dal 2026 cambiano le nostre abitudini"
     },
     {
@@ -75,7 +78,7 @@
       "displayQuery": "caffe",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T08:56:43+00:00",
+      "lastUpdatedAt": "2026-04-11T09:22:33+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
@@ -83,7 +86,7 @@
         "Assoutenti APS"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo's 2025 capsule test recommends Dolce Gusto and Nespresso as top picks for quality, taste, and machine compatibility.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo’s 2025 test lists Dolce Gusto and Nespresso as top recommendations, providing fresh evidence.",
       "videoSource": "Migliori Capsule Caffè : marche e prezzi"
     },
     {
@@ -91,14 +94,14 @@
       "displayQuery": "aceto",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T08:56:14+00:00",
-      "productCount": 1,
+      "lastUpdatedAt": "2026-04-11T09:22:21+00:00",
+      "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The Altroconsumo article (2025‑08‑29) identifies Aceto Balsamico Tradizionale di Modena DOP as the most authentic and traditional option, making it a clear recommendation.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 review recommends the Modena DOP for authenticity and flavor, and the Modena IGP for accessibility and value.",
       "videoSource": "Aceto balsamico: come scegliere quello giusto"
     },
     {
@@ -106,14 +109,14 @@
       "displayQuery": "riso",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T08:55:46+00:00",
+      "lastUpdatedAt": "2026-04-11T09:22:11+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s November 2025 lab tests recommend Riso Carnaroli and Riso Basmati as top picks, highlighting their quality and suitability for specific dishes.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025‑11‑20 laboratory tests recommend Riso Carnaroli and Riso Basmati as top picks; the evidence is fresh.",
       "videoSource": "Migliori marche di Riso"
     },
     {
@@ -121,14 +124,14 @@
       "displayQuery": "olio",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T08:55:17+00:00",
+      "lastUpdatedAt": "2026-04-11T09:21:57+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
       "videoSource": "Olio extravergine di oliva"
     },
     {
@@ -136,14 +139,14 @@
       "displayQuery": "latte",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T08:54:29+00:00",
+      "lastUpdatedAt": "2026-04-11T09:21:46+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
       "videoSource": "Miglior Latte: marche, prezzi, confezioni"
     },
     {
@@ -151,46 +154,17 @@
       "displayQuery": "pasta",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T08:53:44+00:00",
-      "productCount": 2,
+      "lastUpdatedAt": "2026-04-11T09:21:27+00:00",
+      "productCount": 1,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2026 test lists Barilla and Pasta Reale among its recommended pasta brands, indicating they meet quality and price criteria.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
       "videoSource": "Migliori marche di Pasta"
-    },
-    {
-      "categoryKey": "pasta-integrale",
-      "displayQuery": "Pasta Integrale",
-      "hasProducts": false,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-04-10T20:16:10+00:00",
-      "productCount": 0,
-      "sourceSignals": [
-        "official consumer source"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and no recent review videos were found for this category.",
-      "videoSource": null
-    },
-    {
-      "categoryKey": "frigorifero",
-      "displayQuery": "frigorifero",
-      "hasProducts": false,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-04-10T18:34:31+00:00",
-      "productCount": 0,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
-      "videoSource": "Frigoriferi: marche, recensioni, confronti"
     }
   ],
-  "generatedAt": "2026-04-11T09:00:03+00:00",
+  "generatedAt": "2026-04-11T09:23:24+00:00",
   "success": true
 }
