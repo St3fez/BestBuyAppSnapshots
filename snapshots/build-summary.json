@@ -1,13 +1,28 @@
 {
   "success": true,
-  "generatedAt": "2026-04-11T10:16:47+00:00",
+  "generatedAt": "2026-04-11T11:20:12+00:00",
   "categoriesRequested": [
     "pasta",
-    "latte",
-    "olio",
     "riso",
-    "aceto",
+    "latte",
     "caffe",
+    "aceto",
+    "passata",
+    "passata di pomodoro",
+    "pesto",
+    "patatine",
+    "pandoro",
+    "burro",
+    "olio",
+    "acqua",
+    "yogurt",
+    "biscotti",
+    "birra",
+    "miele",
+    "farina",
+    "tonno",
+    "panettone",
+    "fette biscottate",
     "maionese",
     "cracker",
     "mozzarella",
@@ -20,15 +35,15 @@
       "status": "ready"
     },
     {
+      "category": "riso",
+      "status": "ready"
+    },
+    {
       "category": "latte",
       "status": "ready"
     },
     {
-      "category": "olio",
-      "status": "ready"
-    },
-    {
-      "category": "riso",
+      "category": "caffe",
       "status": "ready"
     },
     {
@@ -36,7 +51,67 @@
       "status": "ready"
     },
     {
-      "category": "caffe",
+      "category": "passata",
+      "status": "ready"
+    },
+    {
+      "category": "passata di pomodoro",
+      "status": "ready"
+    },
+    {
+      "category": "pesto",
+      "status": "ready"
+    },
+    {
+      "category": "patatine",
+      "status": "ready"
+    },
+    {
+      "category": "pandoro",
+      "status": "ready"
+    },
+    {
+      "category": "burro",
+      "status": "ready"
+    },
+    {
+      "category": "olio",
+      "status": "ready"
+    },
+    {
+      "category": "acqua",
+      "status": "ready"
+    },
+    {
+      "category": "yogurt",
+      "status": "ready"
+    },
+    {
+      "category": "biscotti",
+      "status": "ready"
+    },
+    {
+      "category": "birra",
+      "status": "ready"
+    },
+    {
+      "category": "miele",
+      "status": "ready"
+    },
+    {
+      "category": "farina",
+      "status": "ready"
+    },
+    {
+      "category": "tonno",
+      "status": "ready"
+    },
+    {
+      "category": "panettone",
+      "status": "ready"
+    },
+    {
+      "category": "fette biscottate",
       "status": "ready"
     },
     {
