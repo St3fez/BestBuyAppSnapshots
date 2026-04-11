@@ -5,7 +5,7 @@
       "displayQuery": "grana padano",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:23:22+00:00",
+      "lastUpdatedAt": "2026-04-11T09:36:59+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source"
@@ -19,7 +19,7 @@
       "displayQuery": "mozzarella di bufala",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:23:11+00:00",
+      "lastUpdatedAt": "2026-04-11T09:36:45+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -34,7 +34,7 @@
       "displayQuery": "mozzarella",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:23:02+00:00",
+      "lastUpdatedAt": "2026-04-11T09:36:28+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -49,7 +49,7 @@
       "displayQuery": "cracker",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:22:50+00:00",
+      "lastUpdatedAt": "2026-04-11T09:36:11+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source"
@@ -63,11 +63,12 @@
       "displayQuery": "maionese",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:22:40+00:00",
+      "lastUpdatedAt": "2026-04-11T09:35:39+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
-        "U.Di.Con."
+        "U.Di.Con.",
+        "UNC"
       ],
       "status": "ready",
       "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
@@ -78,7 +79,7 @@
       "displayQuery": "caffe",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:22:33+00:00",
+      "lastUpdatedAt": "2026-04-11T09:35:08+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
@@ -86,7 +87,7 @@
         "Assoutenti APS"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo’s 2025 test lists Dolce Gusto and Nespresso as top recommendations, providing fresh evidence.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo’s 2025 capsule coffee test recommends Dolce Gusto and Nespresso as top picks, providing fresh evidence from March 2025.",
       "videoSource": "Migliori Capsule Caffè : marche e prezzi"
     },
     {
@@ -94,29 +95,29 @@
       "displayQuery": "aceto",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:22:21+00:00",
+      "lastUpdatedAt": "2026-04-11T09:34:34+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 review recommends the Modena DOP for authenticity and flavor, and the Modena IGP for accessibility and value.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 guide recommends the DOP‑protected traditional balsamic vinegars from Modena and Reggio Emilia as top choices, citing their authentic production methods, long aging, and quality guarantees.",
       "videoSource": "Aceto balsamico: come scegliere quello giusto"
     },
     {
       "categoryKey": "riso",
       "displayQuery": "riso",
-      "hasProducts": true,
+      "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:22:11+00:00",
-      "productCount": 2,
+      "lastUpdatedAt": "2026-04-11T09:34:04+00:00",
+      "productCount": 0,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025‑11‑20 laboratory tests recommend Riso Carnaroli and Riso Basmati as top picks; the evidence is fresh.",
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
       "videoSource": "Migliori marche di Riso"
     },
     {
@@ -124,7 +125,7 @@
       "displayQuery": "olio",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:21:57+00:00",
+      "lastUpdatedAt": "2026-04-11T09:33:30+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -139,7 +140,7 @@
       "displayQuery": "latte",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:21:46+00:00",
+      "lastUpdatedAt": "2026-04-11T09:33:02+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -154,17 +155,75 @@
       "displayQuery": "pasta",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:21:27+00:00",
-      "productCount": 1,
+      "lastUpdatedAt": "2026-04-11T09:32:30+00:00",
+      "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2026 test recommends these brands as top pasta choices.",
       "videoSource": "Migliori marche di Pasta"
+    },
+    {
+      "categoryKey": "grissini",
+      "displayQuery": "Grissini",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-04-11T09:26:55+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null
+    },
+    {
+      "categoryKey": "pandoro",
+      "displayQuery": "Pandoro",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-04-11T09:16:55+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "The AI extraction service is temporarily out of quota, so no reliable recommendations could be produced right now.",
+      "videoSource": "Migliori Pandori 2025"
+    },
+    {
+      "categoryKey": "pasta-integrale",
+      "displayQuery": "Pasta Integrale",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-04-10T20:16:10+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and no recent review videos were found for this category.",
+      "videoSource": null
+    },
+    {
+      "categoryKey": "frigorifero",
+      "displayQuery": "frigorifero",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-04-10T18:34:31+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
+      "videoSource": "Frigoriferi: marche, recensioni, confronti"
     }
   ],
-  "generatedAt": "2026-04-11T09:23:24+00:00",
+  "generatedAt": "2026-04-11T09:37:03+00:00",
   "success": true
 }

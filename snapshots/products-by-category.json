@@ -1,0 +1,413 @@
+{
+  "success": true,
+  "generatedAt": "2026-04-11T09:37:03+00:00",
+  "totalCategories": 15,
+  "categoriesWithProducts": 3,
+  "totalProducts": 6,
+  "categories": [
+    {
+      "categoryKey": "aceto",
+      "displayQuery": "aceto",
+      "status": "ready",
+      "productCount": 2,
+      "lastUpdatedAt": "2026-04-11T09:34:34+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 guide recommends the DOP‑protected traditional balsamic vinegars from Modena and Reggio Emilia as top choices, citing their authentic production methods, long aging, and quality guarantees.",
+      "videoSource": "Aceto balsamico: come scegliere quello giusto",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico",
+      "products": [
+        {
+          "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP&tag=your_amazon_tag-20",
+          "name": "Aceto Balsamico Tradizionale di Modena DOP",
+          "pros": [
+            "Authentic traditional production from selected grape varieties",
+            "Long aging period for complex flavor",
+            "Protected DOP status ensures quality"
+          ],
+          "rank": 1
+        },
+        {
+          "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Reggio+Emilia+DOP&tag=your_amazon_tag-20",
+          "name": "Aceto Balsamico Tradizionale di Reggio Emilia DOP",
+          "pros": [
+            "Authentic traditional production from selected grape varieties",
+            "Long aging period for complex flavor",
+            "Protected DOP status ensures quality"
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "categoryKey": "caffe",
+      "displayQuery": "caffe",
+      "status": "ready",
+      "productCount": 2,
+      "lastUpdatedAt": "2026-04-11T09:35:08+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo",
+        "Assoutenti APS"
+      ],
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo’s 2025 capsule coffee test recommends Dolce Gusto and Nespresso as top picks, providing fresh evidence from March 2025.",
+      "videoSource": "Migliori Capsule Caffè : marche e prezzi",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore",
+      "products": [
+        {
+          "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20",
+          "name": "Dolce Gusto",
+          "pros": [
+            "Recommended by Altroconsumo",
+            "Best taste in their 2025 capsule test",
+            "Compatible with many machines"
+          ],
+          "rank": 1
+        },
+        {
+          "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20",
+          "name": "Nespresso",
+          "pros": [
+            "Recommended by Altroconsumo",
+            "Best taste in their 2025 capsule test",
+            "Wide range of flavors"
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "categoryKey": "cracker",
+      "displayQuery": "cracker",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T09:36:11+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
+      "categoryKey": "frigorifero",
+      "displayQuery": "frigorifero",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-10T18:34:31+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
+      "videoSource": "Frigoriferi: marche, recensioni, confronti",
+      "videoUrl": "https://www.altroconsumo.it/elettrodomestici/frigoriferi",
+      "products": []
+    },
+    {
+      "categoryKey": "grana-padano",
+      "displayQuery": "grana padano",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T09:36:59+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
+      "categoryKey": "grissini",
+      "displayQuery": "Grissini",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T09:26:55+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
+      "categoryKey": "latte",
+      "displayQuery": "latte",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T09:33:02+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Miglior Latte: marche, prezzi, confezioni",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore",
+      "products": []
+    },
+    {
+      "categoryKey": "maionese",
+      "displayQuery": "maionese",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T09:35:39+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "U.Di.Con.",
+        "UNC"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Ue, addio alle bustine monouso al ristorante: dal 2026 cambiano le nostre abitudini",
+      "videoUrl": "https://www.udicon.org/2026/01/21/ue-addio-alle-bustine-monouso-al-ristorante-dal-2026-cambiano-le-nostre-abitudini/",
+      "products": []
+    },
+    {
+      "categoryKey": "mozzarella",
+      "displayQuery": "mozzarella",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T09:36:28+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Mozzarella vaccina",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella",
+      "products": []
+    },
+    {
+      "categoryKey": "mozzarella-di-bufala",
+      "displayQuery": "mozzarella di bufala",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T09:36:45+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The broader official category \"mozzarella\" was checked because exact official tests for \"mozzarella di bufala\" were not available. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Mozzarella vaccina",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella",
+      "products": []
+    },
+    {
+      "categoryKey": "olio",
+      "displayQuery": "olio",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T09:33:30+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Olio extravergine di oliva",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/olio-oliva",
+      "products": []
+    },
+    {
+      "categoryKey": "pandoro",
+      "displayQuery": "Pandoro",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T09:16:55+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "The AI extraction service is temporarily out of quota, so no reliable recommendations could be produced right now.",
+      "videoSource": "Migliori Pandori 2025",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro/comparatore",
+      "products": []
+    },
+    {
+      "categoryKey": "pasta",
+      "displayQuery": "pasta",
+      "status": "ready",
+      "productCount": 2,
+      "lastUpdatedAt": "2026-04-11T09:32:30+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2026 test recommends these brands as top pasta choices.",
+      "videoSource": "Migliori marche di Pasta",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore",
+      "products": [
+        {
+          "amazonLink": "https://amazon.com/s?k=Barilla&tag=your_amazon_tag-20",
+          "name": "Barilla",
+          "pros": [
+            "Recommended by Altroconsumo",
+            "Positive test results",
+            "Good price"
+          ],
+          "rank": 1
+        },
+        {
+          "amazonLink": "https://amazon.com/s?k=Garofalo&tag=your_amazon_tag-20",
+          "name": "Garofalo",
+          "pros": [
+            "Recommended by Altroconsumo",
+            "Positive test results",
+            "Good price"
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "categoryKey": "pasta-integrale",
+      "displayQuery": "Pasta Integrale",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-10T20:16:10+00:00",
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and no recent review videos were found for this category.",
+      "videoSource": null,
+      "videoUrl": null,
+      "products": []
+    },
+    {
+      "categoryKey": "riso",
+      "displayQuery": "riso",
+      "status": "ready",
+      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T09:34:04+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Migliori marche di Riso",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore",
+      "products": []
+    }
+  ],
+  "flatProducts": [
+    {
+      "categoryKey": "aceto",
+      "displayQuery": "aceto",
+      "lastUpdatedAt": "2026-04-11T09:34:34+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "Aceto balsamico: come scegliere quello giusto",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico",
+      "name": "Aceto Balsamico Tradizionale di Modena DOP",
+      "rank": 1,
+      "pros": [
+        "Authentic traditional production from selected grape varieties",
+        "Long aging period for complex flavor",
+        "Protected DOP status ensures quality"
+      ],
+      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "aceto",
+      "displayQuery": "aceto",
+      "lastUpdatedAt": "2026-04-11T09:34:34+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "Aceto balsamico: come scegliere quello giusto",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico",
+      "name": "Aceto Balsamico Tradizionale di Reggio Emilia DOP",
+      "rank": 2,
+      "pros": [
+        "Authentic traditional production from selected grape varieties",
+        "Long aging period for complex flavor",
+        "Protected DOP status ensures quality"
+      ],
+      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Reggio+Emilia+DOP&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "caffe",
+      "displayQuery": "caffe",
+      "lastUpdatedAt": "2026-04-11T09:35:08+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo",
+        "Assoutenti APS"
+      ],
+      "videoSource": "Migliori Capsule Caffè : marche e prezzi",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore",
+      "name": "Dolce Gusto",
+      "rank": 1,
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Best taste in their 2025 capsule test",
+        "Compatible with many machines"
+      ],
+      "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "caffe",
+      "displayQuery": "caffe",
+      "lastUpdatedAt": "2026-04-11T09:35:08+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo",
+        "Assoutenti APS"
+      ],
+      "videoSource": "Migliori Capsule Caffè : marche e prezzi",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore",
+      "name": "Nespresso",
+      "rank": 2,
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Best taste in their 2025 capsule test",
+        "Wide range of flavors"
+      ],
+      "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "pasta",
+      "displayQuery": "pasta",
+      "lastUpdatedAt": "2026-04-11T09:32:30+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "Migliori marche di Pasta",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore",
+      "name": "Barilla",
+      "rank": 1,
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Positive test results",
+        "Good price"
+      ],
+      "amazonLink": "https://amazon.com/s?k=Barilla&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "pasta",
+      "displayQuery": "pasta",
+      "lastUpdatedAt": "2026-04-11T09:32:30+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "Migliori marche di Pasta",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore",
+      "name": "Garofalo",
+      "rank": 2,
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Positive test results",
+        "Good price"
+      ],
+      "amazonLink": "https://amazon.com/s?k=Garofalo&tag=your_amazon_tag-20"
+    }
+  ]
+}
