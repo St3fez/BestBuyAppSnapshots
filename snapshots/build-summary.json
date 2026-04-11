@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "generatedAt": "2026-04-11T09:00:03+00:00",
+  "categoriesRequested": [
+    "pasta",
+    "latte",
+    "olio",
+    "riso",
+    "aceto",
+    "caffe",
+    "maionese",
+    "cracker",
+    "mozzarella",
+    "mozzarella di bufala",
+    "grana padano"
+  ],
+  "results": [
+    {
+      "category": "pasta",
+      "status": "ready"
+    },
+    {
+      "category": "latte",
+      "status": "ready"
+    },
+    {
+      "category": "olio",
+      "status": "ready"
+    },
+    {
+      "category": "riso",
+      "status": "ready"
+    },
+    {
+      "category": "aceto",
+      "status": "ready"
+    },
+    {
+      "category": "caffe",
+      "status": "ready"
+    },
+    {
+      "category": "maionese",
+      "status": "ready"
+    },
+    {
+      "category": "cracker",
+      "status": "ready"
+    },
+    {
+      "category": "mozzarella",
+      "status": "ready"
+    },
+    {
+      "category": "mozzarella di bufala",
+      "status": "ready"
+    },
+    {
+      "category": "grana padano",
+      "status": "ready"
+    }
+  ]
+}
