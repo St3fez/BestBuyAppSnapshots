@@ -5,7 +5,7 @@
       "displayQuery": "grana padano",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:36:59+00:00",
+      "lastUpdatedAt": "2026-04-11T10:16:45+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source"
@@ -19,7 +19,7 @@
       "displayQuery": "mozzarella di bufala",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:36:45+00:00",
+      "lastUpdatedAt": "2026-04-11T10:16:31+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -34,7 +34,7 @@
       "displayQuery": "mozzarella",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:36:28+00:00",
+      "lastUpdatedAt": "2026-04-11T10:16:16+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -49,7 +49,7 @@
       "displayQuery": "cracker",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:36:11+00:00",
+      "lastUpdatedAt": "2026-04-11T10:16:02+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source"
@@ -63,7 +63,7 @@
       "displayQuery": "maionese",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:35:39+00:00",
+      "lastUpdatedAt": "2026-04-11T10:15:44+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -79,7 +79,7 @@
       "displayQuery": "caffe",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:35:08+00:00",
+      "lastUpdatedAt": "2026-04-11T10:15:32+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
@@ -87,7 +87,7 @@
         "Assoutenti APS"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo’s 2025 capsule coffee test recommends Dolce Gusto and Nespresso as top picks, providing fresh evidence from March 2025.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo's March 2025 capsule test recommends Dolce Gusto and Nespresso as the best options, with fresh evidence from the latest review.",
       "videoSource": "Migliori Capsule Caffè : marche e prezzi"
     },
     {
@@ -95,29 +95,29 @@
       "displayQuery": "aceto",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:34:34+00:00",
+      "lastUpdatedAt": "2026-04-11T10:15:15+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 guide recommends the DOP‑protected traditional balsamic vinegars from Modena and Reggio Emilia as top choices, citing their authentic production methods, long aging, and quality guarantees.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The Altroconsumo article (published 2025‑08‑29) recommends the two DOP‑labelled balsamic vinegars as the most authentic and high‑quality options, but the information is older than 60 days.",
       "videoSource": "Aceto balsamico: come scegliere quello giusto"
     },
     {
       "categoryKey": "riso",
       "displayQuery": "riso",
-      "hasProducts": false,
+      "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:34:04+00:00",
-      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:14:58+00:00",
+      "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s November 2025 laboratory tests and buying guide recommend Riso Carnaroli and Riso Basmati as top choices, citing their cooking performance and suitability for specific dishes.",
       "videoSource": "Migliori marche di Riso"
     },
     {
@@ -125,7 +125,7 @@
       "displayQuery": "olio",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:33:30+00:00",
+      "lastUpdatedAt": "2026-04-11T10:14:41+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -138,16 +138,16 @@
     {
       "categoryKey": "latte",
       "displayQuery": "latte",
-      "hasProducts": false,
+      "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:33:02+00:00",
-      "productCount": 0,
+      "lastUpdatedAt": "2026-04-11T10:14:24+00:00",
+      "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 review lists ARBOREA and CARREFOUR CLASSIC as top choices for latte, highlighting their quality, price, and availability.",
       "videoSource": "Miglior Latte: marche, prezzi, confezioni"
     },
     {
@@ -155,15 +155,31 @@
       "displayQuery": "pasta",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-04-11T09:32:30+00:00",
+      "lastUpdatedAt": "2026-04-11T10:14:03+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2026 test recommends these brands as top pasta choices.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2026 test lists Barilla and Garofalo as recommended pasta brands, indicating they are top choices for quality and taste.",
       "videoSource": "Migliori marche di Pasta"
+    },
+    {
+      "categoryKey": "acqua",
+      "displayQuery": "Acqua",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-04-11T09:39:52+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo",
+        "Federconsumatori APS"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+      "videoSource": "Acqua"
     },
     {
       "categoryKey": "grissini",
@@ -224,6 +240,6 @@
       "videoSource": "Frigoriferi: marche, recensioni, confronti"
     }
   ],
-  "generatedAt": "2026-04-11T09:37:03+00:00",
+  "generatedAt": "2026-04-11T10:16:47+00:00",
   "success": true
 }

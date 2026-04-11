@@ -5,9 +5,30 @@
   "displayQuery": "latte",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-11T09:33:02+00:00",
+  "lastUpdatedAt": "2026-04-11T10:14:24+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=ARBOREA&tag=your_amazon_tag-20",
+      "name": "ARBOREA",
+      "pros": [
+        "Recommended by Altroconsumo's 2025 test",
+        "Good quality",
+        "Affordable price"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20",
+      "name": "CARREFOUR CLASSIC",
+      "pros": [
+        "Recommended by Altroconsumo's 2025 test",
+        "Good quality",
+        "Widely available"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 review lists ARBOREA and CARREFOUR CLASSIC as top choices for latte, highlighting their quality, price, and availability.",
   "videoSource": "Miglior Latte: marche, prezzi, confezioni",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore"
 }

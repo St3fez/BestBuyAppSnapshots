@@ -1,8 +1,7 @@
 {
   "success": true,
   "generatedAt": "2026-04-11T10:16:47+00:00",
-  "totalCategories": 16,
-  "categoriesWithProducts": 5,
+  "totalCategories": 5,
   "totalProducts": 10,
   "categories": [
     {
@@ -42,22 +41,6 @@
       ]
     },
     {
-      "categoryKey": "acqua",
-      "displayQuery": "Acqua",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T09:39:52+00:00",
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo",
-        "Federconsumatori APS"
-      ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
-      "videoSource": "Acqua",
-      "videoUrl": "https://www.spreaker.com/episode/acqua--28523645",
-      "products": []
-    },
-    {
       "categoryKey": "caffe",
       "displayQuery": "caffe",
       "status": "ready",
@@ -93,63 +76,6 @@
           "rank": 2
         }
       ]
-    },
-    {
-      "categoryKey": "cracker",
-      "displayQuery": "cracker",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T10:16:02+00:00",
-      "sourceSignals": [
-        "official consumer source"
-      ],
-      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
-      "videoSource": null,
-      "videoUrl": null,
-      "products": []
-    },
-    {
-      "categoryKey": "frigorifero",
-      "displayQuery": "frigorifero",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-10T18:34:31+00:00",
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets.",
-      "videoSource": "Frigoriferi: marche, recensioni, confronti",
-      "videoUrl": "https://www.altroconsumo.it/elettrodomestici/frigoriferi",
-      "products": []
-    },
-    {
-      "categoryKey": "grana-padano",
-      "displayQuery": "grana padano",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T10:16:45+00:00",
-      "sourceSignals": [
-        "official consumer source"
-      ],
-      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
-      "videoSource": null,
-      "videoUrl": null,
-      "products": []
-    },
-    {
-      "categoryKey": "grissini",
-      "displayQuery": "Grissini",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T09:26:55+00:00",
-      "sourceSignals": [
-        "official consumer source"
-      ],
-      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and the YouTube fallback is temporarily unavailable because its API quota is exhausted.",
-      "videoSource": null,
-      "videoUrl": null,
-      "products": []
     },
     {
       "categoryKey": "latte",
@@ -188,82 +114,6 @@
       ]
     },
     {
-      "categoryKey": "maionese",
-      "displayQuery": "maionese",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T10:15:44+00:00",
-      "sourceSignals": [
-        "official consumer source",
-        "U.Di.Con.",
-        "UNC"
-      ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
-      "videoSource": "Ue, addio alle bustine monouso al ristorante: dal 2026 cambiano le nostre abitudini",
-      "videoUrl": "https://www.udicon.org/2026/01/21/ue-addio-alle-bustine-monouso-al-ristorante-dal-2026-cambiano-le-nostre-abitudini/",
-      "products": []
-    },
-    {
-      "categoryKey": "mozzarella",
-      "displayQuery": "mozzarella",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T10:16:16+00:00",
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
-      "videoSource": "Mozzarella vaccina",
-      "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella",
-      "products": []
-    },
-    {
-      "categoryKey": "mozzarella-di-bufala",
-      "displayQuery": "mozzarella di bufala",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T10:16:31+00:00",
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The broader official category \"mozzarella\" was checked because exact official tests for \"mozzarella di bufala\" were not available. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
-      "videoSource": "Mozzarella vaccina",
-      "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella",
-      "products": []
-    },
-    {
-      "categoryKey": "olio",
-      "displayQuery": "olio",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T10:14:41+00:00",
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
-      "videoSource": "Olio extravergine di oliva",
-      "videoUrl": "https://www.altroconsumo.it/alimentazione/olio-oliva",
-      "products": []
-    },
-    {
-      "categoryKey": "pandoro",
-      "displayQuery": "Pandoro",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-11T09:16:55+00:00",
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "trustedSourceSummary": "The AI extraction service is temporarily out of quota, so no reliable recommendations could be produced right now.",
-      "videoSource": "Migliori Pandori 2025",
-      "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro/comparatore",
-      "products": []
-    },
-    {
       "categoryKey": "pasta",
       "displayQuery": "pasta",
       "status": "ready",
@@ -298,20 +148,6 @@
           "rank": 2
         }
       ]
-    },
-    {
-      "categoryKey": "pasta-integrale",
-      "displayQuery": "Pasta Integrale",
-      "status": "ready",
-      "productCount": 0,
-      "lastUpdatedAt": "2026-04-10T20:16:10+00:00",
-      "sourceSignals": [
-        "official consumer source"
-      ],
-      "trustedSourceSummary": "No direct trusted-source recommendations from 2025-2026 were found, and no recent review videos were found for this category.",
-      "videoSource": null,
-      "videoUrl": null,
-      "products": []
     },
     {
       "categoryKey": "riso",
