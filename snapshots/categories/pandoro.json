@@ -5,28 +5,18 @@
   "displayQuery": "pandoro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-11T16:07:05+00:00",
+  "lastUpdatedAt": "2026-04-12T06:50:29+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=FAVORINA+%28LIDL%29+PANDORO+CLASSICO&tag=your_amazon_tag-20",
-      "name": "FAVORINA (LIDL) PANDORO CLASSICO",
+      "amazonLink": "https://amazon.com/s?k=Conad&tag=your_amazon_tag-20",
+      "name": "Conad",
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-12-04.",
-        "Extracted directly from the official comparison page 'Migliori Pandori 2025'."
+        "Best purchase recommendation by Altroconsumo 2025",
+        "Good quality with competitive price",
+        "Widely available in supermarkets"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=BISTEFANI+PANDORO&tag=your_amazon_tag-20",
-      "name": "BISTEFANI PANDORO",
-      "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-12-04.",
-        "Extracted directly from the official comparison page 'Migliori Pandori 2025'."
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -37,7 +27,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The AI extraction service was temporarily out of quota during this refresh. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 laboratory and consumer tasting tests recommend Tre Marie and Conad as top pandoro choices; the evidence dates from December 2025, which is older than 60 days.",
   "videoSource": "Migliori Pandori 2025",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro/comparatore"
 }
