@@ -1,22 +1,32 @@
 {
   "cached": true,
   "categoryKey": "miele",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-12T06:52:10+00:00",
+  "lastUpdatedAt": "2026-04-13T07:28:22+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Miele+di+manuka&tag=your_amazon_tag-20",
+      "name": "Miele di manuka",
+      "pros": [
+        "Antimicrobial properties",
+        "Therapeutic benefits",
+        "Unique composition (hydrogen peroxide, low water activity, low pH)"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Official consumer sources from 2025-2026 were found, but they did not contain explicit product recommendations. The YouTube fallback is temporarily unavailable because its API quota is exhausted.",
-  "videoSource": "MIELE TEC645WP",
-  "videoUrl": "https://www.altroconsumo.it/elettrodomestici/asciugatrici/comparatore/miele-tec645wp/33231_124983"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "7 Marche di MIELE Italiano da EVITARE (ma 2 sono ottime)",
+  "videoUrl": "https://www.youtube.com/watch?v=gsaWYaRb2Yw"
 }
