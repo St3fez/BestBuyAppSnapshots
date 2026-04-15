@@ -1,33 +1,32 @@
 {
   "cached": true,
   "categoryKey": "miele",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-14T07:07:13+00:00",
+  "lastUpdatedAt": "2026-04-15T07:07:28+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=Miele+di+manuka&tag=your_amazon_tag-20",
       "name": "Miele di manuka",
       "pros": [
-        "Antimicrobial properties due to hydrogen peroxide and low water activity",
-        "Contains methylglyoxal (MGO) for therapeutic benefits",
-        "Traditionally used in medicine for its healing effects"
+        "Antimicrobial properties",
+        "Therapeutic benefits",
+        "High quality from New Zealand"
       ],
       "rank": 1
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 review highlights Miele di manuka honey’s antimicrobial properties, MGO content, and traditional medicinal use, providing fresh evidence for its recommendation.",
-  "videoSource": "MIELE WWB360 WCS PWASH&8KG",
-  "videoUrl": "https://www.altroconsumo.it/elettrodomestici/lavatrici/comparatore/miele-wwb360-wcs-pwash-8kg/33727_113975"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "7 Marche di MIELE Italiano da EVITARE (ma 2 sono ottime)",
+  "videoUrl": "https://www.youtube.com/watch?v=gsaWYaRb2Yw"
 }
