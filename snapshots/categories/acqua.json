@@ -1,23 +1,31 @@
 {
   "cached": true,
   "categoryKey": "acqua",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-17T07:07:53+00:00",
+  "lastUpdatedAt": "2026-04-18T06:23:26+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Acqua+potabile+%28Tap+water%29&tag=your_amazon_tag-20",
+      "name": "Acqua potabile (Tap water)",
+      "pros": [
+        "Subject to controls as"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo",
     "Federconsumatori APS"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Acqua",
-  "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo, Federconsumatori APS. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "12 Marche di ACQUA Italiana che Devi VIETARE",
+  "videoUrl": "https://www.youtube.com/watch?v=pHCjDxdT0gc"
 }

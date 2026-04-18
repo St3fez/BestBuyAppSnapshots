@@ -5,28 +5,18 @@
   "displayQuery": "biscotti",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-17T07:08:43+00:00",
+  "lastUpdatedAt": "2026-04-18T06:24:27+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Frollini&tag=your_amazon_tag-20",
-      "name": "Frollini",
+      "amazonLink": "https://amazon.com/s?k=ARTEBIANCA+BISCOTTI+AI+CEREALI+Energia+per+100g%3A+473+kcal+Zuccheri+per+100g%3A+21%2C0+g&tag=your_amazon_tag-20",
+      "name": "ARTEBIANCA BISCOTTI AI CEREALI Energia per 100g: 473 kcal Zuccheri per 100g: 21,0 g",
       "pros": [
-        "Recommended by Altroconsumo as a top choice for biscotti",
-        "High fiber content suitable for a balanced diet",
-        "Low calorie option for breakfast biscuits"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-05-22.",
+        "Extracted directly from the official comparison page 'I migliori biscotti integrali a confronto.'."
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Carrefour+Bio&tag=your_amazon_tag-20",
-      "name": "Carrefour Bio",
-      "pros": [
-        "Altroconsumo lists Carrefour Bio among recommended biscotti",
-        "Organic certification ensures quality ingredients",
-        "Good balance of taste and nutritional value"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -37,7 +27,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 report lists Frollini and Carrefour Bio as recommended biscotti, indicating they are among the top choices in their tests.",
-  "videoSource": "Migliori Biscotti per colazione: marche, calorie, classifica",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore"
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+  "videoSource": "I migliori biscotti integrali a confronto.",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore/caratteristiche/biscotti-integrali"
 }
