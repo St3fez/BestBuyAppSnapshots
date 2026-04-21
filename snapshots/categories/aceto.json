@@ -5,30 +5,9 @@
   "displayQuery": "aceto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-20T07:25:34+00:00",
+  "lastUpdatedAt": "2026-04-21T07:07:09+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP&tag=your_amazon_tag-20",
-      "name": "Aceto Balsamico Tradizionale di Modena DOP",
-      "pros": [
-        "Authentic traditional production from selected grape varieties",
-        "Long aging process that enhances flavor complexity",
-        "Protected designation of origin ensures quality standards"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Reggio+Emilia+DOP&tag=your_amazon_tag-20",
-      "name": "Aceto Balsamico Tradizionale di Reggio Emilia DOP",
-      "pros": [
-        "Authentic traditional production with strict regional regulations",
-        "Long aging process for rich, balanced taste",
-        "Protected designation of origin guarantees authenticity"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -37,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 article highlights the two DOP varieties as the most authentic and traditionally aged balsamic vinegars, providing clear guidance on choosing the best product.",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "Aceto balsamico: come scegliere quello giusto",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico"
 }
