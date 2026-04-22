@@ -1,30 +1,33 @@
 {
   "cached": true,
   "categoryKey": "acqua",
-  "channelTitle": "Italia In Scaffale",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-21T07:10:23+00:00",
+  "lastUpdatedAt": "2026-04-22T07:09:39+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Acqua+del+rubinetto&tag=your_amazon_tag-20",
-      "name": "Acqua del rubinetto",
+      "amazonLink": "https://amazon.com/s?k=Better+Life+water+purifier&tag=your_amazon_tag-20",
+      "name": "Better Life water purifier",
       "pros": [
-        "Rig"
+        "Positive user satisfaction reported in an AC Makers survey with over 30 satisfied customers",
+        "Helps eliminate the need for bottled water, reducing plastic waste",
+        "Provides water with improved taste compared to tap water"
       ],
       "rank": 1
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "12 Marche di ACQUA Italiana che Devi VIETARE",
-  "videoUrl": "https://www.youtube.com/watch?v=pHCjDxdT0gc"
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo cites an AC Makers survey from April 2025 indicating user satisfaction with Better Life water purifiers, making it a recommended choice. The evidence is older than 60 days.",
+  "videoSource": "Acqua",
+  "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
 }

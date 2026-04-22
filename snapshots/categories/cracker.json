@@ -1,22 +1,30 @@
 {
   "cached": true,
   "categoryKey": "cracker",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Goodausy",
   "displayQuery": "cracker",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-21T07:15:10+00:00",
+  "lastUpdatedAt": "2026-04-22T07:14:15+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
-  "refreshRequested": false,
-  "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Gran+Pavesi+Sfoglie+Crispy+Pepe+e+Lime&tag=your_amazon_tag-20",
+      "name": "Gran Pavesi Sfoglie Crispy Pepe e Lime",
+      "pros": [
+        "Bold and intense flavor profile",
+        "Thin and crispy texture",
+        "Unique seasoning combination of pepper and lime"
+      ],
+      "rank": 1
+    }
   ],
+  "refreshRequested": false,
+  "sourceSignals": [],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Migliori braccialetti fitness",
-  "videoUrl": "https://www.altroconsumo.it/hi-tech/wearable/fitness-tracker-comparatore"
+  "trustedSourceSummary": "Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "Recensiamo Novità Gran Pavesi Sfoglie Crispy Pepe e Lime 🍋",
+  "videoUrl": "https://www.youtube.com/watch?v=sRUyydYiu3U"
 }

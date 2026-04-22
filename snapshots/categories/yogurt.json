@@ -1,22 +1,32 @@
 {
   "cached": true,
   "categoryKey": "yogurt",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "yogurt",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-21T07:10:45+00:00",
+  "lastUpdatedAt": "2026-04-22T07:10:09+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Yogurt+greco&tag=your_amazon_tag-20",
+      "name": "Yogurt greco",
+      "pros": [
+        "Higher protein content than regular yogurt",
+        "More compact, suitable for recipes",
+        "Perceived as fit and popular"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Yogurt Greco: calorie, proteine e differenze con lo yogurt",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/speciali/yogurt-greco"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "7 Marche di YOGURT da EVITARE (ma 2 sono ottime)",
+  "videoUrl": "https://www.youtube.com/watch?v=xqfZlayjLvo"
 }
