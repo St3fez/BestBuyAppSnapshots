@@ -1,22 +1,31 @@
 {
   "cached": true,
   "categoryKey": "acqua",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Il Carrello degli Italiani",
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-24T07:16:08+00:00",
+  "lastUpdatedAt": "2026-04-25T06:50:10+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Acqua+del+rubinetto&tag=your_amazon_tag-20",
+      "name": "Acqua del rubinetto",
+      "pros": [
+        "Subject to rigorous safety controls"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
+    "altroconsumo",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Acqua",
-  "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: altroconsumo",
+  "videoSource": "7 Marche di ACQUA che DEVI EVITARE! (ATTENZIONE ANZIANI!)",
+  "videoUrl": "https://www.youtube.com/watch?v=oeTj1xqaexU"
 }

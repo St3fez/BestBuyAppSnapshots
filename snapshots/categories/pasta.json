@@ -5,18 +5,28 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-24T07:12:01+00:00",
+  "lastUpdatedAt": "2026-04-25T06:46:22+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=PASTA+REALE+%28MD%29+PENNE+RIGATE&tag=your_amazon_tag-20",
-      "name": "PASTA REALE (MD) PENNE RIGATE",
+      "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
+      "name": "BARILLA",
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2026-01-26.",
-        "Extracted directly from the official comparison page 'Migliori marche di Pasta'."
+        "Recommended by Altroconsumo",
+        "Lab-tested for quality",
+        "Good price range"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=AGNESI&tag=your_amazon_tag-20",
+      "name": "AGNESI",
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Lab-tested for quality",
+        "Good price range"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -27,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2026 report recommends these brands based on laboratory tests and consumer ratings.",
   "videoSource": "Migliori marche di Pasta",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore"
 }

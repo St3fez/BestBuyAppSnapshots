@@ -1,22 +1,30 @@
 {
   "cached": true,
   "categoryKey": "burro",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Cibo Serio",
   "displayQuery": "burro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-24T07:15:00+00:00",
+  "lastUpdatedAt": "2026-04-25T06:49:14+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Burro+irlandese&tag=your_amazon_tag-20",
+      "name": "Burro irlandese",
+      "pros": [
+        "Considered"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Burro: come sceglierlo, tipi, calorie e quanto consumarne",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/guida-acquisto/scegliere-burro"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "👉  Burro irlandese o bavarese: perché sono migliori di quello italiano?",
+  "videoUrl": "https://www.youtube.com/watch?v=5lC_I0UGrCY"
 }
