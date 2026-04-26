@@ -5,30 +5,9 @@
   "displayQuery": "biscotti",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-25T06:50:44+00:00",
+  "lastUpdatedAt": "2026-04-26T07:09:46+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Frollini&tag=your_amazon_tag-20",
-      "name": "Frollini",
-      "pros": [
-        "Top ranking in Altroconsumo's 2025 biscotti bio test",
-        "High fiber content",
-        "Affordable price"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Integrali+e+con+fibre&tag=your_amazon_tag-20",
-      "name": "Integrali e con fibre",
-      "pros": [
-        "Recommended by Altroconsumo in 2025 biscotti bio list",
-        "Rich in dietary fiber",
-        "Positive consumer reviews"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -37,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 reports recommend Frollini and Integrali e con fibre as top biscotti choices, based on lab tests and consumer ratings.",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "Migliori Biscotti per colazione: marche, calorie, classifica",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore"
 }
