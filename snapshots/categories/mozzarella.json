@@ -1,32 +1,22 @@
 {
   "cached": true,
   "categoryKey": "mozzarella",
-  "channelTitle": "Best Choice",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-26T07:13:00+00:00",
+  "lastUpdatedAt": "2026-04-27T07:50:33+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=mozzarella+vaccina&tag=your_amazon_tag-20",
-      "name": "mozzarella vaccina",
-      "pros": [
-        "gusto delicato",
-        "consistenza perfetta",
-        "classico italiano"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "The Top 5 Best Cream Cheese Starter Culture in 2026 - Must Watch Before Buying!",
-  "videoUrl": "https://www.youtube.com/watch?v=eqz7NhvZdjw"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Mozzarella vaccina",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella"
 }

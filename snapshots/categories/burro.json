@@ -1,33 +1,30 @@
 {
   "cached": true,
   "categoryKey": "burro",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Cibo Serio",
   "displayQuery": "burro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-26T07:07:50+00:00",
+  "lastUpdatedAt": "2026-04-27T07:45:06+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Burro+da+centrifuga&tag=your_amazon_tag-20",
-      "name": "Burro da centrifuga",
+      "amazonLink": "https://amazon.com/s?k=Irish+butter&tag=your_amazon_tag-20",
+      "name": "Irish butter",
       "pros": [
-        "Considered higher quality than butter made from cream separation",
-        "Produced by rapid centrifugation, resulting in sweeter and better taste",
-        "Preferred by Altroconsumo as top choice for butter selection"
+        "Considered better than Italian butter"
       ],
       "rank": 1
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 guide recommends butter made by centrifugation as the superior choice, citing its higher quality, sweeter flavor and production method.",
-  "videoSource": "Burro: come sceglierlo, tipi, calorie e quanto consumarne",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/guida-acquisto/scegliere-burro"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "👉  Burro irlandese o bavarese: perché sono migliori di quello italiano?",
+  "videoUrl": "https://www.youtube.com/watch?v=5lC_I0UGrCY"
 }
