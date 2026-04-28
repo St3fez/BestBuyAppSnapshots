@@ -1,22 +1,30 @@
 {
   "cached": true,
   "categoryKey": "biscotti",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "nutri.andrea.filipponi",
   "displayQuery": "biscotti",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-27T07:47:01+00:00",
+  "lastUpdatedAt": "2026-04-28T07:46:20+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
+      "name": "ALCE NERO",
+      "pros": [
+        "Mentioned in Altroconsumo"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Migliori Biscotti per colazione: marche, calorie, classifica",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "🏅BISCOTTI PER DIMAGRIRE: la mia classifica #nutrizionista #nutrizione #dieta #dimagrire #biscotti",
+  "videoUrl": "https://www.youtube.com/watch?v=9s5cXqX-Yzg"
 }

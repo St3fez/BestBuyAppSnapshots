@@ -1,22 +1,32 @@
 {
   "cached": true,
   "categoryKey": "mozzarella",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Dentro lo Scaffale",
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-27T07:50:33+00:00",
+  "lastUpdatedAt": "2026-04-28T07:49:49+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Mozzarella+vaccina&tag=your_amazon_tag-20",
+      "name": "Mozzarella vaccina",
+      "pros": [
+        "gusto delicato",
+        "consistenza perfetta",
+        "classico italiano"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Mozzarella vaccina",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "La MOZZARELLA che Compri è Davvero Sicura? 🚨 5 Marche da Evitare",
+  "videoUrl": "https://www.youtube.com/watch?v=LhTbGmaoYNs"
 }

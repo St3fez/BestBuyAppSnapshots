@@ -1,33 +1,32 @@
 {
   "cached": true,
   "categoryKey": "miele",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-27T07:47:47+00:00",
+  "lastUpdatedAt": "2026-04-28T07:47:21+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=MIELE+WWB360+WCS+PWASH%268KG&tag=your_amazon_tag-20",
-      "name": "MIELE WWB360 WCS PWASH&8KG",
+      "amazonLink": "https://amazon.com/s?k=Miele+di+manuka&tag=your_amazon_tag-20",
+      "name": "Miele di manuka",
       "pros": [
-        "Excellent overall judgment",
-        "Features rated 5 stars",
-        "Declared energy class A"
+        "Antimicrobial effects",
+        "Contains hydrogen peroxide",
+        "Low water activity and pH"
       ],
       "rank": 1
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
-  "videoSource": "MIELE WWB360 WCS PWASH&8KG",
-  "videoUrl": "https://www.altroconsumo.it/elettrodomestici/lavatrici/comparatore/miele-wwb360-wcs-pwash-8kg/33727_113975"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "7 Marche di MIELE Italiano da EVITARE (ma 2 sono ottime)",
+  "videoUrl": "https://www.youtube.com/watch?v=gsaWYaRb2Yw"
 }
