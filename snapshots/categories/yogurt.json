@@ -1,22 +1,33 @@
 {
   "cached": true,
   "categoryKey": "yogurt",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Matteo Sciaudone",
   "displayQuery": "yogurt",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-29T07:41:41+00:00",
+  "lastUpdatedAt": "2026-04-30T07:42:06+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Yogurt+Greco&tag=your_amazon_tag-20",
+      "name": "Yogurt Greco",
+      "pros": [
+        "Higher protein content",
+        "More compact",
+        "Perceived as fit"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
+    "unc",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Yogurt Greco: calorie, proteine e differenze con lo yogurt",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/speciali/yogurt-greco"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: unc",
+  "videoSource": "SCOPRI LA CALSSIFICA DEGLI YOGURT MIGLIORI PER DIMAGRIRE!😯",
+  "videoUrl": "https://www.youtube.com/watch?v=AsBjkLFPdB0"
 }

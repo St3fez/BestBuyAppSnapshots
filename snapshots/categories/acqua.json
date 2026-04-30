@@ -5,18 +5,9 @@
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-29T07:41:19+00:00",
+  "lastUpdatedAt": "2026-04-30T07:41:50+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Better+Life&tag=your_amazon_tag-20",
-      "name": "Better Life",
-      "pros": [
-        "High user satisfaction reported in AC Makers surveys"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -25,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "Acqua",
   "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
 }
