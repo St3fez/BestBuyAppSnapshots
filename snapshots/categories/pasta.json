@@ -5,28 +5,16 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-04-30T07:38:25+00:00",
+  "lastUpdatedAt": "2026-05-01T07:37:12+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Barilla&tag=your_amazon_tag-20",
-      "name": "Barilla",
+      "amazonLink": "https://amazon.com/s?k=CONAD+SPAGHETTI+N.5&tag=your_amazon_tag-20",
+      "name": "CONAD SPAGHETTI N.5",
       "pros": [
-        "Durum wheat semolina ensures good texture",
-        "Tested and recommended by Altroconsumo in January 2026",
-        "Competitive price"
+        "Explicit"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Garofalo&tag=your_amazon_tag-20",
-      "name": "Garofalo",
-      "pros": [
-        "Durum wheat semolina ensures good texture",
-        "Tested and recommended by Altroconsumo in January 2026",
-        "Competitive price"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -37,7 +25,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 test recommends Barilla and Garofalo as top pasta brands based on quality, texture and price.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
   "videoSource": "Migliori marche di Pasta",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore"
 }
