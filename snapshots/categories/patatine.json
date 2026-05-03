@@ -5,16 +5,28 @@
   "displayQuery": "patatine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-02T07:09:30+00:00",
+  "lastUpdatedAt": "2026-05-03T07:28:42+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS&tag=your_amazon_tag-20",
       "name": "AMICA CHIPS",
       "pros": [
-        "Recommended by Altroconsumo"
+        "Recommended by Altroconsumo",
+        "High quality taste",
+        "Affordable price"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20",
+      "name": "CARREFOUR CLASSIC",
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Consistent flavor",
+        "Good value"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 review lists AMICA CHIPS and CARREFOUR CLASSIC among its top‑rated potato chips, indicating they are considered good choices by the consumer organization. The source is fresh, published in December 2025.",
   "videoSource": "Migliori marche di patatine",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore"
 }

@@ -1,43 +1,30 @@
 {
   "cached": true,
   "categoryKey": "aceto",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Dott. Marco Bellini",
   "displayQuery": "aceto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-02T07:08:33+00:00",
+  "lastUpdatedAt": "2026-05-03T07:27:51+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP&tag=your_amazon_tag-20",
-      "name": "Aceto Balsamico Tradizionale di Modena DOP",
+      "amazonLink": "https://amazon.com/s?k=Traditional+Balsamic+Vinegar+of+Modena+DOP&tag=your_amazon_tag-20",
+      "name": "Traditional Balsamic Vinegar of Modena DOP",
       "pros": [
-        "Authentic traditional production",
-        "High quality from selected grapes",
-        "Highly regarded worldwide"
+        "Symbol of Em"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+di+Modena+IGP&tag=your_amazon_tag-20",
-      "name": "Aceto Balsamico di Modena IGP",
-      "pros": [
-        "Widely available and affordable",
-        "Standardized production ensuring consistency",
-        "Versatile for both savory and sweet dishes"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 review highlights the Modena DOP as the most authentic balsamic vinegar and the Modena IGP as the most accessible option, providing clear guidance for consumers.",
-  "videoSource": "Aceto balsamico: come scegliere quello giusto",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "7 MARCHE di Latte FALSO Che Devi Evitare a Tutti i Costi",
+  "videoUrl": "https://www.youtube.com/watch?v=6PCuh8scexU"
 }
