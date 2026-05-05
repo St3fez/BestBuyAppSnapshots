@@ -5,28 +5,39 @@
   "displayQuery": "cracker",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-04T08:11:22+00:00",
+  "lastUpdatedAt": "2026-05-05T07:35:29+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=lentil+crackers&tag=your_amazon_tag-20",
-      "name": "lentil crackers",
+      "amazonLink": "https://amazon.com/s?k=MONVISO+CRACKER+SENZA+LIEVITO&tag=your_amazon_tag-20",
+      "name": "MONVISO CRACKER SENZA LIEVITO",
       "pros": [
-        "crispy",
-        "crunchy",
-        "high protein"
+        "Senza lievito",
+        "Basso contenuto in fibra",
+        "Energia per porzione 125 kcal"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=MISURA+FIBREXTRA+CRACKER+CAROTA+E+RISO+INTEGRALE&tag=your_amazon_tag-20",
+      "name": "MISURA FIBREXTRA CRACKER CAROTA E RISO INTEGRALE",
+      "pros": [
+        "Con farina integrale",
+        "Alto contenuto in fibra",
+        "Energia per porzione 122 kcal"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "unc"
+    "unc",
+    "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Trusted consumer references detected in the source material: unc",
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: unc",
   "videoSource": "STOP Buying Crackers! 🛑 Make These EASY High Protein Lentil Crackers",
   "videoUrl": "https://www.youtube.com/watch?v=VwkkrtDzCEU"
 }
