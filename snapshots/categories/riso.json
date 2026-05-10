@@ -5,16 +5,28 @@
   "displayQuery": "riso",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-09T07:21:12+00:00",
+  "lastUpdatedAt": "2026-05-10T07:34:22+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=CONAD+RISO+BASMATI&tag=your_amazon_tag-20",
-      "name": "CONAD RISO BASMATI",
+      "amazonLink": "https://amazon.com/s?k=Riso+Carnaroli&tag=your_amazon_tag-20",
+      "name": "Riso Carnaroli",
       "pros": [
-        "Explicit"
+        "Italian excellence with large, tapered grains that absorb sauces well",
+        "Ideal for risotto and maintains al dente texture",
+        "Excellent cooking performance"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Riso+Basmati&tag=your_amazon_tag-20",
+      "name": "Riso Basmati",
+      "pros": [
+        "Long grains with distinctive aroma",
+        "Suitable for dishes requiring fluffy texture",
+        "Originates from India/Pakistan"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 laboratory tests recommend Riso Carnaroli and Riso Basmati as top choices, with recent data published on 20 November 2025.",
   "videoSource": "Migliori marche di Riso",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore"
 }

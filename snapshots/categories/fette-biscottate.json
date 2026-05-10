@@ -5,28 +5,16 @@
   "displayQuery": "fette biscottate",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-09T07:27:03+00:00",
+  "lastUpdatedAt": "2026-05-10T07:40:14+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=MULINO+BIANCO&tag=your_amazon_tag-20",
-      "name": "MULINO BIANCO",
+      "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+%28EUROSPIN%29&tag=your_amazon_tag-20",
+      "name": "AMO ESSERE (EUROSPIN)",
       "pros": [
-        "High Altroconsumo lab score",
-        "Excellent nutritional profile",
-        "Transparent ingredient list"
+        "Recommended by"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=GRISSINBON&tag=your_amazon_tag-20",
-      "name": "GRISSINBON",
-      "pros": [
-        "Top Altroconsumo ranking",
-        "Balanced nutrition",
-        "Clear labeling"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -37,7 +25,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 lab tests recommend these brands as top picks based on nutrition and ingredient transparency.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
   "videoSource": "Migliori marche di fette biscottate",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/fette-biscottate/comparatore"
 }
