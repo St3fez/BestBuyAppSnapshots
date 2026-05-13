@@ -5,26 +5,26 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-12T08:04:39+00:00",
+  "lastUpdatedAt": "2026-05-13T08:12:04+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
-      "name": "BARILLA",
-      "pros": [
-        "Officially recommended by Altroconsumo",
-        "High quality semolina",
-        "Good price/quality ratio"
-      ],
-      "rank": 1
-    },
     {
       "amazonLink": "https://amazon.com/s?k=AGNESI&tag=your_amazon_tag-20",
       "name": "AGNESI",
       "pros": [
-        "Officially recommended by Altroconsumo",
-        "Excellent taste and consistency",
-        "Widely available"
+        "Top ranking in Altroconsumo quality tests",
+        "Excellent consistency and taste",
+        "Good price-to-quality ratio"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=ARMANDO&tag=your_amazon_tag-20",
+      "name": "ARMANDO",
+      "pros": [
+        "Top ranking in Altroconsumo quality tests",
+        "Excellent consistency and taste",
+        "Good price-to-quality ratio"
       ],
       "rank": 2
     }
@@ -37,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2026 test lists BARILLA and AGNESI among its top pasta recommendations.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s January 2026 tests rank AGNESI and ARMANDO as the best pasta brands, offering high quality, great taste and good value.",
   "videoSource": "Migliori marche di Pasta",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore"
 }
