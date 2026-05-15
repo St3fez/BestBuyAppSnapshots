@@ -1,32 +1,22 @@
 {
   "cached": true,
   "categoryKey": "mozzarella",
-  "channelTitle": "Miss Shelly",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-14T08:10:59+00:00",
+  "lastUpdatedAt": "2026-05-15T08:24:31+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Galbani+fresh+mozzarella+cheese&tag=your_amazon_tag-20",
-      "name": "Galbani fresh mozzarella cheese",
-      "pros": [
-        "Recommended for easy pizza recipes",
-        "Fresh mozzarella variety",
-        "Featured in a curated best shopping list"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "The best easy Pizza Shopping/Pantry list below",
-  "videoUrl": "https://www.youtube.com/watch?v=87Qly10TRK4"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Mozzarella vaccina",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella"
 }

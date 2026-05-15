@@ -5,28 +5,18 @@
   "displayQuery": "cracker",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-14T08:10:26+00:00",
+  "lastUpdatedAt": "2026-05-15T08:24:03+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Lentil+Crackers&tag=your_amazon_tag-20",
-      "name": "Lentil Crackers",
-      "pros": [
-        "High protein",
-        "Crispy and crunchy",
-        "Easy to make"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "unc"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Trusted consumer references detected in the source material: unc",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "STOP Buying Crackers! 🛑 Make These EASY High Protein Lentil Crackers",
   "videoUrl": "https://www.youtube.com/watch?v=VwkkrtDzCEU"
 }
