@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-05-19T08:49:25+00:00",
+  "generatedAt": "2026-05-20T08:45:48+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -108,7 +108,7 @@
     },
     {
       "category": "panettone",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'panettone'. Last status: refreshing"
     },
     {
       "category": "fette biscottate",
