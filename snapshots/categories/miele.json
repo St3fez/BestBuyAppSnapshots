@@ -1,32 +1,43 @@
 {
   "cached": true,
   "categoryKey": "miele",
-  "channelTitle": "Cookist",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-20T08:41:19+00:00",
+  "lastUpdatedAt": "2026-05-21T08:48:55+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Miele+di+manuka&tag=your_amazon_tag-20",
-      "name": "Miele di manuka",
+      "amazonLink": "https://amazon.com/s?k=MIELE+WWB360+WCS+PWASH%268KG&tag=your_amazon_tag-20",
+      "name": "MIELE WWB360 WCS PWASH&8KG",
       "pros": [
-        "Antimicrobial properties from hydrogen peroxide",
-        "Low water activity and low pH enhance preservation",
-        "Authentic New Zealand origin ensures quality"
+        "8 kg capacity suitable for medium families",
+        "1400 g/min spin speed for efficient drying",
+        "Inverter motor for energy efficiency"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=MIELE+WQ+1000+WPS&tag=your_amazon_tag-20",
+      "name": "MIELE WQ 1000 WPS",
+      "pros": [
+        "9 kg capacity ideal for large families",
+        "1600 g/min spin speed for low moisture",
+        "5-star rating from Altroconsumo lab tests"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "Attenzione al FALSO MIELE: come riconoscerlo e cosa notare sull'etichetta 🍯​",
-  "videoUrl": "https://www.youtube.com/watch?v=8rW2uNRZRLo"
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 5-star reviews for both models, published in December 2025, support them as top picks, though the evidence is older than 60 days.",
+  "videoSource": "MIELE WWB360 WCS PWASH&8KG",
+  "videoUrl": "https://www.altroconsumo.it/elettrodomestici/lavatrici/comparatore/miele-wwb360-wcs-pwash-8kg/33727_113975"
 }
