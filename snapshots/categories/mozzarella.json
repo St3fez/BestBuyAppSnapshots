@@ -5,30 +5,9 @@
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-21T08:51:11+00:00",
+  "lastUpdatedAt": "2026-05-22T08:45:22+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Migliore+del+test+Altroconsumo+67&tag=your_amazon_tag-20",
-      "name": "Migliore del test Altroconsumo 67",
-      "pros": [
-        "Good quality",
-        "Lab‑tested",
-        "Reasonably priced (€2.97 per pack)"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Miglior+acquisto+Altroconsumo+66&tag=your_amazon_tag-20",
-      "name": "Miglior acquisto Altroconsumo 66",
-      "pros": [
-        "Good quality",
-        "Lab‑tested",
-        "Reasonably priced (€3.32 per pack)"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -37,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s 2026 test highlighted these two mozzarella brands as top picks, noting good quality, lab testing, and moderate prices.",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "Mozzarella vaccina",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella"
 }
