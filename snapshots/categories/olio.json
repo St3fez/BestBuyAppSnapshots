@@ -5,9 +5,30 @@
   "displayQuery": "olio",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-22T08:37:50+00:00",
+  "lastUpdatedAt": "2026-05-23T07:45:06+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Miglior+acquisto+Altroconsumo+77&tag=your_amazon_tag-20",
+      "name": "Miglior acquisto Altroconsumo 77",
+      "pros": [
+        "Qualità buona",
+        "Prezzo medio 11,03 €",
+        "Prodotto testato in laboratorio"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Miglior+acquisto+Altroconsumo+86&tag=your_amazon_tag-20",
+      "name": "Miglior acquisto Altroconsumo 86",
+      "pros": [
+        "Qualità ottima",
+        "Prezzo medio 11,69 €",
+        "Prodotto testato in laboratorio"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 test highlights two top‑picking extra‑virgin olive oils, both lab‑tested and priced around €11 per bottle.",
   "videoSource": "Olio extravergine di oliva",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/olio-oliva"
 }
