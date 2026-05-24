@@ -5,26 +5,26 @@
   "displayQuery": "passata",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-23T07:43:32+00:00",
+  "lastUpdatedAt": "2026-05-24T08:02:28+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=DELIZIE+DAL+SOLE+%28EUROSPIN%29&tag=your_amazon_tag-20",
-      "name": "DELIZIE DAL SOLE (EUROSPIN)",
-      "pros": [
-        "Lab-tested top performance among tested brands",
-        "Competitive price (around €1.16/kg)",
-        "Widely available in supermarkets"
-      ],
-      "rank": 1
-    },
     {
       "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
       "name": "ALCE NERO",
       "pros": [
-        "Lab-tested high quality",
-        "Affordable price range",
-        "Recommended by Altroconsumo"
+        "Tested in laboratory by Altroconsumo",
+        "Recommended by Altroconsumo",
+        "Available at good price"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CASAR&tag=your_amazon_tag-20",
+      "name": "CASAR",
+      "pros": [
+        "Tested in laboratory by Altroconsumo",
+        "Recommended by Altroconsumo",
+        "Available at good price"
       ],
       "rank": 2
     }
@@ -37,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s June 2025 laboratory tests recommend these brands as the best passata options, offering proven quality and good value.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 laboratory tests recommend these brands as top picks for passata.",
   "videoSource": "Migliori Passate di pomodoro",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore"
 }
