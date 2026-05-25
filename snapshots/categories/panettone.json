@@ -5,28 +5,16 @@
   "displayQuery": "panettone",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-24T08:08:03+00:00",
+  "lastUpdatedAt": "2026-05-25T09:13:13+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=PANETTONE&tag=your_amazon_tag-20",
-      "name": "PANETTONE",
-      "pros": [
-        "Top pick in Altroconsumo's 2025 laboratory comparison",
-        "Excellent overall quality and flavor",
-        "Competitive price range (up to €6.0 per kg)"
-      ],
-      "rank": 1
-    },
     {
       "amazonLink": "https://amazon.com/s?k=COOP+PANETTONE+CLASSICO&tag=your_amazon_tag-20",
       "name": "COOP PANETTONE CLASSICO",
       "pros": [
-        "Featured in Altroconsumo's 2025 lab test",
-        "Good balance of ingredients and taste",
-        "Reasonable price (€6.09 per kg)"
+        "Explicitly"
       ],
-      "rank": 2
+      "rank": 1
     }
   ],
   "refreshRequested": false,
@@ -37,7 +25,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 laboratory tests recommend PANETTONE and COOP PANETTONE CLASSICO as the best choices; the evidence is fresh (published December 2025).",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
   "videoSource": "Migliori Panettoni 2025",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore"
 }
