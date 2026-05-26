@@ -5,9 +5,30 @@
   "displayQuery": "biscotti",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-05-25T09:11:11+00:00",
+  "lastUpdatedAt": "2026-05-26T08:48:26+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=GULLON+Cuor+di+Cereale+Integrale+con+Fiocchi+di+Avena+Senza+Zuccheri+Aggiunti&tag=your_amazon_tag-20",
+      "name": "GULLON Cuor di Cereale Integrale con Fiocchi di Avena Senza Zuccheri Aggiunti",
+      "pros": [
+        "Highest score in Altroconsumo's 2026 test",
+        "No added sugars",
+        "High fibre content from oats"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=BALOCCO+Zeropi%C3%B9+7+cereali+corn+flakes&tag=your_amazon_tag-20",
+      "name": "BALOCCO Zeropiù 7 cereali corn flakes",
+      "pros": [
+        "Top performer in Altroconsumo's 2026 ranking",
+        "Contains 7 cereals for balanced nutrition",
+        "Zero added sugar"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s April 2026 test identifies these biscuits as top picks for low‑sugar, high‑fiber options, providing fresh evidence for consumers.",
   "videoSource": "Migliori Biscotti per colazione: marche, calorie, classifica",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore"
 }
