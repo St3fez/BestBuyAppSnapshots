@@ -1,7 +1,7 @@
 {
   "success": true,
-  "generatedAt": "2026-05-29T09:01:09+00:00",
-  "totalCategories": 14,
+  "generatedAt": "2026-05-30T07:59:46+00:00",
+  "totalCategories": 15,
   "totalProducts": 25,
   "categories": [
     {
@@ -9,12 +9,12 @@
       "displayQuery": "aceto",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:52:50+00:00",
+      "lastUpdatedAt": "2026-05-30T07:51:47+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 guide highlights the two DOP varieties as top choices, noting their strict production standards, aging, and quality. The evidence is recent (published within the last 60 days).",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 review highlights the DOP as the most authentic and the IGP as the most accessible, providing clear guidance for consumers.",
       "videoSource": "Aceto balsamico: come scegliere quello giusto",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico",
       "products": [
@@ -22,21 +22,46 @@
           "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP&tag=your_amazon_tag-20",
           "name": "Aceto Balsamico Tradizionale di Modena DOP",
           "pros": [
-            "Authentic DOP certification ensures strict production standards",
-            "Made exclusively from cooked grape must of selected varieties",
-            "Long aging process enhances flavor complexity"
+            "Authentic traditional production from selected vineyards",
+            "Produced exclusively from cooked grape must",
+            "Highest quality designation (DOP)"
           ],
           "rank": 1
         },
         {
-          "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Reggio+Emilia+DOP&tag=your_amazon_tag-20",
-          "name": "Aceto Balsamico Tradizionale di Reggio Emilia DOP",
+          "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+di+Modena+IGP&tag=your_amazon_tag-20",
+          "name": "Aceto Balsamico di Modena IGP",
           "pros": [
-            "DOP certification guarantees traditional production methods",
-            "Produced from high-quality grape must",
-            "Aging in wooden barrels imparts unique aroma"
+            "Most common and accessible on the market",
+            "Produced with regulated production methods",
+            "Affordable price point"
           ],
           "rank": 2
+        }
+      ]
+    },
+    {
+      "categoryKey": "burro",
+      "displayQuery": "burro",
+      "status": "ready",
+      "productCount": 1,
+      "lastUpdatedAt": "2026-05-30T07:53:34+00:00",
+      "sourceSignals": [
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+      "videoSource": "👉  Burro irlandese o bavarese: perché sono migliori di quello italiano?",
+      "videoUrl": "https://www.youtube.com/watch?v=5lC_I0UGrCY",
+      "products": [
+        {
+          "amazonLink": "https://amazon.com/s?k=Burro+di+arachidi&tag=your_amazon_tag-20",
+          "name": "Burro di arachidi",
+          "pros": [
+            "Low sugar content",
+            "Rich in healthy fats",
+            "High protein"
+          ],
+          "rank": 1
         }
       ]
     },
@@ -45,13 +70,13 @@
       "displayQuery": "caffe",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:52:36+00:00",
+      "lastUpdatedAt": "2026-05-30T07:51:34+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo",
         "Assoutenti APS"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo's 2025 test recommends Dolce Gusto and Nespresso as top capsule brands, citing quality and price. The evidence is older than 60 days.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo’s 2025 review lists Dolce Gusto and Nespresso as top capsule brands, citing taste, compatibility and overall quality. The data is recent (published March 2025).",
       "videoSource": "Migliori Capsule Caffè : marche e prezzi",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore",
       "products": [
@@ -60,8 +85,8 @@
           "name": "Dolce Gusto",
           "pros": [
             "Recommended by Altroconsumo",
-            "High quality coffee",
-            "Compatible with many machines"
+            "High quality taste",
+            "Compatible with a wide range of machines"
           ],
           "rank": 1
         },
@@ -70,8 +95,8 @@
           "name": "Nespresso",
           "pros": [
             "Recommended by Altroconsumo",
-            "High quality coffee",
-            "Wide range of flavors"
+            "Premium flavor profile",
+            "Wide availability of capsules"
           ],
           "rank": 2
         }
@@ -81,35 +106,25 @@
       "categoryKey": "fette-biscottate",
       "displayQuery": "fette biscottate",
       "status": "ready",
-      "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:59:13+00:00",
+      "productCount": 1,
+      "lastUpdatedAt": "2026-05-30T07:57:53+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 lab tests recommend these brands as top picks for fette biscottate; evidence is fresh (published 2026-01-15).",
       "videoSource": "Migliori marche di fette biscottate",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/fette-biscottate/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+%28EUROSPIN%29+FETTE+BISCOTTATE+SENZA+GLUTINE&tag=your_amazon_tag-20",
-          "name": "AMO ESSERE (EUROSPIN) FETTE BISCOTTATE SENZA GLUTINE",
+          "amazonLink": "https://amazon.com/s?k=MULINO+BIANCO&tag=your_amazon_tag-20",
+          "name": "MULINO BIANCO",
           "pros": [
-            "Taken from the latest official consumer comparison available in the allowed year window.",
-            "Published by Altroconsumo on 2026-01-15.",
-            "Extracted directly from the official comparison page 'Migliori marche di fette biscottate'."
+            "Recommended by Altroconsumo based on lab tests",
+            "Included in Altroconsumo's top picks list for fette biscottate",
+            "Identified as a high-quality option in the 2026 comparison"
           ],
           "rank": 1
-        },
-        {
-          "amazonLink": "https://amazon.com/s?k=BENES%C3%8C+%28COOP%29+FETTE+BISCOTTATE+A+BASSISSIMO+CONTENUTO+DI+SALE&tag=your_amazon_tag-20",
-          "name": "BENESÌ (COOP) FETTE BISCOTTATE A BASSISSIMO CONTENUTO DI SALE",
-          "pros": [
-            "Taken from the latest official consumer comparison available in the allowed year window.",
-            "Published by Altroconsumo on 2026-01-15.",
-            "Extracted directly from the official comparison page 'Migliori marche di fette biscottate'."
-          ],
-          "rank": 2
         }
       ]
     },
@@ -118,32 +133,32 @@
       "displayQuery": "latte",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:52:19+00:00",
+      "lastUpdatedAt": "2026-05-30T07:51:15+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2025 report lists ARBOREA and CARREFOUR CLASSIC as top latte picks based on quality and price. The evidence is from April 2025, older than 60 days.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Miglior Latte: marche, prezzi, confezioni",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=ARBOREA&tag=your_amazon_tag-20",
-          "name": "ARBOREA",
+          "amazonLink": "https://amazon.com/s?k=LAND+%28EUROSPIN%29+LATTE+PARZIALMENTE+SCREMATO+UHT+A+LUNGA+CONSERVAZIONE+OMOGENEIZZATO&tag=your_amazon_tag-20",
+          "name": "LAND (EUROSPIN) LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE OMOGENEIZZATO",
           "pros": [
-            "Recommended by Altroconsumo",
-            "Good quality",
-            "Affordable price"
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-04-22.",
+            "Extracted directly from the official comparison page 'Miglior Latte: marche, prezzi, confezioni'."
           ],
           "rank": 1
         },
         {
-          "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20",
-          "name": "CARREFOUR CLASSIC",
+          "amazonLink": "https://amazon.com/s?k=MILBONA+%28LIDL%29+LATTE+PARZIALMENTE+SCREMATO+UHT+A+LUNGA+CONSERVAZIONE&tag=your_amazon_tag-20",
+          "name": "MILBONA (LIDL) LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE",
           "pros": [
-            "Recommended by Altroconsumo",
-            "Good quality",
-            "Affordable price"
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-04-22.",
+            "Extracted directly from the official comparison page 'Miglior Latte: marche, prezzi, confezioni'."
           ],
           "rank": 2
         }
@@ -154,7 +169,7 @@
       "displayQuery": "miele",
       "status": "ready",
       "productCount": 1,
-      "lastUpdatedAt": "2026-05-29T08:57:41+00:00",
+      "lastUpdatedAt": "2026-05-30T07:56:25+00:00",
       "sourceSignals": [
         "Altroconsumo"
       ],
@@ -166,9 +181,9 @@
           "amazonLink": "https://amazon.com/s?k=Miele+di+manuka&tag=your_amazon_tag-20",
           "name": "Miele di manuka",
           "pros": [
-            "Antimicrobial properties due to hydrogen peroxide",
-            "Low water activity and low pH enhance preservation",
-            "Unique composition offers therapeutic benefits"
+            "Antimicrobial properties",
+            "Low water activity",
+            "Low pH"
           ],
           "rank": 1
         }
@@ -179,21 +194,21 @@
       "displayQuery": "mozzarella",
       "status": "ready",
       "productCount": 1,
-      "lastUpdatedAt": "2026-05-29T09:00:15+00:00",
+      "lastUpdatedAt": "2026-05-30T07:59:05+00:00",
       "sourceSignals": [
         "Altroconsumo"
       ],
       "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-      "videoSource": "The Top 5 Best Cream Cheese Starter Culture in 2026 - Must Watch Before Buying!",
-      "videoUrl": "https://www.youtube.com/watch?v=eqz7NhvZdjw",
+      "videoSource": "The Top 5 Best Paneer Cheese in 2026 - Must Watch Before Buying!",
+      "videoUrl": "https://www.youtube.com/watch?v=Zs0GcBic9rU",
       "products": [
         {
           "amazonLink": "https://amazon.com/s?k=Mozzarella+vaccina&tag=your_amazon_tag-20",
           "name": "Mozzarella vaccina",
           "pros": [
-            "delicate taste",
+            "delicate flavor",
             "perfect consistency",
-            "versatile for eating alone or in recipes"
+            "classic Italian"
           ],
           "rank": 1
         }
@@ -204,12 +219,12 @@
       "displayQuery": "pandoro",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:54:21+00:00",
+      "lastUpdatedAt": "2026-05-30T07:53:12+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's December 2025 lab tests recommend TRE MARIE IL PANDORO MAGNIFICO and CONAD PANDORO as top picks, offering high quality and competitive prices.",
       "videoSource": "Migliori Pandori 2025",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro/comparatore",
       "products": [
@@ -217,9 +232,9 @@
           "amazonLink": "https://amazon.com/s?k=TRE+MARIE+IL+PANDORO+MAGNIFICO&tag=your_amazon_tag-20",
           "name": "TRE MARIE IL PANDORO MAGNIFICO",
           "pros": [
-            "Taken from the latest official consumer comparison available in the allowed year window.",
-            "Published by Altroconsumo on 2025-12-04.",
-            "Extracted directly from the official comparison page 'Migliori Pandori 2025'."
+            "Lab-tested for quality",
+            "Best price per kg among tested",
+            "High consumer satisfaction"
           ],
           "rank": 1
         },
@@ -227,9 +242,9 @@
           "amazonLink": "https://amazon.com/s?k=CONAD+PANDORO&tag=your_amazon_tag-20",
           "name": "CONAD PANDORO",
           "pros": [
-            "Taken from the latest official consumer comparison available in the allowed year window.",
-            "Published by Altroconsumo on 2025-12-04.",
-            "Extracted directly from the official comparison page 'Migliori Pandori 2025'."
+            "Affordable price per kg (5.60 €/kg)",
+            "Lab-tested",
+            "Good value"
           ],
           "rank": 2
         }
@@ -240,12 +255,12 @@
       "displayQuery": "panettone",
       "status": "ready",
       "productCount": 1,
-      "lastUpdatedAt": "2026-05-29T08:58:51+00:00",
+      "lastUpdatedAt": "2026-05-30T07:57:37+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2025 lab tests recommend COOP PANETTONE CLASSICO as a good value option, with recent data from December 2025.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s recent lab tests (December 2025) recommend COOP PANETTONE CLASSICO as a good value and quality option.",
       "videoSource": "Migliori Panettoni 2025",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore",
       "products": [
@@ -253,9 +268,9 @@
           "amazonLink": "https://amazon.com/s?k=COOP+PANETTONE+CLASSICO&tag=your_amazon_tag-20",
           "name": "COOP PANETTONE CLASSICO",
           "pros": [
-            "Lab-tested for quality",
-            "Competitive price of €6.09 per kg",
-            "Positive consumer tasting results"
+            "Lab-tested for quality in December 2025",
+            "Good price at 6.09 €/kg",
+            "Positive consumer taste test"
           ],
           "rank": 1
         }
@@ -266,12 +281,12 @@
       "displayQuery": "passata",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:53:06+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:02+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 June test recommends these brands as top picks for passata, based on laboratory comparison.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025‑06‑24 report recommends ALCE NERO and CASAR as top passata brands based on laboratory tests; the evidence is older than 60 days.",
       "videoSource": "Migliori Passate di pomodoro",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore",
       "products": [
@@ -279,9 +294,9 @@
           "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
           "name": "ALCE NERO",
           "pros": [
-            "Recommended by Altroconsumo after laboratory testing",
-            "Included in the top picks list for passata",
-            "Offers good quality at a reasonable price"
+            "Lab‑tested and recommended by Altroconsumo",
+            "High‑quality passata",
+            "Widely available in supermarkets"
           ],
           "rank": 1
         },
@@ -289,9 +304,9 @@
           "amazonLink": "https://amazon.com/s?k=CASAR&tag=your_amazon_tag-20",
           "name": "CASAR",
           "pros": [
-            "Recommended by Altroconsumo after laboratory testing",
-            "Included in the top picks list for passata",
-            "Offers good quality at a reasonable price"
+            "Lab‑tested and recommended by Altroconsumo",
+            "High‑quality passata",
+            "Widely available in supermarkets"
           ],
           "rank": 2
         }
@@ -302,32 +317,32 @@
       "displayQuery": "passata di pomodoro",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:53:31+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:15+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Exact official tests for \"passata di pomodoro\" were not available in 2025-2026, so the broader official category \"passata\" was used. No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "Exact official tests for \"passata di pomodoro\" were not available in 2025-2026, so the broader official category \"passata\" was used. No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s June 2025 laboratory tests recommend ALCE NERO and CASAR as top‑pick passata brands, citing quality and the absence of added water. The evidence is fresh (published 2025‑06‑24).",
       "videoSource": "Migliori Passate di pomodoro",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=DELIZIE+DAL+SOLE+%28EUROSPIN%29+PASSATA+DI+POMODORO&tag=your_amazon_tag-20",
-          "name": "DELIZIE DAL SOLE (EUROSPIN) PASSATA DI POMODORO",
+          "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
+          "name": "ALCE NERO",
           "pros": [
-            "Taken from the latest official consumer comparison available in the allowed year window.",
-            "Published by Altroconsumo on 2025-06-24.",
-            "Extracted directly from the official comparison page 'Migliori Passate di pomodoro'."
+            "Lab‑tested for quality",
+            "Recommended by Altroconsumo",
+            "No added water"
           ],
           "rank": 1
         },
         {
-          "amazonLink": "https://amazon.com/s?k=SELEX+PASSATA+CLASSICA&tag=your_amazon_tag-20",
-          "name": "SELEX PASSATA CLASSICA",
+          "amazonLink": "https://amazon.com/s?k=CASAR&tag=your_amazon_tag-20",
+          "name": "CASAR",
           "pros": [
-            "Taken from the latest official consumer comparison available in the allowed year window.",
-            "Published by Altroconsumo on 2025-06-24.",
-            "Extracted directly from the official comparison page 'Migliori Passate di pomodoro'."
+            "Lab‑tested for quality",
+            "Recommended by Altroconsumo",
+            "No added water"
           ],
           "rank": 2
         }
@@ -338,12 +353,12 @@
       "displayQuery": "pasta",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:51:41+00:00",
+      "lastUpdatedAt": "2026-05-30T07:50:32+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2026 laboratory tests recommend BARILLA and AGNESI as top pasta brands, highlighting their quality, texture, and value.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 test on pasta brands recommends BARILLA and AGNESI as top picks.",
       "videoSource": "Migliori marche di Pasta",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore",
       "products": [
@@ -351,9 +366,9 @@
           "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
           "name": "BARILLA",
           "pros": [
-            "Recommended by Altroconsumo's 2026 pasta test",
-            "High quality semolina used",
-            "Excellent taste and texture"
+            "Recommended by Altroconsumo in 2026 test",
+            "High quality semolina",
+            "Widely available in supermarkets"
           ],
           "rank": 1
         },
@@ -361,9 +376,9 @@
           "amazonLink": "https://amazon.com/s?k=AGNESI&tag=your_amazon_tag-20",
           "name": "AGNESI",
           "pros": [
-            "Recommended by Altroconsumo's 2026 pasta test",
-            "Durable and elastic texture",
-            "Good value for price"
+            "Recommended by Altroconsumo in 2026 test",
+            "Excellent taste",
+            "Available in multiple formats"
           ],
           "rank": 2
         }
@@ -374,12 +389,12 @@
       "displayQuery": "patatine",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:53:56+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:54+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025-12-16 test recommends Lays and Pringles as top picks, indicating fresh evidence.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025-12-16 report lists Lays and Pringles among top recommended potato chips, indicating fresh evidence.",
       "videoSource": "Migliori marche di patatine",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore",
       "products": [
@@ -387,9 +402,9 @@
           "amazonLink": "https://amazon.com/s?k=Lays&tag=your_amazon_tag-20",
           "name": "Lays",
           "pros": [
-            "Recommended by Altroconsumo",
-            "High quality",
-            "Good price"
+            "Altroconsumo recommends",
+            "Included in top picks list",
+            "Based on laboratory tests"
           ],
           "rank": 1
         },
@@ -397,9 +412,9 @@
           "amazonLink": "https://amazon.com/s?k=Pringles&tag=your_amazon_tag-20",
           "name": "Pringles",
           "pros": [
-            "Recommended by Altroconsumo",
-            "High quality",
-            "Good price"
+            "Altroconsumo recommends",
+            "Included in top picks list",
+            "Based on laboratory tests"
           ],
           "rank": 2
         }
@@ -410,32 +425,32 @@
       "displayQuery": "pesto",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:53:44+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:36+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo recommends these brands for pesto based on recent lab tests; evidence is fresh (published 2026-04-09).",
+      "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori marche di Sughi Rossi e al Pesto",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/sughi-pronti/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
-          "name": "BARILLA",
+          "amazonLink": "https://amazon.com/s?k=ALCE+NERO+PESTO+ALLA+GENOVESE&tag=your_amazon_tag-20",
+          "name": "ALCE NERO PESTO ALLA GENOVESE",
           "pros": [
-            "Recommended by Altroconsumo",
-            "Widely available in supermarkets",
-            "Offers a range of pesto varieties"
+            "Taken from a fresh official consumer comparison.",
+            "Published by Altroconsumo on 2026-04-09.",
+            "Extracted directly from the official comparison page 'Migliori marche di Sughi Rossi e al Pesto'."
           ],
           "rank": 1
         },
         {
-          "amazonLink": "https://amazon.com/s?k=ESSELUNGA&tag=your_amazon_tag-20",
-          "name": "ESSELUNGA",
+          "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+ECCELLENTE+%28EUROSPIN%29+PESTO+ALLA+GENOVESE&tag=your_amazon_tag-20",
+          "name": "AMO ESSERE ECCELLENTE (EUROSPIN) PESTO ALLA GENOVESE",
           "pros": [
-            "Recommended by Altroconsumo",
-            "Widely available in supermarkets",
-            "Offers a range of pesto varieties"
+            "Taken from a fresh official consumer comparison.",
+            "Published by Altroconsumo on 2026-04-09.",
+            "Extracted directly from the official comparison page 'Migliori marche di Sughi Rossi e al Pesto'."
           ],
           "rank": 2
         }
@@ -446,12 +461,12 @@
       "displayQuery": "riso",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-05-29T08:52:03+00:00",
+      "lastUpdatedAt": "2026-05-30T07:50:52+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s laboratory tests from November 2025 and May 2026 recommend Riso Carnaroli and Riso Basmati as top picks, providing fresh evidence within the last 60 days.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s November 2025 tests recommend Riso Carnaroli and Riso Basmati as top picks; evidence is older than 60 days.",
       "videoSource": "Migliori marche di Riso",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore",
       "products": [
@@ -459,9 +474,9 @@
           "amazonLink": "https://amazon.com/s?k=Riso+Carnaroli&tag=your_amazon_tag-20",
           "name": "Riso Carnaroli",
           "pros": [
-            "Large grains that absorb condiments well",
-            "Remains al dente for a long time",
-            "Highly regarded in high cuisine"
+            "Large grains that absorb condiments well and stay al dente",
+            "Ideal for risotto and other dishes",
+            "Excellent cooking retention"
           ],
           "rank": 1
         },
@@ -469,9 +484,9 @@
           "amazonLink": "https://amazon.com/s?k=Riso+Basmati&tag=your_amazon_tag-20",
           "name": "Riso Basmati",
           "pros": [
-            "Long, thin grains that elongate without sticking",
-            "Low stickiness after cooking",
-            "Distinctive delicate aroma"
+            "Long slender grains with low stickiness",
+            "Distinctive aromatic profile",
+            "Extends in length while maintaining shape"
           ],
           "rank": 2
         }
@@ -482,7 +497,7 @@
     {
       "categoryKey": "aceto",
       "displayQuery": "aceto",
-      "lastUpdatedAt": "2026-05-29T08:52:50+00:00",
+      "lastUpdatedAt": "2026-05-30T07:51:47+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -492,35 +507,53 @@
       "name": "Aceto Balsamico Tradizionale di Modena DOP",
       "rank": 1,
       "pros": [
-        "Authentic DOP certification ensures strict production standards",
-        "Made exclusively from cooked grape must of selected varieties",
-        "Long aging process enhances flavor complexity"
+        "Authentic traditional production from selected vineyards",
+        "Produced exclusively from cooked grape must",
+        "Highest quality designation (DOP)"
       ],
       "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "aceto",
       "displayQuery": "aceto",
-      "lastUpdatedAt": "2026-05-29T08:52:50+00:00",
+      "lastUpdatedAt": "2026-05-30T07:51:47+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Aceto balsamico: come scegliere quello giusto",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico",
-      "name": "Aceto Balsamico Tradizionale di Reggio Emilia DOP",
+      "name": "Aceto Balsamico di Modena IGP",
       "rank": 2,
       "pros": [
-        "DOP certification guarantees traditional production methods",
-        "Produced from high-quality grape must",
-        "Aging in wooden barrels imparts unique aroma"
+        "Most common and accessible on the market",
+        "Produced with regulated production methods",
+        "Affordable price point"
       ],
-      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Reggio+Emilia+DOP&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+di+Modena+IGP&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "burro",
+      "displayQuery": "burro",
+      "lastUpdatedAt": "2026-05-30T07:53:34+00:00",
+      "sourceSignals": [
+        "Altroconsumo"
+      ],
+      "videoSource": "👉  Burro irlandese o bavarese: perché sono migliori di quello italiano?",
+      "videoUrl": "https://www.youtube.com/watch?v=5lC_I0UGrCY",
+      "name": "Burro di arachidi",
+      "rank": 1,
+      "pros": [
+        "Low sugar content",
+        "Rich in healthy fats",
+        "High protein"
+      ],
+      "amazonLink": "https://amazon.com/s?k=Burro+di+arachidi&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "caffe",
       "displayQuery": "caffe",
-      "lastUpdatedAt": "2026-05-29T08:52:36+00:00",
+      "lastUpdatedAt": "2026-05-30T07:51:34+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo",
@@ -532,15 +565,15 @@
       "rank": 1,
       "pros": [
         "Recommended by Altroconsumo",
-        "High quality coffee",
-        "Compatible with many machines"
+        "High quality taste",
+        "Compatible with a wide range of machines"
       ],
       "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "caffe",
       "displayQuery": "caffe",
-      "lastUpdatedAt": "2026-05-29T08:52:36+00:00",
+      "lastUpdatedAt": "2026-05-30T07:51:34+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo",
@@ -552,91 +585,72 @@
       "rank": 2,
       "pros": [
         "Recommended by Altroconsumo",
-        "High quality coffee",
-        "Wide range of flavors"
+        "Premium flavor profile",
+        "Wide availability of capsules"
       ],
       "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "fette-biscottate",
       "displayQuery": "fette biscottate",
-      "lastUpdatedAt": "2026-05-29T08:59:13+00:00",
+      "lastUpdatedAt": "2026-05-30T07:57:53+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori marche di fette biscottate",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/fette-biscottate/comparatore",
-      "name": "AMO ESSERE (EUROSPIN) FETTE BISCOTTATE SENZA GLUTINE",
+      "name": "MULINO BIANCO",
       "rank": 1,
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2026-01-15.",
-        "Extracted directly from the official comparison page 'Migliori marche di fette biscottate'."
+        "Recommended by Altroconsumo based on lab tests",
+        "Included in Altroconsumo's top picks list for fette biscottate",
+        "Identified as a high-quality option in the 2026 comparison"
       ],
-      "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+%28EUROSPIN%29+FETTE+BISCOTTATE+SENZA+GLUTINE&tag=your_amazon_tag-20"
-    },
-    {
-      "categoryKey": "fette-biscottate",
-      "displayQuery": "fette biscottate",
-      "lastUpdatedAt": "2026-05-29T08:59:13+00:00",
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "videoSource": "Migliori marche di fette biscottate",
-      "videoUrl": "https://www.altroconsumo.it/alimentazione/fette-biscottate/comparatore",
-      "name": "BENESÌ (COOP) FETTE BISCOTTATE A BASSISSIMO CONTENUTO DI SALE",
-      "rank": 2,
-      "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2026-01-15.",
-        "Extracted directly from the official comparison page 'Migliori marche di fette biscottate'."
-      ],
-      "amazonLink": "https://amazon.com/s?k=BENES%C3%8C+%28COOP%29+FETTE+BISCOTTATE+A+BASSISSIMO+CONTENUTO+DI+SALE&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=MULINO+BIANCO&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "latte",
       "displayQuery": "latte",
-      "lastUpdatedAt": "2026-05-29T08:52:19+00:00",
+      "lastUpdatedAt": "2026-05-30T07:51:15+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Miglior Latte: marche, prezzi, confezioni",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore",
-      "name": "ARBOREA",
+      "name": "LAND (EUROSPIN) LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE OMOGENEIZZATO",
       "rank": 1,
       "pros": [
-        "Recommended by Altroconsumo",
-        "Good quality",
-        "Affordable price"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-04-22.",
+        "Extracted directly from the official comparison page 'Miglior Latte: marche, prezzi, confezioni'."
       ],
-      "amazonLink": "https://amazon.com/s?k=ARBOREA&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=LAND+%28EUROSPIN%29+LATTE+PARZIALMENTE+SCREMATO+UHT+A+LUNGA+CONSERVAZIONE+OMOGENEIZZATO&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "latte",
       "displayQuery": "latte",
-      "lastUpdatedAt": "2026-05-29T08:52:19+00:00",
+      "lastUpdatedAt": "2026-05-30T07:51:15+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Miglior Latte: marche, prezzi, confezioni",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore",
-      "name": "CARREFOUR CLASSIC",
+      "name": "MILBONA (LIDL) LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE",
       "rank": 2,
       "pros": [
-        "Recommended by Altroconsumo",
-        "Good quality",
-        "Affordable price"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-04-22.",
+        "Extracted directly from the official comparison page 'Miglior Latte: marche, prezzi, confezioni'."
       ],
-      "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=MILBONA+%28LIDL%29+LATTE+PARZIALMENTE+SCREMATO+UHT+A+LUNGA+CONSERVAZIONE&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "miele",
       "displayQuery": "miele",
-      "lastUpdatedAt": "2026-05-29T08:57:41+00:00",
+      "lastUpdatedAt": "2026-05-30T07:56:25+00:00",
       "sourceSignals": [
         "Altroconsumo"
       ],
@@ -645,34 +659,34 @@
       "name": "Miele di manuka",
       "rank": 1,
       "pros": [
-        "Antimicrobial properties due to hydrogen peroxide",
-        "Low water activity and low pH enhance preservation",
-        "Unique composition offers therapeutic benefits"
+        "Antimicrobial properties",
+        "Low water activity",
+        "Low pH"
       ],
       "amazonLink": "https://amazon.com/s?k=Miele+di+manuka&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "mozzarella",
       "displayQuery": "mozzarella",
-      "lastUpdatedAt": "2026-05-29T09:00:15+00:00",
+      "lastUpdatedAt": "2026-05-30T07:59:05+00:00",
       "sourceSignals": [
         "Altroconsumo"
       ],
-      "videoSource": "The Top 5 Best Cream Cheese Starter Culture in 2026 - Must Watch Before Buying!",
-      "videoUrl": "https://www.youtube.com/watch?v=eqz7NhvZdjw",
+      "videoSource": "The Top 5 Best Paneer Cheese in 2026 - Must Watch Before Buying!",
+      "videoUrl": "https://www.youtube.com/watch?v=Zs0GcBic9rU",
       "name": "Mozzarella vaccina",
       "rank": 1,
       "pros": [
-        "delicate taste",
+        "delicate flavor",
         "perfect consistency",
-        "versatile for eating alone or in recipes"
+        "classic Italian"
       ],
       "amazonLink": "https://amazon.com/s?k=Mozzarella+vaccina&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "pandoro",
       "displayQuery": "pandoro",
-      "lastUpdatedAt": "2026-05-29T08:54:21+00:00",
+      "lastUpdatedAt": "2026-05-30T07:53:12+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -682,16 +696,16 @@
       "name": "TRE MARIE IL PANDORO MAGNIFICO",
       "rank": 1,
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-12-04.",
-        "Extracted directly from the official comparison page 'Migliori Pandori 2025'."
+        "Lab-tested for quality",
+        "Best price per kg among tested",
+        "High consumer satisfaction"
       ],
       "amazonLink": "https://amazon.com/s?k=TRE+MARIE+IL+PANDORO+MAGNIFICO&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "pandoro",
       "displayQuery": "pandoro",
-      "lastUpdatedAt": "2026-05-29T08:54:21+00:00",
+      "lastUpdatedAt": "2026-05-30T07:53:12+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -701,16 +715,16 @@
       "name": "CONAD PANDORO",
       "rank": 2,
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-12-04.",
-        "Extracted directly from the official comparison page 'Migliori Pandori 2025'."
+        "Affordable price per kg (5.60 €/kg)",
+        "Lab-tested",
+        "Good value"
       ],
       "amazonLink": "https://amazon.com/s?k=CONAD+PANDORO&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "panettone",
       "displayQuery": "panettone",
-      "lastUpdatedAt": "2026-05-29T08:58:51+00:00",
+      "lastUpdatedAt": "2026-05-30T07:57:37+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -720,16 +734,16 @@
       "name": "COOP PANETTONE CLASSICO",
       "rank": 1,
       "pros": [
-        "Lab-tested for quality",
-        "Competitive price of €6.09 per kg",
-        "Positive consumer tasting results"
+        "Lab-tested for quality in December 2025",
+        "Good price at 6.09 €/kg",
+        "Positive consumer taste test"
       ],
       "amazonLink": "https://amazon.com/s?k=COOP+PANETTONE+CLASSICO&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "passata",
       "displayQuery": "passata",
-      "lastUpdatedAt": "2026-05-29T08:53:06+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:02+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -739,16 +753,16 @@
       "name": "ALCE NERO",
       "rank": 1,
       "pros": [
-        "Recommended by Altroconsumo after laboratory testing",
-        "Included in the top picks list for passata",
-        "Offers good quality at a reasonable price"
+        "Lab‑tested and recommended by Altroconsumo",
+        "High‑quality passata",
+        "Widely available in supermarkets"
       ],
       "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "passata",
       "displayQuery": "passata",
-      "lastUpdatedAt": "2026-05-29T08:53:06+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:02+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -758,54 +772,54 @@
       "name": "CASAR",
       "rank": 2,
       "pros": [
-        "Recommended by Altroconsumo after laboratory testing",
-        "Included in the top picks list for passata",
-        "Offers good quality at a reasonable price"
+        "Lab‑tested and recommended by Altroconsumo",
+        "High‑quality passata",
+        "Widely available in supermarkets"
       ],
       "amazonLink": "https://amazon.com/s?k=CASAR&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "passata-di-pomodoro",
       "displayQuery": "passata di pomodoro",
-      "lastUpdatedAt": "2026-05-29T08:53:31+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:15+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori Passate di pomodoro",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore",
-      "name": "DELIZIE DAL SOLE (EUROSPIN) PASSATA DI POMODORO",
+      "name": "ALCE NERO",
       "rank": 1,
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-06-24.",
-        "Extracted directly from the official comparison page 'Migliori Passate di pomodoro'."
+        "Lab‑tested for quality",
+        "Recommended by Altroconsumo",
+        "No added water"
       ],
-      "amazonLink": "https://amazon.com/s?k=DELIZIE+DAL+SOLE+%28EUROSPIN%29+PASSATA+DI+POMODORO&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "passata-di-pomodoro",
       "displayQuery": "passata di pomodoro",
-      "lastUpdatedAt": "2026-05-29T08:53:31+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:15+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori Passate di pomodoro",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore",
-      "name": "SELEX PASSATA CLASSICA",
+      "name": "CASAR",
       "rank": 2,
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-06-24.",
-        "Extracted directly from the official comparison page 'Migliori Passate di pomodoro'."
+        "Lab‑tested for quality",
+        "Recommended by Altroconsumo",
+        "No added water"
       ],
-      "amazonLink": "https://amazon.com/s?k=SELEX+PASSATA+CLASSICA&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=CASAR&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "pasta",
       "displayQuery": "pasta",
-      "lastUpdatedAt": "2026-05-29T08:51:41+00:00",
+      "lastUpdatedAt": "2026-05-30T07:50:32+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -815,16 +829,16 @@
       "name": "BARILLA",
       "rank": 1,
       "pros": [
-        "Recommended by Altroconsumo's 2026 pasta test",
-        "High quality semolina used",
-        "Excellent taste and texture"
+        "Recommended by Altroconsumo in 2026 test",
+        "High quality semolina",
+        "Widely available in supermarkets"
       ],
       "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "pasta",
       "displayQuery": "pasta",
-      "lastUpdatedAt": "2026-05-29T08:51:41+00:00",
+      "lastUpdatedAt": "2026-05-30T07:50:32+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -834,16 +848,16 @@
       "name": "AGNESI",
       "rank": 2,
       "pros": [
-        "Recommended by Altroconsumo's 2026 pasta test",
-        "Durable and elastic texture",
-        "Good value for price"
+        "Recommended by Altroconsumo in 2026 test",
+        "Excellent taste",
+        "Available in multiple formats"
       ],
       "amazonLink": "https://amazon.com/s?k=AGNESI&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "patatine",
       "displayQuery": "patatine",
-      "lastUpdatedAt": "2026-05-29T08:53:56+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:54+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -853,16 +867,16 @@
       "name": "Lays",
       "rank": 1,
       "pros": [
-        "Recommended by Altroconsumo",
-        "High quality",
-        "Good price"
+        "Altroconsumo recommends",
+        "Included in top picks list",
+        "Based on laboratory tests"
       ],
       "amazonLink": "https://amazon.com/s?k=Lays&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "patatine",
       "displayQuery": "patatine",
-      "lastUpdatedAt": "2026-05-29T08:53:56+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:54+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -872,54 +886,54 @@
       "name": "Pringles",
       "rank": 2,
       "pros": [
-        "Recommended by Altroconsumo",
-        "High quality",
-        "Good price"
+        "Altroconsumo recommends",
+        "Included in top picks list",
+        "Based on laboratory tests"
       ],
       "amazonLink": "https://amazon.com/s?k=Pringles&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "pesto",
       "displayQuery": "pesto",
-      "lastUpdatedAt": "2026-05-29T08:53:44+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:36+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori marche di Sughi Rossi e al Pesto",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/sughi-pronti/comparatore",
-      "name": "BARILLA",
+      "name": "ALCE NERO PESTO ALLA GENOVESE",
       "rank": 1,
       "pros": [
-        "Recommended by Altroconsumo",
-        "Widely available in supermarkets",
-        "Offers a range of pesto varieties"
+        "Taken from a fresh official consumer comparison.",
+        "Published by Altroconsumo on 2026-04-09.",
+        "Extracted directly from the official comparison page 'Migliori marche di Sughi Rossi e al Pesto'."
       ],
-      "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=ALCE+NERO+PESTO+ALLA+GENOVESE&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "pesto",
       "displayQuery": "pesto",
-      "lastUpdatedAt": "2026-05-29T08:53:44+00:00",
+      "lastUpdatedAt": "2026-05-30T07:52:36+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori marche di Sughi Rossi e al Pesto",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/sughi-pronti/comparatore",
-      "name": "ESSELUNGA",
+      "name": "AMO ESSERE ECCELLENTE (EUROSPIN) PESTO ALLA GENOVESE",
       "rank": 2,
       "pros": [
-        "Recommended by Altroconsumo",
-        "Widely available in supermarkets",
-        "Offers a range of pesto varieties"
+        "Taken from a fresh official consumer comparison.",
+        "Published by Altroconsumo on 2026-04-09.",
+        "Extracted directly from the official comparison page 'Migliori marche di Sughi Rossi e al Pesto'."
       ],
-      "amazonLink": "https://amazon.com/s?k=ESSELUNGA&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+ECCELLENTE+%28EUROSPIN%29+PESTO+ALLA+GENOVESE&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "riso",
       "displayQuery": "riso",
-      "lastUpdatedAt": "2026-05-29T08:52:03+00:00",
+      "lastUpdatedAt": "2026-05-30T07:50:52+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -929,16 +943,16 @@
       "name": "Riso Carnaroli",
       "rank": 1,
       "pros": [
-        "Large grains that absorb condiments well",
-        "Remains al dente for a long time",
-        "Highly regarded in high cuisine"
+        "Large grains that absorb condiments well and stay al dente",
+        "Ideal for risotto and other dishes",
+        "Excellent cooking retention"
       ],
       "amazonLink": "https://amazon.com/s?k=Riso+Carnaroli&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "riso",
       "displayQuery": "riso",
-      "lastUpdatedAt": "2026-05-29T08:52:03+00:00",
+      "lastUpdatedAt": "2026-05-30T07:50:52+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -948,9 +962,9 @@
       "name": "Riso Basmati",
       "rank": 2,
       "pros": [
-        "Long, thin grains that elongate without sticking",
-        "Low stickiness after cooking",
-        "Distinctive delicate aroma"
+        "Long slender grains with low stickiness",
+        "Distinctive aromatic profile",
+        "Extends in length while maintaining shape"
       ],
       "amazonLink": "https://amazon.com/s?k=Riso+Basmati&tag=your_amazon_tag-20"
     }
