@@ -5,26 +5,26 @@
   "displayQuery": "pesto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-05T08:56:34+00:00",
+  "lastUpdatedAt": "2026-06-06T08:03:50+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=ACCADEMIA+TOSCANA&tag=your_amazon_tag-20",
-      "name": "ACCADEMIA TOSCANA",
-      "pros": [
-        "Recommended by Altroconsumo based on laboratory tests",
-        "High-quality ingredients",
-        "Positive consumer feedback"
-      ],
-      "rank": 1
-    },
     {
       "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
       "name": "BARILLA",
       "pros": [
-        "Recommended by Altroconsumo based on laboratory tests",
-        "Widely available and affordable",
-        "Consistent flavor profile"
+        "Recommended by Altroconsumo",
+        "Positive lab test results",
+        "High-quality ingredients"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=ESSELUNGA&tag=your_amazon_tag-20",
+      "name": "ESSELUNGA",
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Positive lab test results",
+        "Good taste"
       ],
       "rank": 2
     }
@@ -37,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s 2026 review lists ACCADEMIA TOSCANA and BARILLA as top pesto brands, indicating fresh evidence from laboratory tests.",
+  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s 2026‑04‑09 laboratory tests recommend BARILLA and ESSELUNGA as top pesto sauces; the evidence is fresh (published within the last 60 days).",
   "videoSource": "Migliori marche di Sughi Rossi e al Pesto",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/sughi-pronti/comparatore"
 }
