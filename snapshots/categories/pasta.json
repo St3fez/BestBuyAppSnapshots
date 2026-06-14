@@ -5,26 +5,26 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-13T08:30:59+00:00",
+  "lastUpdatedAt": "2026-06-14T08:47:56+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=AGNESI&tag=your_amazon_tag-20",
-      "name": "AGNESI",
-      "pros": [
-        "Recommended by Altroconsumo's 2026 test",
-        "High quality semolina",
-        "Widely available"
-      ],
-      "rank": 1
-    },
     {
       "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
       "name": "BARILLA",
       "pros": [
-        "Recommended by Altroconsumo's 2026 test",
-        "Excellent taste",
-        "Widely available"
+        "Recommended by Altroconsumo",
+        "High quality semolina",
+        "Good price"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
+      "name": "ALCE NERO",
+      "pros": [
+        "Recommended by Altroconsumo",
+        "High quality semolina",
+        "Good price"
       ],
       "rank": 2
     }
@@ -37,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2026 \"Migliori marche di Pasta\" test recommends AGNESI and BARILLA as top pasta brands based on quality and consumer preference.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 test recommends these brands as top picks for pasta.",
   "videoSource": "Migliori marche di Pasta",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore"
 }
