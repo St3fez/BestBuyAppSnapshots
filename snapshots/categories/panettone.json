@@ -5,18 +5,28 @@
   "displayQuery": "panettone",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-16T10:27:01+00:00",
+  "lastUpdatedAt": "2026-06-17T10:09:33+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=COOP+PANETTONE+CLASSICO&tag=your_amazon_tag-20",
       "name": "COOP PANETTONE CLASSICO",
       "pros": [
-        "Lab‑tested for quality (December 2025)",
-        "Affordable price (~6.09 €/kg)",
-        "Positive consumer taste assessment"
+        "Lab‑tested for quality",
+        "Affordable price of €6.09/kg",
+        "Widely available in supermarkets"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=MOTTA+IL+PANETTONE+TRADIZIONALE+BRUNO+BARBIERI&tag=your_amazon_tag-20",
+      "name": "MOTTA IL PANETTONE TRADIZIONALE BRUNO BARBIERI",
+      "pros": [
+        "Lab‑tested for quality",
+        "Premium traditional recipe",
+        "Higher price reflects premium ingredients"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -27,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2025‑2026 lab tests recommend COOP PANETTONE CLASSICO as a good value option; evidence is recent (published within the last 60 days).",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 comparative tests recommend both COOP and MOTTA panettone, with recent lab results supporting their quality and price points.",
   "videoSource": "Migliori Panettoni 2025",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore"
 }

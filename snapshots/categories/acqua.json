@@ -1,31 +1,43 @@
 {
   "cached": true,
   "categoryKey": "acqua",
-  "channelTitle": "Decisione informata",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-16T10:24:08+00:00",
+  "lastUpdatedAt": "2026-06-17T10:06:04+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=BRITA&tag=your_amazon_tag-20",
-      "name": "BRITA",
+      "amazonLink": "https://amazon.com/s?k=BLUES+%28EUROSPIN%29&tag=your_amazon_tag-20",
+      "name": "BLUES (EUROSPIN)",
       "pros": [
-        "Best quality-price",
-        "Recommended"
+        "High quality tested in laboratory",
+        "Good price per liter",
+        "Recommended by Altroconsumo"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=EVIAN&tag=your_amazon_tag-20",
+      "name": "EVIAN",
+      "pros": [
+        "High quality tested in laboratory",
+        "Good price per liter",
+        "Recommended by Altroconsumo"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "I Migliori Filtri Dell'Acqua Qualità-Prezzo Del 2026 [Non Comprare Uno Senza Aver Visto Questo]",
-  "videoUrl": "https://www.youtube.com/watch?v=JvMn2UCtNP0"
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2025 test recommends these brands as best in bottled water; evidence is older than 60 days.",
+  "videoSource": "Migliori marche​ di acqua in bottiglia",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/acqua-in-bottiglia/comparatore"
 }

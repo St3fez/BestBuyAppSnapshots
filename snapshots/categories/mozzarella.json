@@ -1,43 +1,42 @@
 {
   "cached": true,
   "categoryKey": "mozzarella",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Best Choice",
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-16T10:28:37+00:00",
+  "lastUpdatedAt": "2026-06-17T10:11:14+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=BRIMI+MOZZARELLA&tag=your_amazon_tag-20",
-      "name": "BRIMI MOZZARELLA",
+      "amazonLink": "https://amazon.com/s?k=CONAD+3+MOZZARELLE+CON+FERMENTI+LATTICI+VIVI&tag=your_amazon_tag-20",
+      "name": "CONAD 3 MOZZARELLE CON FERMENTI LATTICI VIVI",
       "pros": [
-        "Competitive price (€2.97 per 125 g)",
-        "Made with Italian milk",
-        "High protein content (14.6 g per 100 g)"
+        "Contains live bacterial cultures",
+        "Packaged in 3 x 125g",
+        "Tested by Altroconsumo"
       ],
       "rank": 1
     },
     {
-      "amazonLink": "https://amazon.com/s?k=SELEX+MOZZARELLA&tag=your_amazon_tag-20",
-      "name": "SELEX MOZZARELLA",
+      "amazonLink": "https://amazon.com/s?k=COOP+3+MOZZARELLE&tag=your_amazon_tag-20",
+      "name": "COOP 3 MOZZARELLE",
       "pros": [
-        "Reasonable price (€3.30 per 125 g)",
-        "Made with Italian milk",
-        "High protein content (15 g per 100 g)"
+        "Packaged in 3 x 125g",
+        "Tested by Altroconsumo",
+        "Affordable price"
       ],
       "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo conducted tests in June 2024, providing recent but older than 60 days evidence supporting these recommendations.",
-  "videoSource": "BRIMI MOZZARELLA",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/mozzarella/comparatore/brimi-mozzarella/102366_102455"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "The Top 5 Best Cream Cheese Starter Culture in 2026 - Must Watch Before Buying!",
+  "videoUrl": "https://www.youtube.com/watch?v=eqz7NhvZdjw"
 }
