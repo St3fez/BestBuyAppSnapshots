@@ -5,30 +5,9 @@
   "displayQuery": "grana padano",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-20T08:37:39+00:00",
+  "lastUpdatedAt": "2026-06-21T09:11:05+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=SELEX+TORTELLINI+FRESCHI+PROSCIUTTO+CRUDO+CON+GRANA+PADANO+DOP&tag=your_amazon_tag-20",
-      "name": "SELEX TORTELLINI FRESCHI PROSCIUTTO CRUDO CON GRANA PADANO DOP",
-      "pros": [
-        "Contains Grana Padano DOP in the filling",
-        "Tested by Altroconsumo in June 2025",
-        "Nutritional profile: 298 kcal per 100 g, 14 g protein"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=ITALIAMO+%28LIDL%29+PESTO+CON+%22BASILICO+GENOVESE+DOP%22+E+%22GRANA+PADANO+DOP%22&tag=your_amazon_tag-20",
-      "name": "ITALIAMO (LIDL) PESTO CON \"BASILICO GENOVESE DOP\" E \"GRANA PADANO DOP\"",
-      "pros": [
-        "Contains 7 % Grana Padano DOP",
-        "Tested by Altroconsumo in April 2026",
-        "Includes DOP‑certified basil and Grana Padano"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -37,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo tested two Grana Padano products, but the tests are older than 60 days.",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "SELEX TORTELLINI FRESCHI PROSCIUTTO CRUDO CON GRANA PADANO DOP",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta-ripiena/comparatore/selex-tortellini-freschi-prosciutto-crudo-con-grana-padano-dop/97201_100355"
 }

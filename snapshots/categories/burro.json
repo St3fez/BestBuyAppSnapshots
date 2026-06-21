@@ -1,22 +1,30 @@
 {
   "cached": true,
   "categoryKey": "burro",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Cibo Serio",
   "displayQuery": "burro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-20T08:31:14+00:00",
+  "lastUpdatedAt": "2026-06-21T09:04:48+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=bavarese&tag=your_amazon_tag-20",
+      "name": "bavarese",
+      "pros": [
+        "Absolute best quality"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Burro: come sceglierlo, tipi, calorie e quanto consumarne",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/guida-acquisto/scegliere-burro"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "Il burro migliore in assoluto: bavarese e irlandese",
+  "videoUrl": "https://www.youtube.com/watch?v=lrat543S0fw"
 }

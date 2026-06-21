@@ -5,16 +5,28 @@
   "displayQuery": "patatine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-20T08:30:29+00:00",
+  "lastUpdatedAt": "2026-06-21T09:03:53+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS&tag=your_amazon_tag-20",
       "name": "AMICA CHIPS",
       "pros": [
-        "Recommended by Altroconsum"
+        "Recommended by Altroconsumo",
+        "Laboratory-tested for quality",
+        "High consumer satisfaction"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20",
+      "name": "CARREFOUR CLASSIC",
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Laboratory-tested for quality",
+        "Widely available"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025‑12‑16 report lists AMICA CHIPS and CARREFOUR CLASSIC as recommended brands based on laboratory testing, indicating fresh official evidence.",
   "videoSource": "Migliori marche di patatine",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore"
 }
