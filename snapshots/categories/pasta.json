@@ -5,16 +5,28 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-23T08:37:17+00:00",
+  "lastUpdatedAt": "2026-06-24T08:32:53+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=Barilla&tag=your_amazon_tag-20",
       "name": "Barilla",
       "pros": [
-        "Recommended by Altroconsumo"
+        "Recommended by Altroconsumo",
+        "Wide range of pasta shapes",
+        "Consistent quality"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=RUMMO&tag=your_amazon_tag-20",
+      "name": "RUMMO",
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Affordable price",
+        "Good quality"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 test lists Barilla and RUMMO as top pasta brands, indicating fresh official recommendations.",
   "videoSource": "Migliori marche di Pasta",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore"
 }
