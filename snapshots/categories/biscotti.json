@@ -5,9 +5,20 @@
   "displayQuery": "biscotti",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-24T08:38:15+00:00",
+  "lastUpdatedAt": "2026-06-25T08:36:14+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=RISO+SCOTTI+con+riso+biscotto+e+gocce+di+cioccolato&tag=your_amazon_tag-20",
+      "name": "RISO SCOTTI con riso biscotto e gocce di cioccolato",
+      "pros": [
+        "Contains 13% chocolate chips for flavor",
+        "Includes rice flour for a lighter texture",
+        "Tested in April 2025, indicating recent evaluation"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +27,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s April 2025 test highlights RISO SCOTTI as a recommended biscuit with chocolate chips and rice flour, providing recent evidence.",
   "videoSource": "Migliori Biscotti per colazione: marche, calorie, classifica",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore"
 }

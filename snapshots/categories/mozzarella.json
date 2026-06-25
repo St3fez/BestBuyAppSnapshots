@@ -1,22 +1,39 @@
 {
   "cached": true,
   "categoryKey": "mozzarella",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Top 5 Best Picks",
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-24T08:42:32+00:00",
+  "lastUpdatedAt": "2026-06-25T08:40:15+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=CONAD+ALIMENTUM+Pizza+Margherita+con+mozzarella+senza+lattosio+-+senza+glutine&tag=your_amazon_tag-20",
+      "name": "CONAD ALIMENTUM Pizza Margherita con mozzarella senza lattosio - senza glutine",
+      "pros": [
+        "lactose-free",
+        "gluten-free"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=BUITONI+Bella+Napoli+Margherita+con+extra+mozzarella&tag=your_amazon_tag-20",
+      "name": "BUITONI Bella Napoli Margherita con extra mozzarella",
+      "pros": [
+        "extra mozzarella"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "SAPORI & DINTORNI CONAD CAPPELLACCI FRIARIELLI E \"MOZZARELLA DI BUFALA CAMPANA DOP\"",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta-ripiena/comparatore/sapori-dintorni-conad-cappellacci-friarielli-e-mozzarella-di-bufala-campana-dop/97201_100253"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "The Top 5 Best Cheese Making Kit in 2025 - Must Watch Before Buying!",
+  "videoUrl": "https://www.youtube.com/watch?v=O6OhpVzPiWU"
 }
