@@ -5,18 +5,28 @@
   "displayQuery": "cracker",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-25T08:39:36+00:00",
+  "lastUpdatedAt": "2026-06-26T08:44:46+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=MISURA+FIBREXTRA+CRACKER+CAROTA+E+RISO+INTEGRALE&tag=your_amazon_tag-20",
+      "name": "MISURA FIBREXTRA CRACKER CAROTA E RISO INTEGRALE",
+      "pros": [
+        "High fiber content (13g per 100g)",
+        "Made with 85% whole wheat flour and 3% whole rice flour",
+        "Includes carrot extract for natural flavor"
+      ],
+      "rank": 1
+    },
     {
       "amazonLink": "https://amazon.com/s?k=MISURA+NATURA+RICCA+CRACKER+CEREALI+E+SEMI+DI+SUCCA&tag=your_amazon_tag-20",
       "name": "MISURA NATURA RICCA CRACKER CEREALI E SEMI DI SUCCA",
       "pros": [
-        "Multicereal blend with pumpkin seeds",
-        "High fiber (6.2 g per 100 g)",
-        "Uses whole grain wheat flour"
+        "Multigrain blend with 79% wheat flour and added oats, barley, and pumpkin seeds",
+        "High fiber (6.2g per 100g) and protein (12g per 100g)",
+        "Contains no artificial additives, only natural flavorings"
       ],
-      "rank": 1
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -27,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo tests from August 2022 highlight these crackers for their high fiber content and use of whole‑grain ingredients.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo tests from August 2022 recommend these crackers for their high fiber, whole grain content, and natural ingredients. The evidence is older than 60 days.",
   "videoSource": "MONVISO CRACKER SENZA LIEVITO",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pane/comparatore/monviso-cracker-senza-lievito/378/88063"
 }
