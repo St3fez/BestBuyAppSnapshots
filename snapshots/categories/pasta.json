@@ -5,28 +5,16 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-06-27T08:05:47+00:00",
+  "lastUpdatedAt": "2026-06-28T08:28:15+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
       "name": "BARILLA",
       "pros": [
-        "Best overall quality according to Altroconsumo tests",
-        "Excellent taste and texture",
-        "Competitive price"
+        "Recommended by Altroconsumo based"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=PASTA+REALE&tag=your_amazon_tag-20",
-      "name": "PASTA REALE",
-      "pros": [
-        "High quality ingredients highlighted in Altroconsumo reviews",
-        "Great value for money",
-        "Positive consumer feedback"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -37,7 +25,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's recent (June 2026) tests recommend BARILLA and PASTA REALE as top pasta brands, citing quality, taste, and price.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
   "videoSource": "Migliori marche di Pasta",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore"
 }
