@@ -31,12 +31,14 @@
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "Altroconsumo"
+    "Altroconsumo",
+    "official consumer source"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets. Showing the last published verified snapshot from 2026-06-30 until a fresher rebuild succeeds.",
   "videoSource": "10 Marche di Crackers da EVITARE (e 5 Migliori)",
-  "videoUrl": "https://www.youtube.com/watch?v=hzUF5giiDMI"
+  "videoUrl": "https://www.youtube.com/watch?v=hzUF5giiDMI",
+  "preservedFromPreviousSnapshot": true
 }
