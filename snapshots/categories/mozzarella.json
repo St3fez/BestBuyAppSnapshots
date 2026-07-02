@@ -5,9 +5,30 @@
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-01T09:05:21+00:00",
+  "lastUpdatedAt": "2026-07-02T08:34:50+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=CONAD+ALIMENTUM+Pizza+Margherita+con+mozzarella+senza+lattosio&tag=your_amazon_tag-20",
+      "name": "CONAD ALIMENTUM Pizza Margherita con mozzarella senza lattosio",
+      "pros": [
+        "High mozzarella content (20%)",
+        "Lactose‑free mozzarella suitable for lactose‑intolerant consumers",
+        "Free from gluten and contains no artificial additives"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=TRE+MULINI+%28EUROSPIN%29+2+Pizze+con+Mozzarella+di+Bufala+Campana+DOP&tag=your_amazon_tag-20",
+      "name": "TRE MULINI (EUROSPIN) 2 Pizze con Mozzarella di Bufala Campana DOP",
+      "pros": [
+        "Uses Mozzarella di Bufala Campana DOP, guaranteeing quality and authenticity",
+        "High mozzarella content (20%) for a richer flavor",
+        "Contains no gluten and is suitable for a balanced diet"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The Altroconsumo tests from November 2025 support these products as notable mozzarella options, though the evidence is older than 60 days.",
   "videoSource": "CONAD ALIMENTUM PIZZA MARGHERITA CON MOZZARELLA SENZA LATTOSIO - SENZA GLUTINE",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/prodotti-surgelati/pizza-comparatore/conad-alimentum-pizza-margherita-con-mozzarella-senza-lattosio-senza-glutine/577/123556"
 }
