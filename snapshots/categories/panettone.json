@@ -5,16 +5,28 @@
   "displayQuery": "panettone",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-06T09:17:50+00:00",
+  "lastUpdatedAt": "2026-07-07T08:48:55+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=COOP+Panettone+Classico&tag=your_amazon_tag-20",
-      "name": "COOP Panettone Classico",
+      "amazonLink": "https://amazon.com/s?k=COOP+PANETTONE+CLASSICO&tag=your_amazon_tag-20",
+      "name": "COOP PANETTONE CLASSICO",
       "pros": [
-        "Lab tested by"
+        "Laboratory tested by Altroconsumo in December 2025",
+        "Competitive price of €6.09 per kg",
+        "Traditional ingredients including uva sultanina and scorza d'arancia candita"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=MOTTA+IL+PANETTONE+TRADIZIONALE+BRUNO+BARBIERI&tag=your_amazon_tag-20",
+      "name": "MOTTA IL PANETTONE TRADIZIONALE BRUNO BARBIERI",
+      "pros": [
+        "Laboratory tested by Altroconsumo in December 2025",
+        "Premium ingredients such as miele millefiori and uvetta sultanina 9.1%",
+        "Rich flavor profile with scorze d'arancia Calabria"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s December 2025 laboratory tests recommend these two panettone brands as top picks, providing up-to-date quality and price information.",
   "videoSource": "Migliori Panettoni 2025",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore"
 }

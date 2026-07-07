@@ -1,22 +1,31 @@
 {
   "cached": true,
   "categoryKey": "mozzarella-di-bufala",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italian Starter",
   "displayQuery": "mozzarella di bufala",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-06T09:20:49+00:00",
+  "lastUpdatedAt": "2026-07-07T08:50:58+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=CARREFOUR+EXTRA+Pizza+con+aggiunta+di+mozzarella+di+latte+di+bufala&tag=your_amazon_tag-20",
+      "name": "CARREFOUR EXTRA Pizza con aggiunta di mozzarella di latte di bufala",
+      "pros": [
+        "Includes mozzarella di latte di bufala",
+        "Energy per portion: 868 kcal"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "TRE MULINI (EUROSPIN) 2 PIZZE CON \"MOZZARELLA DI BUFALA CAMPANA DOP\"",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/prodotti-surgelati/pizza-comparatore/tre-mulini-eurospin-2-pizze-con-mozzarella-di-bufala-campana-dop/577/106913"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "LEARN ITALIAN: 🛒 Grocery Shopping at the Supermarket (A1-A2 Level)",
+  "videoUrl": "https://www.youtube.com/watch?v=awOW9f1FSp8"
 }

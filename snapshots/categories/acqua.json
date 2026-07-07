@@ -5,9 +5,18 @@
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-06T09:14:04+00:00",
+  "lastUpdatedAt": "2026-07-07T08:45:16+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Acqua+di+Nepi&tag=your_amazon_tag-20",
+      "name": "Acqua di Nepi",
+      "pros": [
+        "Recommended by Altroconsumo"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +25,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Acqua",
-  "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
+  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo.",
+  "videoSource": "Migliori marche​ di acqua in bottiglia",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/acqua-in-bottiglia/comparatore"
 }
