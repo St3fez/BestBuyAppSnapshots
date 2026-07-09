@@ -1,22 +1,32 @@
 {
   "cached": true,
   "categoryKey": "aceto",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Top 5 Best Picks",
   "displayQuery": "aceto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-08T07:43:32+00:00",
+  "lastUpdatedAt": "2026-07-09T08:45:55+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Iberia+All+Natural+Distilled+White+Vinegar&tag=your_amazon_tag-20",
+      "name": "Iberia All Natural Distilled White Vinegar",
+      "pros": [
+        "All Natural",
+        "Distilled",
+        "Ranked among top white vinegars"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Migliori marche di Confetture",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/creme-e-confetture/confetture-comparatore"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "The Top 5 Best White Vinegar in 2026 - Must Watch Before Buying!",
+  "videoUrl": "https://www.youtube.com/watch?v=MwMqgQBBd-k"
 }
