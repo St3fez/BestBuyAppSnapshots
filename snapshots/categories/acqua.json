@@ -1,30 +1,43 @@
 {
   "cached": true,
   "categoryKey": "acqua",
-  "channelTitle": "Italia In Scaffale",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-09T08:48:51+00:00",
+  "lastUpdatedAt": "2026-07-10T08:44:37+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=ACQUA+DI+NEPI&tag=your_amazon_tag-20",
-      "name": "ACQUA DI NEPI",
+      "amazonLink": "https://amazon.com/s?k=Acqua+di+Nepi&tag=your_amazon_tag-20",
+      "name": "Acqua di Nepi",
       "pros": [
-        "Recommended by Altroconsumo"
+        "Recommended by Altroconsumo as a top brand",
+        "High quality natural mineral water",
+        "Affordable price range"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Alpe+Guizza&tag=your_amazon_tag-20",
+      "name": "Alpe Guizza",
+      "pros": [
+        "Endorsed by Altroconsumo in comparative tests",
+        "Excellent mineral content",
+        "Widely available in Italian supermarkets"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "Ho Indagato 10 Marche Di ACQUA (Solo 2 Sono Sicure)",
-  "videoUrl": "https://www.youtube.com/watch?v=3RDzI4ASXvs"
+  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s 2026-06-29 report lists Acqua di Nepi and Alpe Guizza as recommended brands, indicating fresh evidence within the last 60 days.",
+  "videoSource": "Migliori marche​ di acqua in bottiglia",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/acqua-in-bottiglia/comparatore"
 }

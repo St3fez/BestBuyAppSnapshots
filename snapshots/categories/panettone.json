@@ -1,22 +1,30 @@
 {
   "cached": true,
   "categoryKey": "panettone",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Occhio alla Spesa",
   "displayQuery": "panettone",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-09T08:52:15+00:00",
+  "lastUpdatedAt": "2026-07-10T08:48:05+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=BALOCCO&tag=your_amazon_tag-20",
+      "name": "BALOCCO",
+      "pros": [
+        "Recommended by Altroconsumo"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Migliori Panettoni 2025",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "Panettoni: Quale Scegliere e Quale Evitare (Risultato Sorprendente)",
+  "videoUrl": "https://www.youtube.com/watch?v=A41vb7vknvU"
 }
