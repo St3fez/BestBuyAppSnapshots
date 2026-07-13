@@ -5,27 +5,40 @@
   "displayQuery": "caffe",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-12T07:38:15+00:00",
+  "lastUpdatedAt": "2026-07-13T08:28:15+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Dolce+Gusto+%28capsule%29&tag=your_amazon_tag-20",
-      "name": "Dolce Gusto (capsule)",
+      "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20",
+      "name": "Dolce Gusto",
       "pros": [
-        "Recommended by Al"
+        "Top recommendation by Altroconsumo based on quality and price",
+        "Wide range of capsule flavors",
+        "Compatible with many machines"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20",
+      "name": "Nespresso",
+      "pros": [
+        "Top recommendation by Altroconsumo based on quality and price",
+        "High quality espresso capsules",
+        "Compatible with Nespresso machines"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
-    "Altroconsumo"
+    "Altroconsumo",
+    "Assoutenti APS"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo's 2025 test of capsule coffee brands recommends Dolce Gusto and Nespresso as best picks for quality and price. The evidence is from March 2025, within the last 60 days.",
   "videoSource": "Migliori Capsule Caffè : marche e prezzi",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore"
 }

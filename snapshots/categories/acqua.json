@@ -5,39 +5,19 @@
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-12T07:41:08+00:00",
+  "lastUpdatedAt": "2026-07-13T08:31:33+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Acqua+di+Nepi&tag=your_amazon_tag-20",
-      "name": "Acqua di Nepi",
-      "pros": [
-        "Recommended by Altroconsumo",
-        "Natural source",
-        "Good taste"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Alpe+Guizza&tag=your_amazon_tag-20",
-      "name": "Alpe Guizza",
-      "pros": [
-        "Recommended by Altroconsumo",
-        "High mineral content",
-        "Affordable price"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
-    "Altroconsumo"
+    "Altroconsumo",
+    "Codici"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s 2026 review lists Acqua di Nepi and Alpe Guizza among its top recommended bottled water brands, indicating they meet quality and taste criteria.",
-  "videoSource": "Migliori marche​ di acqua in bottiglia",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/acqua-in-bottiglia/comparatore"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Acqua",
+  "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
 }
