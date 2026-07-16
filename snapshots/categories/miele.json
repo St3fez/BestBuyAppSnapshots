@@ -1,43 +1,42 @@
 {
   "cached": true,
   "categoryKey": "miele",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-15T07:33:57+00:00",
+  "lastUpdatedAt": "2026-07-16T07:41:14+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=MIELE+WEI885+WCS+125+GALA+Edition&tag=your_amazon_tag-20",
-      "name": "MIELE WEI885 WCS 125 GALA Edition",
-      "pros": [
-        "5‑star overall rating (Ottimo il giudizio complessivo)",
-        "Energy class A",
-        "Inverter motor technology for efficient performance"
-      ],
-      "rank": 1
-    },
     {
       "amazonLink": "https://amazon.com/s?k=MIELE+G+7040+SC+Front+Autodos&tag=your_amazon_tag-20",
       "name": "MIELE G 7040 SC Front Autodos",
       "pros": [
-        "4‑star overall rating (Buono il giudizio complessivo)",
+        "Independent type",
         "Energy class A",
-        "Indicator for remaining time to finish cycle"
+        "Delayed start function"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=MIELE+G+5653+SCVI+Active&tag=your_amazon_tag-20",
+      "name": "MIELE G 5653 SCVI Active",
+      "pros": [
+        "Built-in type",
+        "Energy class A",
+        "Delayed start function"
       ],
       "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. The Altroconsumo reviews from 2026‑06‑30 provide fresh, positive ratings for these Miele models, highlighting overall quality, energy efficiency, and useful features.",
-  "videoSource": "MIELE G 7040 SC FRONT AUTODOS",
-  "videoUrl": "https://www.altroconsumo.it/elettrodomestici/lavastoviglie/comparatore/miele-g-7040-sc-front-autodos/46/ITR206884"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "7 Marche di MIELE Italiano da EVITARE (ma 2 sono ottime)",
+  "videoUrl": "https://www.youtube.com/watch?v=gsaWYaRb2Yw"
 }

@@ -1,33 +1,31 @@
 {
   "cached": true,
   "categoryKey": "pasta",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Dentro lo Scaffale",
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-15T07:23:51+00:00",
+  "lastUpdatedAt": "2026-07-16T07:32:08+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=LE+STAGIONI+D%27ITALIA+Spaghetti+Senatore+Cappelli&tag=your_amazon_tag-20",
-      "name": "LE STAGIONI D'ITALIA Spaghetti Senatore Cappelli",
+      "amazonLink": "https://amazon.com/s?k=Discount+spaghetti&tag=your_amazon_tag-20",
+      "name": "Discount spaghetti",
       "pros": [
-        "Made from Italian durum wheat, ensuring authentic Italian quality",
-        "Optimal cooking time of 10‑12 minutes for a firm yet tender bite",
-        "Tested by Altroconsumo in January 2026, confirming consistent texture and flavor"
+        "Beats famous brands in tests"
       ],
       "rank": 1
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
+    "altroconsumo",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s recent (January 2026) laboratory test highlights LE STAGIONI D’ITALIA Spaghetti Senatore Cappelli as a top‑pick for quality, taste and cooking performance.",
-  "videoSource": "Pasta italiana: guide ed approfondimenti",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: altroconsumo",
+  "videoSource": "SPAGHETTI: Il Discount Batte i Marchi Famosi 🍝📉 (Test Altroconsumo 2026)",
+  "videoUrl": "https://www.youtube.com/watch?v=eXguoEhMfMo"
 }

@@ -5,16 +5,28 @@
   "displayQuery": "passata di pomodoro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-15T07:27:09+00:00",
+  "lastUpdatedAt": "2026-07-16T07:35:18+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
       "name": "ALCE NERO",
       "pros": [
-        "Recommended by Altroconsum"
+        "Recommended by Altroconsumo",
+        "Lab‑tested for quality",
+        "Available in multiple price ranges"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CASAR&tag=your_amazon_tag-20",
+      "name": "CASAR",
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Lab‑tested for quality",
+        "Available in multiple price ranges"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Exact official tests for \"passata di pomodoro\" were not available in 2025-2026, so the broader official category \"passata\" was used. No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "Exact official tests for \"passata di pomodoro\" were not available in 2025-2026, so the broader official category \"passata\" was used. No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025‑06‑24 laboratory test lists ALCE NERO and CASAR among the best passata di pomodoro brands; the recommendation is fresh and directly supported by the official test results.",
   "videoSource": "Migliori Passate di pomodoro",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore"
 }
