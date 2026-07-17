@@ -1,31 +1,22 @@
 {
   "cached": true,
   "categoryKey": "pasta",
-  "channelTitle": "Dentro lo Scaffale",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-16T07:32:08+00:00",
+  "lastUpdatedAt": "2026-07-17T07:29:17+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Discount+spaghetti&tag=your_amazon_tag-20",
-      "name": "Discount spaghetti",
-      "pros": [
-        "Beats famous brands in tests"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "altroconsumo",
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: altroconsumo",
-  "videoSource": "SPAGHETTI: Il Discount Batte i Marchi Famosi 🍝📉 (Test Altroconsumo 2026)",
-  "videoUrl": "https://www.youtube.com/watch?v=eXguoEhMfMo"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Migliori paste fresche ripiene",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta-ripiena/comparatore"
 }

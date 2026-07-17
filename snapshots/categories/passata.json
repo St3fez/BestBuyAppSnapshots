@@ -5,16 +5,28 @@
   "displayQuery": "passata",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-16T07:34:42+00:00",
+  "lastUpdatedAt": "2026-07-17T07:32:05+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
       "name": "ALCE NERO",
       "pros": [
-        "Recommended by Altroconsumo"
+        "Recommended by Altroconsumo's 2025 laboratory tests",
+        "High quality passata",
+        "Good value for price"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CASAR&tag=your_amazon_tag-20",
+      "name": "CASAR",
+      "pros": [
+        "Recommended by Altroconsumo's 2025 laboratory tests",
+        "High quality passata",
+        "Good value for price"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 laboratory tests recommend ALCE NERO and CASAR as top passata brands, based on quality and consumer ratings.",
   "videoSource": "Migliori Passate di pomodoro",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore"
 }
