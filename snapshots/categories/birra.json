@@ -1,22 +1,30 @@
 {
   "cached": true,
   "categoryKey": "birra",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Helena Picks",
   "displayQuery": "birra",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-21T07:52:27+00:00",
+  "lastUpdatedAt": "2026-07-22T07:52:25+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=TMCraft+Growler+Tap+System+Mini+Keg&tag=your_amazon_tag-20",
+      "name": "TMCraft Growler Tap System Mini Keg",
+      "pros": [
+        "Consider"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Birra, come sceglierla? La nostra guida",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/birra/come-scegliere"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "The 3 Best Kegerators to Buy in 2026 (Top Picks for Home Draft Beer)",
+  "videoUrl": "https://www.youtube.com/watch?v=3GCysvsorJY"
 }

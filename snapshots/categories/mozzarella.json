@@ -1,21 +1,28 @@
 {
   "cached": true,
   "categoryKey": "mozzarella",
-  "channelTitle": "Italia In Scaffale",
+  "channelTitle": "Laura Di Pietrantonio",
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-21T07:57:52+00:00",
+  "lastUpdatedAt": "2026-07-22T07:57:50+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
-  "refreshRequested": false,
-  "sourceSignals": [
-    "official consumer source"
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Mozzarella+Fiordilatte&tag=your_amazon_tag-20",
+      "name": "Mozzarella Fiordilatte",
+      "pros": [
+        "Ident"
+      ],
+      "rank": 1
+    }
   ],
+  "refreshRequested": false,
+  "sourceSignals": [],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "5 Marche di MOZZARELLA che Devi EVITARE",
-  "videoUrl": "https://www.youtube.com/watch?v=2RnrkbbzGiY"
+  "trustedSourceSummary": "Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "LA MOZZARELLA FIORDILATTE MIGLIORE SUL MERCATO NEL 2025",
+  "videoUrl": "https://www.youtube.com/watch?v=SXerjkm9Cho"
 }
