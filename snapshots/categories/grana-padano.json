@@ -1,21 +1,33 @@
 {
   "cached": true,
   "categoryKey": "grana-padano",
-  "channelTitle": "Italia In Scaffale",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "grana padano",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-23T07:58:34+00:00",
+  "lastUpdatedAt": "2026-07-24T07:59:03+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=SELEX+TORTELLINI+FRESCHI+PROSCIUTTO+CRUDO+CON+GRANA+PADANO+DOP&tag=your_amazon_tag-20",
+      "name": "SELEX TORTELLINI FRESCHI PROSCIUTTO CRUDO CON GRANA PADANO DOP",
+      "pros": [
+        "High protein content (14 g per 100 g)",
+        "30 % filling of prosciutto and Grana Padano DOP",
+        "Laboratory-tested by Altroconsumo in June 2025"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source"
+    "official consumer source",
+    "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "5 Marche di BURRO da Evitare e 2 che Sono Sicure",
-  "videoUrl": "https://www.youtube.com/watch?v=bhH7aDkzX6Q"
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s laboratory test in June 2025 highlights SELEX tortellini with Grana Padano as a high‑protein, well‑filled product.",
+  "videoSource": "SELEX TORTELLINI FRESCHI PROSCIUTTO CRUDO CON GRANA PADANO DOP",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta-ripiena/comparatore/selex-tortellini-freschi-prosciutto-crudo-con-grana-padano-dop/570/104244"
 }
