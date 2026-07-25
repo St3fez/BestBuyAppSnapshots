@@ -5,9 +5,30 @@
   "displayQuery": "biscotti",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-24T07:50:21+00:00",
+  "lastUpdatedAt": "2026-07-25T07:37:16+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=GULLON+Cuor+di+Cereale+Integrale+con+Fiocchi+di+Avena+Senza+Zuccheri+Aggiunti&tag=your_amazon_tag-20",
+      "name": "GULLON Cuor di Cereale Integrale con Fiocchi di Avena Senza Zuccheri Aggiunti",
+      "pros": [
+        "Highest score in Altroconsumo's no‑sugar biscuits test",
+        "Whole‑grain oats provide high fiber",
+        "Zero added sugar"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=BALOCCO+Zeropi%C3%B9+7+cereali+corn+flakes&tag=your_amazon_tag-20",
+      "name": "BALOCCO Zeropiù 7 cereali corn flakes",
+      "pros": [
+        "Highest score in Altroconsumo's no‑sugar biscuits test",
+        "Contains 7 cereals for balanced nutrition",
+        "Zero added sugar"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 test ranks GULLON and BALOCCO as the top no‑sugar biscuits, scoring highest for nutrition, fiber and absence of added sugar.",
   "videoSource": "Migliori biscotti per la colazione",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore"
 }
