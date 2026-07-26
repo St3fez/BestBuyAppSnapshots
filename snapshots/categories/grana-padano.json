@@ -5,16 +5,16 @@
   "displayQuery": "grana padano",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-25T07:44:54+00:00",
+  "lastUpdatedAt": "2026-07-26T08:00:04+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=SELEX+TORTELLINI+FRESCHI+PROSCIUTTO+CRUDO+CON+GRANA+PADANO+DOP&tag=your_amazon_tag-20",
       "name": "SELEX TORTELLINI FRESCHI PROSCIUTTO CRUDO CON GRANA PADANO DOP",
       "pros": [
-        "tested by Altroconsumo",
         "contains Grana Padano DOP",
-        "fresh pasta with prosciutto crudo filling"
+        "fresh pasta",
+        "tested by Altroconsumo"
       ],
       "rank": 1
     },
@@ -22,9 +22,9 @@
       "amazonLink": "https://amazon.com/s?k=ITALIAMO+%28LIDL%29+PESTO+CON+%22BASILICO+GENOVESE+DOP%22+E+%22GRANA+PADANO+DOP%22&tag=your_amazon_tag-20",
       "name": "ITALIAMO (LIDL) PESTO CON \"BASILICO GENOVESE DOP\" E \"GRANA PADANO DOP\"",
       "pros": [
-        "tested by Altroconsumo",
         "contains Grana Padano DOP",
-        "pesto with basilico genovese DOP"
+        "contains basilico genovese DOP",
+        "tested by Altroconsumo"
       ],
       "rank": 2
     }
