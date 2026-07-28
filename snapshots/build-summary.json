@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-07-27T09:00:24+00:00",
+  "generatedAt": "2026-07-28T08:07:41+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -96,7 +96,7 @@
     },
     {
       "category": "miele",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'miele'. Last status: refreshing"
     },
     {
       "category": "farina",
