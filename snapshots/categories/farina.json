@@ -1,22 +1,32 @@
 {
   "cached": true,
   "categoryKey": "farina",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Dott. Giulio Rossi",
   "displayQuery": "farina",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-07-28T08:00:45+00:00",
+  "lastUpdatedAt": "2026-07-29T07:59:11+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=COOP+VIVI+VERDE+Pizza+con+verdure+grigliate+con+farina+integrale+biologica&tag=your_amazon_tag-20",
+      "name": "COOP VIVI VERDE Pizza con verdure grigliate con farina integrale biologica",
+      "pros": [
+        "tested by Altroconsumo",
+        "whole organic flour",
+        "grilled vegetable topping"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "YUKYBIO PANE BIOLOGICO BAULETTO CON FARINA TIPO 2",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/pane/comparatore/yukybio-pane-biologico-bauletto-con-farina-tipo-2/378/127375"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "La pasta migliore che puoi comprare al supermercato: classifica completa🍝🛒",
+  "videoUrl": "https://www.youtube.com/watch?v=G1crnhGsnTQ"
 }

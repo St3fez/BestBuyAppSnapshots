@@ -1,20 +1,20 @@
 {
   "success": true,
-  "generatedAt": "2026-07-28T08:07:41+00:00",
-  "totalCategories": 12,
-  "totalProducts": 21,
+  "generatedAt": "2026-07-29T08:02:37+00:00",
+  "totalCategories": 15,
+  "totalProducts": 23,
   "categories": [
     {
       "categoryKey": "aceto",
       "displayQuery": "aceto",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-07-28T07:49:48+00:00",
+      "lastUpdatedAt": "2026-07-29T07:53:49+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The Altroconsumo review (2025‑08‑29) highlights the two DOP varieties as the most authentic and quality options, providing clear guidance on choosing the right balsamic vinegar.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 review highlights the Aceto Balsamico Tradizionale di Modena DOP as the most authentic choice and notes the Aceto Balsamico di Modena IGP as a widely available, quality option.",
       "videoSource": "Aceto balsamico: come scegliere quello giusto",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico",
       "products": [
@@ -22,43 +22,45 @@
           "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP&tag=your_amazon_tag-20",
           "name": "Aceto Balsamico Tradizionale di Modena DOP",
           "pros": [
-            "Authentic traditional production using selected grape varieties",
-            "Long aging process ensuring complex flavor",
-            "Protected designation of origin guarantees quality"
+            "Considered the most authentic expression of traditional balsamic vinegar",
+            "Made exclusively from cooked grape must from selected vineyards",
+            "Protected by DOP status ensuring strict production standards"
           ],
           "rank": 1
         },
         {
-          "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Reggio+Emilia+DOP&tag=your_amazon_tag-20",
-          "name": "Aceto Balsamico Tradizionale di Reggio Emilia DOP",
+          "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+di+Modena+IGP&tag=your_amazon_tag-20",
+          "name": "Aceto Balsamico di Modena IGP",
           "pros": [
-            "Authentic traditional production with strict regulations",
-            "Long aging period for depth of flavor",
-            "Protected designation of origin ensures authenticity"
+            "Most widespread and accessible option for consumers",
+            "Produced under IGP regulations guaranteeing quality",
+            "Offers a balance between tradition and affordability"
           ],
           "rank": 2
         }
       ]
     },
     {
-      "categoryKey": "acqua",
-      "displayQuery": "acqua",
+      "categoryKey": "burro",
+      "displayQuery": "burro",
       "status": "ready",
       "productCount": 1,
-      "lastUpdatedAt": "2026-07-28T07:55:31+00:00",
+      "lastUpdatedAt": "2026-07-29T07:55:43+00:00",
       "sourceSignals": [
-        "Altroconsumo",
-        "Codici"
+        "official consumer source",
+        "Altroconsumo"
       ],
-      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo, Codici. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-      "videoSource": "The 6 Best Brita Water Filters of 2026 | Stop Drinking Bad Tap Water! Best Brita Water Filters 2026",
-      "videoUrl": "https://www.youtube.com/watch?v=ff5tKMMM8eQ",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo recommends burro da centrifuga as the superior butter type based on production method and taste, with evidence from a 2026 guide.",
+      "videoSource": "Burro: come sceglierlo, tipi, calorie e quanto consumarne",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/guida-acquisto/scegliere-burro",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=Brita+Water+Filters&tag=your_amazon_tag-20",
-          "name": "Brita Water Filters",
+          "amazonLink": "https://amazon.com/s?k=Burro+da+centrifuga&tag=your_amazon_tag-20",
+          "name": "Burro da centrifuga",
           "pros": [
-            "Helps stop drinking bad tap water"
+            "Higher quality due to centrifugation process",
+            "Sweeter taste",
+            "Better overall quality compared to cream-based butter"
           ],
           "rank": 1
         }
@@ -68,36 +70,73 @@
       "categoryKey": "caffe",
       "displayQuery": "caffe",
       "status": "ready",
-      "productCount": 2,
-      "lastUpdatedAt": "2026-07-28T07:49:15+00:00",
+      "productCount": 1,
+      "lastUpdatedAt": "2026-07-29T07:53:36+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo",
         "Assoutenti APS"
       ],
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo’s 2025‑03‑21 review lists Dolce Gusto and Nespresso as top capsule brands, citing compatibility, variety and quality. The evidence is older than 60 days.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo, Assoutenti APS.",
       "videoSource": "Migliori Capsule Caffè : marche e prezzi",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20",
-          "name": "Dolce Gusto",
+          "amazonLink": "https://amazon.com/s?k=Dolce+Gusto+%28capsule%29&tag=your_amazon_tag-20",
+          "name": "Dolce Gusto (capsule)",
           "pros": [
-            "Recommended by Altroconsumo as top capsule brand",
-            "Compatible with a wide range of Dolce Gusto machines",
-            "Offers diverse flavor options"
+            "Recommended"
           ],
           "rank": 1
-        },
+        }
+      ]
+    },
+    {
+      "categoryKey": "farina",
+      "displayQuery": "farina",
+      "status": "ready",
+      "productCount": 1,
+      "lastUpdatedAt": "2026-07-29T07:59:11+00:00",
+      "sourceSignals": [
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+      "videoSource": "La pasta migliore che puoi comprare al supermercato: classifica completa🍝🛒",
+      "videoUrl": "https://www.youtube.com/watch?v=G1crnhGsnTQ",
+      "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20",
-          "name": "Nespresso",
+          "amazonLink": "https://amazon.com/s?k=COOP+VIVI+VERDE+Pizza+con+verdure+grigliate+con+farina+integrale+biologica&tag=your_amazon_tag-20",
+          "name": "COOP VIVI VERDE Pizza con verdure grigliate con farina integrale biologica",
           "pros": [
-            "Altroconsumo recommends Nespresso capsules",
-            "Compatible with Nespresso machines",
-            "Known for quality and consistency"
+            "tested by Altroconsumo",
+            "whole organic flour",
+            "grilled vegetable topping"
           ],
-          "rank": 2
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "categoryKey": "fette-biscottate",
+      "displayQuery": "fette biscottate",
+      "status": "ready",
+      "productCount": 1,
+      "lastUpdatedAt": "2026-07-29T08:00:22+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+      "videoSource": "Migliori marche di fette biscottate",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fette-biscottate/comparatore",
+      "products": [
+        {
+          "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+%28EUROSPIN%29&tag=your_amazon_tag-20",
+          "name": "AMO ESSERE (EUROSPIN)",
+          "pros": [
+            "Recommended by Altro"
+          ],
+          "rank": 1
         }
       ]
     },
@@ -106,32 +145,32 @@
       "displayQuery": "latte",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-07-28T07:48:31+00:00",
+      "lastUpdatedAt": "2026-07-29T07:53:09+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2025 review lists ARBOREA and CARREFOUR CLASSIC as recommended brands for latte, based on quality, taste and price. The evidence is recent (published April 2025).",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Miglior Latte: marche, prezzi, confezioni",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=ARBOREA&tag=your_amazon_tag-20",
-          "name": "ARBOREA",
+          "amazonLink": "https://amazon.com/s?k=LAND+%28EUROSPIN%29+LATTE+PARZIALMENTE+SCREMATO+UHT+A+LUNGA+CONSERVAZIONE+OMOGENEIZZATO&tag=your_amazon_tag-20",
+          "name": "LAND (EUROSPIN) LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE OMOGENEIZZATO",
           "pros": [
-            "Recommended by Altroconsumo in their 2025 test",
-            "Offers good quality and taste",
-            "Competitive price"
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-04-22.",
+            "Extracted directly from the official comparison page 'Miglior Latte: marche, prezzi, confezioni'."
           ],
           "rank": 1
         },
         {
-          "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20",
-          "name": "CARREFOUR CLASSIC",
+          "amazonLink": "https://amazon.com/s?k=MILBONA+%28LIDL%29+LATTE+PARZIALMENTE+SCREMATO+UHT+A+LUNGA+CONSERVAZIONE&tag=your_amazon_tag-20",
+          "name": "MILBONA (LIDL) LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE",
           "pros": [
-            "Recommended by Altroconsumo in their 2025 test",
-            "High quality and freshness",
-            "Affordable price"
+            "Taken from the latest official consumer comparison available in the allowed year window.",
+            "Published by Altroconsumo on 2025-04-22.",
+            "Extracted directly from the official comparison page 'Miglior Latte: marche, prezzi, confezioni'."
           ],
           "rank": 2
         }
@@ -141,23 +180,35 @@
       "categoryKey": "miele",
       "displayQuery": "miele",
       "status": "ready",
-      "productCount": 1,
-      "lastUpdatedAt": "2026-07-28T07:59:52+00:00",
+      "productCount": 2,
+      "lastUpdatedAt": "2026-07-29T07:58:46+00:00",
       "sourceSignals": [
+        "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-      "videoSource": "Lavatrice la classifica dei migliori detersivi da acquistare e 5 Marche da evitare",
-      "videoUrl": "https://www.youtube.com/watch?v=iyi7h00kZ3Y",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo reviews provide the product ratings and key specifications; the documents are older than 60 days as publication dates are unknown.",
+      "videoSource": "MIELE WEI885 WCS 125 GALA EDITION",
+      "videoUrl": "https://www.altroconsumo.it/elettrodomestici/lavatrici/comparatore/miele-wei885-wcs-125-gala-edition/165/ITR173338",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=MIELE+WEI885+WCS+125+GALA+EDITION&tag=your_amazon_tag-20",
-          "name": "MIELE WEI885 WCS 125 GALA EDITION",
+          "amazonLink": "https://amazon.com/s?k=Miele+WEI885+WCS+125+GALA+Edition&tag=your_amazon_tag-20",
+          "name": "Miele WEI885 WCS 125 GALA Edition",
           "pros": [
-            "Load capacity: 9.00 kg",
-            "Max spin speed: 1"
+            "9 kg capacity and 1600 rpm spin speed for efficient washing",
+            "Inverter motor for quieter operation and energy savings",
+            "5‑star rating from Altroconsumo indicating overall excellence"
           ],
           "rank": 1
+        },
+        {
+          "amazonLink": "https://amazon.com/s?k=Miele+WDD131+WPS+Guideline&tag=your_amazon_tag-20",
+          "name": "Miele WDD131 WPS Guideline",
+          "pros": [
+            "8 kg capacity suitable for medium loads",
+            "1400 rpm spin speed for good drying performance",
+            "Inverter motor and 4‑star Altroconsumo rating show solid quality"
+          ],
+          "rank": 2
         }
       ]
     },
@@ -165,13 +216,13 @@
       "categoryKey": "pandoro",
       "displayQuery": "pandoro",
       "status": "ready",
-      "productCount": 1,
-      "lastUpdatedAt": "2026-07-28T07:53:16+00:00",
+      "productCount": 2,
+      "lastUpdatedAt": "2026-07-29T07:55:27+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 lab tests and consumer tasting identified Tre Marie and Conad Pandoro as the best options; the information is from a 2026 publication, so it is fresh.",
       "videoSource": "Migliori Pandori 2025",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro/comparatore",
       "products": [
@@ -179,7 +230,43 @@
           "amazonLink": "https://amazon.com/s?k=Tre+Marie+Pandoro&tag=your_amazon_tag-20",
           "name": "Tre Marie Pandoro",
           "pros": [
-            "Awarded 'Best in"
+            "Best overall quality per Altroconsumo lab test",
+            "Highest consumer approval in tasting",
+            "Competitive price of €5.60/kg"
+          ],
+          "rank": 1
+        },
+        {
+          "amazonLink": "https://amazon.com/s?k=Conad+Pandoro&tag=your_amazon_tag-20",
+          "name": "Conad Pandoro",
+          "pros": [
+            "Top purchase recommendation by Altroconsumo",
+            "Excellent quality score",
+            "Affordable price of €5.60/kg"
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "categoryKey": "panettone",
+      "displayQuery": "panettone",
+      "status": "ready",
+      "productCount": 1,
+      "lastUpdatedAt": "2026-07-29T07:59:56+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+      "videoSource": "Migliori Panettoni 2025",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore",
+      "products": [
+        {
+          "amazonLink": "https://amazon.com/s?k=COOP+Panettone+Classico&tag=your_amazon_tag-20",
+          "name": "COOP Panettone Classico",
+          "pros": [
+            "Ident"
           ],
           "rank": 1
         }
@@ -189,35 +276,23 @@
       "categoryKey": "passata",
       "displayQuery": "passata",
       "status": "ready",
-      "productCount": 2,
-      "lastUpdatedAt": "2026-07-28T07:50:29+00:00",
+      "productCount": 1,
+      "lastUpdatedAt": "2026-07-29T07:54:09+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
       "videoSource": "Migliori Passate di pomodoro",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=CONAD+Passata+di+Pomodoro+Classica&tag=your_amazon_tag-20",
-          "name": "CONAD Passata di Pomodoro Classica",
+          "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
+          "name": "ALCE NERO",
           "pros": [
-            "Taken from the latest official consumer comparison available in the allowed year window.",
-            "Published by Altroconsumo on 2025-06-24.",
-            "Extracted directly from the official comparison page 'Migliori Passate di pomodoro'."
+            "Recommended by Altroconsumo"
           ],
           "rank": 1
-        },
-        {
-          "amazonLink": "https://amazon.com/s?k=DELIZIE+DAL+SOLE+%28EUROSPIN%29+Passata+di+pomodoro&tag=your_amazon_tag-20",
-          "name": "DELIZIE DAL SOLE (EUROSPIN) Passata di pomodoro",
-          "pros": [
-            "Taken from the latest official consumer comparison available in the allowed year window.",
-            "Published by Altroconsumo on 2025-06-24.",
-            "Extracted directly from the official comparison page 'Migliori Passate di pomodoro'."
-          ],
-          "rank": 2
         }
       ]
     },
@@ -226,7 +301,7 @@
       "displayQuery": "passata di pomodoro",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-07-28T07:51:09+00:00",
+      "lastUpdatedAt": "2026-07-29T07:54:29+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -262,12 +337,12 @@
       "displayQuery": "pasta",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-07-28T07:47:05+00:00",
+      "lastUpdatedAt": "2026-07-29T07:52:13+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2026 test recommends BARILLA and AGNESI as top pasta brands based on quality, consumer satisfaction, and price.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 test ranked BARILLA and AGNESI among the top pasta brands, highlighting their superior quality, taste, and value.",
       "videoSource": "Migliori marche di pasta: marche, recensioni e confronti",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore",
       "products": [
@@ -275,9 +350,9 @@
           "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
           "name": "BARILLA",
           "pros": [
-            "Top-ranked in Altroconsumo's 2026 pasta test",
-            "High consumer satisfaction",
-            "Affordable price"
+            "High quality semolina",
+            "Excellent taste",
+            "Good price-to-quality ratio"
           ],
           "rank": 1
         },
@@ -285,9 +360,9 @@
           "amazonLink": "https://amazon.com/s?k=AGNESI&tag=your_amazon_tag-20",
           "name": "AGNESI",
           "pros": [
-            "Top-ranked in Altroconsumo's 2026 pasta test",
-            "Excellent taste and texture",
-            "Widely available"
+            "Premium quality pasta",
+            "Consistent texture",
+            "Competitive pricing"
           ],
           "rank": 2
         }
@@ -298,32 +373,32 @@
       "displayQuery": "patatine",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-07-28T07:52:34+00:00",
+      "lastUpdatedAt": "2026-07-29T07:55:08+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025‑12‑16 review recommends AMICA CHIPS and CARREFOUR CLASSIC as top picks based on laboratory testing, offering good quality, price and variety.",
       "videoSource": "Migliori marche di patatine",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=Amica+Chips+Eldorada+Gusto+Salsa+Barbecue+Energia+per+100g%3A+479+kcal+Gruppo+di+prodotti%3A+Patatine+aromatizzate&tag=your_amazon_tag-20",
-          "name": "Amica Chips Eldorada Gusto Salsa Barbecue Energia per 100g: 479 kcal Gruppo di prodotti: Patatine aromatizzate",
+          "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS&tag=your_amazon_tag-20",
+          "name": "AMICA CHIPS",
           "pros": [
-            "Taken from the latest official consumer comparison available in the allowed year window.",
-            "Published by Altroconsumo on 2025-12-16.",
-            "Extracted directly from the official comparison page 'Migliori marche di patatine'."
+            "High quality per Altroconsumo lab tests",
+            "Competitive price",
+            "Wide flavor range"
           ],
           "rank": 1
         },
         {
-          "amazonLink": "https://amazon.com/s?k=Amica+Chips+Eldorada+Ricetta+Grigliata+Energia+per+100g%3A+479+kcal+Gruppo+di+prodotti%3A+Patatine&tag=your_amazon_tag-20",
-          "name": "Amica Chips Eldorada Ricetta Grigliata Energia per 100g: 479 kcal Gruppo di prodotti: Patatine",
+          "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20",
+          "name": "CARREFOUR CLASSIC",
           "pros": [
-            "Taken from the latest official consumer comparison available in the allowed year window.",
-            "Published by Altroconsumo on 2025-12-16.",
-            "Extracted directly from the official comparison page 'Migliori marche di patatine'."
+            "Excellent taste per Altroconsumo review",
+            "Affordable price",
+            "Consistent quality"
           ],
           "rank": 2
         }
@@ -334,7 +409,7 @@
       "displayQuery": "pesto",
       "status": "ready",
       "productCount": 2,
-      "lastUpdatedAt": "2026-07-28T07:51:46+00:00",
+      "lastUpdatedAt": "2026-07-29T07:54:49+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -369,35 +444,23 @@
       "categoryKey": "riso",
       "displayQuery": "riso",
       "status": "ready",
-      "productCount": 2,
-      "lastUpdatedAt": "2026-07-28T07:47:50+00:00",
+      "productCount": 1,
+      "lastUpdatedAt": "2026-07-29T07:52:46+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025-11-20 laboratory tests recommend RISO RICCÒ and RISO SCOTTI as top choices, highlighting their quality, texture, and price.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
       "videoSource": "Migliori marche di Riso",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore",
       "products": [
         {
-          "amazonLink": "https://amazon.com/s?k=RISO+RICC%C3%92&tag=your_amazon_tag-20",
-          "name": "RISO RICCÒ",
+          "amazonLink": "https://amazon.com/s?k=CAROSIO+%28LIDL%29&tag=your_amazon_tag-20",
+          "name": "CAROSIO (LIDL)",
           "pros": [
-            "Lab-tested quality ranked among top picks by Altroconsumo",
-            "Excellent texture for risotto and other dishes",
-            "Competitive price per kilogram"
+            "Explicit"
           ],
           "rank": 1
-        },
-        {
-          "amazonLink": "https://amazon.com/s?k=RISO+SCOTTI&tag=your_amazon_tag-20",
-          "name": "RISO SCOTTI",
-          "pros": [
-            "Lab-tested quality ranked among top picks by Altroconsumo",
-            "Versatile for risotto, timballi, and salads",
-            "Good value for money"
-          ],
-          "rank": 2
         }
       ]
     }
@@ -406,7 +469,7 @@
     {
       "categoryKey": "aceto",
       "displayQuery": "aceto",
-      "lastUpdatedAt": "2026-07-28T07:49:48+00:00",
+      "lastUpdatedAt": "2026-07-29T07:53:49+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -416,52 +479,54 @@
       "name": "Aceto Balsamico Tradizionale di Modena DOP",
       "rank": 1,
       "pros": [
-        "Authentic traditional production using selected grape varieties",
-        "Long aging process ensuring complex flavor",
-        "Protected designation of origin guarantees quality"
+        "Considered the most authentic expression of traditional balsamic vinegar",
+        "Made exclusively from cooked grape must from selected vineyards",
+        "Protected by DOP status ensuring strict production standards"
       ],
       "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "aceto",
       "displayQuery": "aceto",
-      "lastUpdatedAt": "2026-07-28T07:49:48+00:00",
+      "lastUpdatedAt": "2026-07-29T07:53:49+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Aceto balsamico: come scegliere quello giusto",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico",
-      "name": "Aceto Balsamico Tradizionale di Reggio Emilia DOP",
+      "name": "Aceto Balsamico di Modena IGP",
       "rank": 2,
       "pros": [
-        "Authentic traditional production with strict regulations",
-        "Long aging period for depth of flavor",
-        "Protected designation of origin ensures authenticity"
+        "Most widespread and accessible option for consumers",
+        "Produced under IGP regulations guaranteeing quality",
+        "Offers a balance between tradition and affordability"
       ],
-      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Reggio+Emilia+DOP&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+di+Modena+IGP&tag=your_amazon_tag-20"
     },
     {
-      "categoryKey": "acqua",
-      "displayQuery": "acqua",
-      "lastUpdatedAt": "2026-07-28T07:55:31+00:00",
+      "categoryKey": "burro",
+      "displayQuery": "burro",
+      "lastUpdatedAt": "2026-07-29T07:55:43+00:00",
       "sourceSignals": [
-        "Altroconsumo",
-        "Codici"
+        "official consumer source",
+        "Altroconsumo"
       ],
-      "videoSource": "The 6 Best Brita Water Filters of 2026 | Stop Drinking Bad Tap Water! Best Brita Water Filters 2026",
-      "videoUrl": "https://www.youtube.com/watch?v=ff5tKMMM8eQ",
-      "name": "Brita Water Filters",
+      "videoSource": "Burro: come sceglierlo, tipi, calorie e quanto consumarne",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/guida-acquisto/scegliere-burro",
+      "name": "Burro da centrifuga",
       "rank": 1,
       "pros": [
-        "Helps stop drinking bad tap water"
+        "Higher quality due to centrifugation process",
+        "Sweeter taste",
+        "Better overall quality compared to cream-based butter"
       ],
-      "amazonLink": "https://amazon.com/s?k=Brita+Water+Filters&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=Burro+da+centrifuga&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "caffe",
       "displayQuery": "caffe",
-      "lastUpdatedAt": "2026-07-28T07:49:15+00:00",
+      "lastUpdatedAt": "2026-07-29T07:53:36+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo",
@@ -469,94 +534,128 @@
       ],
       "videoSource": "Migliori Capsule Caffè : marche e prezzi",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore",
-      "name": "Dolce Gusto",
+      "name": "Dolce Gusto (capsule)",
       "rank": 1,
       "pros": [
-        "Recommended by Altroconsumo as top capsule brand",
-        "Compatible with a wide range of Dolce Gusto machines",
-        "Offers diverse flavor options"
+        "Recommended"
       ],
-      "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=Dolce+Gusto+%28capsule%29&tag=your_amazon_tag-20"
     },
     {
-      "categoryKey": "caffe",
-      "displayQuery": "caffe",
-      "lastUpdatedAt": "2026-07-28T07:49:15+00:00",
+      "categoryKey": "farina",
+      "displayQuery": "farina",
+      "lastUpdatedAt": "2026-07-29T07:59:11+00:00",
+      "sourceSignals": [
+        "Altroconsumo"
+      ],
+      "videoSource": "La pasta migliore che puoi comprare al supermercato: classifica completa🍝🛒",
+      "videoUrl": "https://www.youtube.com/watch?v=G1crnhGsnTQ",
+      "name": "COOP VIVI VERDE Pizza con verdure grigliate con farina integrale biologica",
+      "rank": 1,
+      "pros": [
+        "tested by Altroconsumo",
+        "whole organic flour",
+        "grilled vegetable topping"
+      ],
+      "amazonLink": "https://amazon.com/s?k=COOP+VIVI+VERDE+Pizza+con+verdure+grigliate+con+farina+integrale+biologica&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "fette-biscottate",
+      "displayQuery": "fette biscottate",
+      "lastUpdatedAt": "2026-07-29T08:00:22+00:00",
       "sourceSignals": [
         "official consumer source",
-        "Altroconsumo",
-        "Assoutenti APS"
+        "Altroconsumo"
       ],
-      "videoSource": "Migliori Capsule Caffè : marche e prezzi",
-      "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore",
-      "name": "Nespresso",
-      "rank": 2,
+      "videoSource": "Migliori marche di fette biscottate",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/fette-biscottate/comparatore",
+      "name": "AMO ESSERE (EUROSPIN)",
+      "rank": 1,
       "pros": [
-        "Altroconsumo recommends Nespresso capsules",
-        "Compatible with Nespresso machines",
-        "Known for quality and consistency"
+        "Recommended by Altro"
       ],
-      "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+%28EUROSPIN%29&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "latte",
       "displayQuery": "latte",
-      "lastUpdatedAt": "2026-07-28T07:48:31+00:00",
+      "lastUpdatedAt": "2026-07-29T07:53:09+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Miglior Latte: marche, prezzi, confezioni",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore",
-      "name": "ARBOREA",
+      "name": "LAND (EUROSPIN) LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE OMOGENEIZZATO",
       "rank": 1,
       "pros": [
-        "Recommended by Altroconsumo in their 2025 test",
-        "Offers good quality and taste",
-        "Competitive price"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-04-22.",
+        "Extracted directly from the official comparison page 'Miglior Latte: marche, prezzi, confezioni'."
       ],
-      "amazonLink": "https://amazon.com/s?k=ARBOREA&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=LAND+%28EUROSPIN%29+LATTE+PARZIALMENTE+SCREMATO+UHT+A+LUNGA+CONSERVAZIONE+OMOGENEIZZATO&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "latte",
       "displayQuery": "latte",
-      "lastUpdatedAt": "2026-07-28T07:48:31+00:00",
+      "lastUpdatedAt": "2026-07-29T07:53:09+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Miglior Latte: marche, prezzi, confezioni",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore",
-      "name": "CARREFOUR CLASSIC",
+      "name": "MILBONA (LIDL) LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE",
       "rank": 2,
       "pros": [
-        "Recommended by Altroconsumo in their 2025 test",
-        "High quality and freshness",
-        "Affordable price"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2025-04-22.",
+        "Extracted directly from the official comparison page 'Miglior Latte: marche, prezzi, confezioni'."
       ],
-      "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=MILBONA+%28LIDL%29+LATTE+PARZIALMENTE+SCREMATO+UHT+A+LUNGA+CONSERVAZIONE&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "miele",
       "displayQuery": "miele",
-      "lastUpdatedAt": "2026-07-28T07:59:52+00:00",
+      "lastUpdatedAt": "2026-07-29T07:58:46+00:00",
       "sourceSignals": [
+        "official consumer source",
         "Altroconsumo"
       ],
-      "videoSource": "Lavatrice la classifica dei migliori detersivi da acquistare e 5 Marche da evitare",
-      "videoUrl": "https://www.youtube.com/watch?v=iyi7h00kZ3Y",
-      "name": "MIELE WEI885 WCS 125 GALA EDITION",
+      "videoSource": "MIELE WEI885 WCS 125 GALA EDITION",
+      "videoUrl": "https://www.altroconsumo.it/elettrodomestici/lavatrici/comparatore/miele-wei885-wcs-125-gala-edition/165/ITR173338",
+      "name": "Miele WEI885 WCS 125 GALA Edition",
       "rank": 1,
       "pros": [
-        "Load capacity: 9.00 kg",
-        "Max spin speed: 1"
+        "9 kg capacity and 1600 rpm spin speed for efficient washing",
+        "Inverter motor for quieter operation and energy savings",
+        "5‑star rating from Altroconsumo indicating overall excellence"
       ],
-      "amazonLink": "https://amazon.com/s?k=MIELE+WEI885+WCS+125+GALA+EDITION&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=Miele+WEI885+WCS+125+GALA+Edition&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "miele",
+      "displayQuery": "miele",
+      "lastUpdatedAt": "2026-07-29T07:58:46+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "MIELE WEI885 WCS 125 GALA EDITION",
+      "videoUrl": "https://www.altroconsumo.it/elettrodomestici/lavatrici/comparatore/miele-wei885-wcs-125-gala-edition/165/ITR173338",
+      "name": "Miele WDD131 WPS Guideline",
+      "rank": 2,
+      "pros": [
+        "8 kg capacity suitable for medium loads",
+        "1400 rpm spin speed for good drying performance",
+        "Inverter motor and 4‑star Altroconsumo rating show solid quality"
+      ],
+      "amazonLink": "https://amazon.com/s?k=Miele+WDD131+WPS+Guideline&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "pandoro",
       "displayQuery": "pandoro",
-      "lastUpdatedAt": "2026-07-28T07:53:16+00:00",
+      "lastUpdatedAt": "2026-07-29T07:55:27+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -566,52 +665,69 @@
       "name": "Tre Marie Pandoro",
       "rank": 1,
       "pros": [
-        "Awarded 'Best in"
+        "Best overall quality per Altroconsumo lab test",
+        "Highest consumer approval in tasting",
+        "Competitive price of €5.60/kg"
       ],
       "amazonLink": "https://amazon.com/s?k=Tre+Marie+Pandoro&tag=your_amazon_tag-20"
     },
     {
-      "categoryKey": "passata",
-      "displayQuery": "passata",
-      "lastUpdatedAt": "2026-07-28T07:50:29+00:00",
+      "categoryKey": "pandoro",
+      "displayQuery": "pandoro",
+      "lastUpdatedAt": "2026-07-29T07:55:27+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
-      "videoSource": "Migliori Passate di pomodoro",
-      "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore",
-      "name": "CONAD Passata di Pomodoro Classica",
-      "rank": 1,
-      "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-06-24.",
-        "Extracted directly from the official comparison page 'Migliori Passate di pomodoro'."
-      ],
-      "amazonLink": "https://amazon.com/s?k=CONAD+Passata+di+Pomodoro+Classica&tag=your_amazon_tag-20"
-    },
-    {
-      "categoryKey": "passata",
-      "displayQuery": "passata",
-      "lastUpdatedAt": "2026-07-28T07:50:29+00:00",
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "videoSource": "Migliori Passate di pomodoro",
-      "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore",
-      "name": "DELIZIE DAL SOLE (EUROSPIN) Passata di pomodoro",
+      "videoSource": "Migliori Pandori 2025",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro/comparatore",
+      "name": "Conad Pandoro",
       "rank": 2,
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-06-24.",
-        "Extracted directly from the official comparison page 'Migliori Passate di pomodoro'."
+        "Top purchase recommendation by Altroconsumo",
+        "Excellent quality score",
+        "Affordable price of €5.60/kg"
       ],
-      "amazonLink": "https://amazon.com/s?k=DELIZIE+DAL+SOLE+%28EUROSPIN%29+Passata+di+pomodoro&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=Conad+Pandoro&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "panettone",
+      "displayQuery": "panettone",
+      "lastUpdatedAt": "2026-07-29T07:59:56+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "Migliori Panettoni 2025",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore",
+      "name": "COOP Panettone Classico",
+      "rank": 1,
+      "pros": [
+        "Ident"
+      ],
+      "amazonLink": "https://amazon.com/s?k=COOP+Panettone+Classico&tag=your_amazon_tag-20"
+    },
+    {
+      "categoryKey": "passata",
+      "displayQuery": "passata",
+      "lastUpdatedAt": "2026-07-29T07:54:09+00:00",
+      "sourceSignals": [
+        "official consumer source",
+        "Altroconsumo"
+      ],
+      "videoSource": "Migliori Passate di pomodoro",
+      "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore",
+      "name": "ALCE NERO",
+      "rank": 1,
+      "pros": [
+        "Recommended by Altroconsumo"
+      ],
+      "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "passata-di-pomodoro",
       "displayQuery": "passata di pomodoro",
-      "lastUpdatedAt": "2026-07-28T07:51:09+00:00",
+      "lastUpdatedAt": "2026-07-29T07:54:29+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -630,7 +746,7 @@
     {
       "categoryKey": "passata-di-pomodoro",
       "displayQuery": "passata di pomodoro",
-      "lastUpdatedAt": "2026-07-28T07:51:09+00:00",
+      "lastUpdatedAt": "2026-07-29T07:54:29+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -649,7 +765,7 @@
     {
       "categoryKey": "pasta",
       "displayQuery": "pasta",
-      "lastUpdatedAt": "2026-07-28T07:47:05+00:00",
+      "lastUpdatedAt": "2026-07-29T07:52:13+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -659,16 +775,16 @@
       "name": "BARILLA",
       "rank": 1,
       "pros": [
-        "Top-ranked in Altroconsumo's 2026 pasta test",
-        "High consumer satisfaction",
-        "Affordable price"
+        "High quality semolina",
+        "Excellent taste",
+        "Good price-to-quality ratio"
       ],
       "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "pasta",
       "displayQuery": "pasta",
-      "lastUpdatedAt": "2026-07-28T07:47:05+00:00",
+      "lastUpdatedAt": "2026-07-29T07:52:13+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -678,54 +794,54 @@
       "name": "AGNESI",
       "rank": 2,
       "pros": [
-        "Top-ranked in Altroconsumo's 2026 pasta test",
-        "Excellent taste and texture",
-        "Widely available"
+        "Premium quality pasta",
+        "Consistent texture",
+        "Competitive pricing"
       ],
       "amazonLink": "https://amazon.com/s?k=AGNESI&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "patatine",
       "displayQuery": "patatine",
-      "lastUpdatedAt": "2026-07-28T07:52:34+00:00",
+      "lastUpdatedAt": "2026-07-29T07:55:08+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori marche di patatine",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore",
-      "name": "Amica Chips Eldorada Gusto Salsa Barbecue Energia per 100g: 479 kcal Gruppo di prodotti: Patatine aromatizzate",
+      "name": "AMICA CHIPS",
       "rank": 1,
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-12-16.",
-        "Extracted directly from the official comparison page 'Migliori marche di patatine'."
+        "High quality per Altroconsumo lab tests",
+        "Competitive price",
+        "Wide flavor range"
       ],
-      "amazonLink": "https://amazon.com/s?k=Amica+Chips+Eldorada+Gusto+Salsa+Barbecue+Energia+per+100g%3A+479+kcal+Gruppo+di+prodotti%3A+Patatine+aromatizzate&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "patatine",
       "displayQuery": "patatine",
-      "lastUpdatedAt": "2026-07-28T07:52:34+00:00",
+      "lastUpdatedAt": "2026-07-29T07:55:08+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori marche di patatine",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore",
-      "name": "Amica Chips Eldorada Ricetta Grigliata Energia per 100g: 479 kcal Gruppo di prodotti: Patatine",
+      "name": "CARREFOUR CLASSIC",
       "rank": 2,
       "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-12-16.",
-        "Extracted directly from the official comparison page 'Migliori marche di patatine'."
+        "Excellent taste per Altroconsumo review",
+        "Affordable price",
+        "Consistent quality"
       ],
-      "amazonLink": "https://amazon.com/s?k=Amica+Chips+Eldorada+Ricetta+Grigliata+Energia+per+100g%3A+479+kcal+Gruppo+di+prodotti%3A+Patatine&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20"
     },
     {
       "categoryKey": "pesto",
       "displayQuery": "pesto",
-      "lastUpdatedAt": "2026-07-28T07:51:46+00:00",
+      "lastUpdatedAt": "2026-07-29T07:54:49+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -744,7 +860,7 @@
     {
       "categoryKey": "pesto",
       "displayQuery": "pesto",
-      "lastUpdatedAt": "2026-07-28T07:51:46+00:00",
+      "lastUpdatedAt": "2026-07-29T07:54:49+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
@@ -763,40 +879,19 @@
     {
       "categoryKey": "riso",
       "displayQuery": "riso",
-      "lastUpdatedAt": "2026-07-28T07:47:50+00:00",
+      "lastUpdatedAt": "2026-07-29T07:52:46+00:00",
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "videoSource": "Migliori marche di Riso",
       "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore",
-      "name": "RISO RICCÒ",
+      "name": "CAROSIO (LIDL)",
       "rank": 1,
       "pros": [
-        "Lab-tested quality ranked among top picks by Altroconsumo",
-        "Excellent texture for risotto and other dishes",
-        "Competitive price per kilogram"
+        "Explicit"
       ],
-      "amazonLink": "https://amazon.com/s?k=RISO+RICC%C3%92&tag=your_amazon_tag-20"
-    },
-    {
-      "categoryKey": "riso",
-      "displayQuery": "riso",
-      "lastUpdatedAt": "2026-07-28T07:47:50+00:00",
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "videoSource": "Migliori marche di Riso",
-      "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore",
-      "name": "RISO SCOTTI",
-      "rank": 2,
-      "pros": [
-        "Lab-tested quality ranked among top picks by Altroconsumo",
-        "Versatile for risotto, timballi, and salads",
-        "Good value for money"
-      ],
-      "amazonLink": "https://amazon.com/s?k=RISO+SCOTTI&tag=your_amazon_tag-20"
+      "amazonLink": "https://amazon.com/s?k=CAROSIO+%28LIDL%29&tag=your_amazon_tag-20"
     }
   ]
 }
