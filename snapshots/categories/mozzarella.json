@@ -5,30 +5,9 @@
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-01T07:49:45+00:00",
+  "lastUpdatedAt": "2026-08-02T07:53:49+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=CONAD+ALIMENTUM+Pizza+Margherita+con+mozzarella+senza+lattosio+-+senza+glutine&tag=your_amazon_tag-20",
-      "name": "CONAD ALIMENTUM Pizza Margherita con mozzarella senza lattosio - senza glutine",
-      "pros": [
-        "Contains 20% lactose‑free mozzarella",
-        "Gluten‑free formulation",
-        "Tested for nutritional balance by Altroconsumo"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=TRE+MULINI+%28EUROSPIN%29+2+pizze+con+mozzarella+di+bufala+campana+DOP&tag=your_amazon_tag-20",
-      "name": "TRE MULINI (EUROSPIN) 2 pizze con mozzarella di bufala campana DOP",
-      "pros": [
-        "21% mozzarella di bufala campana DOP",
-        "High‑quality buffalo mozzarella",
-        "Tested for nutritional balance by Altroconsumo"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -37,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo tested these pizzas in November 2025, confirming quality and nutritional balance, but the evidence is older than 60 days.",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "CONAD ALIMENTUM PIZZA MARGHERITA CON MOZZARELLA SENZA LATTOSIO - SENZA GLUTINE",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/prodotti-surgelati/pizza-comparatore/conad-alimentum-pizza-margherita-con-mozzarella-senza-lattosio-senza-glutine/577/123556"
 }

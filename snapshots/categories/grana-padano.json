@@ -1,21 +1,40 @@
 {
   "cached": true,
   "categoryKey": "grana-padano",
-  "channelTitle": "Italia In Scaffale",
+  "channelTitle": "Antenna Tre",
   "displayQuery": "grana padano",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-01T07:51:00+00:00",
+  "lastUpdatedAt": "2026-08-02T07:55:08+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=SELEX+TORTELLINI+FRESCHI+PROSCIUTTO+CRUDO+CON+GRANA+PADANO+DOP&tag=your_amazon_tag-20",
+      "name": "SELEX TORTELLINI FRESCHI PROSCIUTTO CRUDO CON GRANA PADANO DOP",
+      "pros": [
+        "contains Grana Padano DOP",
+        "fresh pasta"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=ITALIAMO+%28LIDL%29+PESTO+CON+%22BASILICO+GENOVESE+DOP%22+E+%22GRANA+PADANO+DOP%22&tag=your_amazon_tag-20",
+      "name": "ITALIAMO (LIDL) PESTO CON \"BASILICO GENOVESE DOP\" E \"GRANA PADANO DOP\"",
+      "pros": [
+        "contains Grana Padano DOP",
+        "pesto with basilico Genovese DOP"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source"
+    "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "5 Marche di BURRO da Evitare e 2 che Sono Sicure",
-  "videoUrl": "https://www.youtube.com/watch?v=bhH7aDkzX6Q"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "«IL LATTE DALL’ESTERO STA DISTRUGGENDO LE NOSTRE STALLE» | 02/01/2026",
+  "videoUrl": "https://www.youtube.com/watch?v=Vxrs404ujeE"
 }
