@@ -5,16 +5,28 @@
   "displayQuery": "latte",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-03T08:43:44+00:00",
+  "lastUpdatedAt": "2026-08-04T07:49:11+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=ARBOREA&tag=your_amazon_tag-20",
       "name": "ARBOREA",
       "pros": [
-        "Recommended by Altroconsum"
+        "High quality milk with good taste",
+        "Competitive price",
+        "Widely available in supermarkets"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20",
+      "name": "CARREFOUR CLASSIC",
+      "pros": [
+        "Excellent flavor profile",
+        "Affordable price point",
+        "Convenient availability"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2025 review lists ARBOREA and CARREFOUR CLASSIC as top‑rated milks, highlighting their quality, price and availability. The evidence is recent (published 2025‑04‑22).",
   "videoSource": "Miglior Latte: marche, prezzi, confezioni",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore"
 }
