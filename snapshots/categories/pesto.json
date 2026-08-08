@@ -5,30 +5,9 @@
   "displayQuery": "pesto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-07T06:22:15+00:00",
+  "lastUpdatedAt": "2026-08-08T06:00:22+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
-      "name": "BARILLA",
-      "pros": [
-        "Recommended by Altroconsumo",
-        "High quality pesto sauce",
-        "Good price"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=ESSELUNGA&tag=your_amazon_tag-20",
-      "name": "ESSELUNGA",
-      "pros": [
-        "Recommended by Altroconsumo",
-        "High quality pesto sauce",
-        "Good price"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -37,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 review lists BARILLA and ESSELUNGA as top pesto brands, indicating fresh evidence.",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "Migliori marche di Sughi Rossi e al Pesto",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/sughi-pronti/comparatore"
 }
