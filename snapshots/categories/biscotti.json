@@ -5,9 +5,30 @@
   "displayQuery": "biscotti",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-08T06:04:53+00:00",
+  "lastUpdatedAt": "2026-08-09T06:05:16+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=GULLON+Cuor+di+Cereale+Integrale+con+Fiocchi+di+Avena+Senza+Zuccheri+Aggiunti&tag=your_amazon_tag-20",
+      "name": "GULLON Cuor di Cereale Integrale con Fiocchi di Avena Senza Zuccheri Aggiunti",
+      "pros": [
+        "High whole‑grain content",
+        "No added sugar",
+        "Low calorie"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=BALOCCO+Zeropi%C3%B9+7+cereali+corn+flakes&tag=your_amazon_tag-20",
+      "name": "BALOCCO Zeropiù 7 cereali corn flakes",
+      "pros": [
+        "Rich in cereals",
+        "No added sugar",
+        "Light texture"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. The Altroconsumo 2026‑04‑24 test lists these two biscuits as top performers for no‑added‑sugar biscuits. The evidence is older than 60 days.",
   "videoSource": "Migliori biscotti per la colazione",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore"
 }
