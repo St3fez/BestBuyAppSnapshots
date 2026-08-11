@@ -5,30 +5,9 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-10T06:22:30+00:00",
+  "lastUpdatedAt": "2026-08-11T06:02:50+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Barilla&tag=your_amazon_tag-20",
-      "name": "Barilla",
-      "pros": [
-        "Recommended by Altroconsumo in their 2026 pasta test",
-        "High quality semolina for consistent texture",
-        "Good price point"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Agnesi&tag=your_amazon_tag-20",
-      "name": "Agnesi",
-      "pros": [
-        "Recommended by Altroconsumo in their 2026 pasta test",
-        "Excellent taste and flavor",
-        "Widely available in supermarkets"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -37,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 pasta test lists Barilla and Agnesi as recommended brands, providing fresh evidence of their quality and value.",
-  "videoSource": "Migliori marche di pasta: marche, recensioni e confronti",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/comparatore"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Migliori paste fresche ripiene",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta-ripiena/comparatore"
 }

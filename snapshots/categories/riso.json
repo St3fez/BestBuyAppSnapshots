@@ -5,16 +5,28 @@
   "displayQuery": "riso",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-10T06:23:16+00:00",
+  "lastUpdatedAt": "2026-08-11T06:03:16+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=SORRISI+DI+SPIGA+Carnaroli&tag=your_amazon_tag-20",
-      "name": "SORRISI DI SPIGA Carnaroli",
+      "amazonLink": "https://amazon.com/s?k=Riso+Carnaroli&tag=your_amazon_tag-20",
+      "name": "Riso Carnaroli",
       "pros": [
-        "Product tested"
+        "Excellent cooking retention, absorbs condiments well",
+        "Ideal for risotto, also good for salads and timballi",
+        "Proven by Altroconsumo lab test"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Riso+Basmati&tag=your_amazon_tag-20",
+      "name": "Riso Basmati",
+      "pros": [
+        "Long grains with distinct aroma",
+        "Tested by Altroconsumo, meets quality standards",
+        "Suitable for dishes requiring aromatic rice"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s November 2025 lab test recommends Riso Carnaroli and Riso Basmati as top picks, providing recent evidence of their quality.",
   "videoSource": "Migliori marche di Riso",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore"
 }

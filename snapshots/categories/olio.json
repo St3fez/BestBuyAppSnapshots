@@ -5,20 +5,9 @@
   "displayQuery": "olio",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-10T06:29:45+00:00",
+  "lastUpdatedAt": "2026-08-11T06:09:12+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Miglior+acquisto+Altroconsumo+86&tag=your_amazon_tag-20",
-      "name": "Miglior acquisto Altroconsumo 86",
-      "pros": [
-        "Excellent quality (86/100)",
-        "Moderate price (€11.69)",
-        "Lab‑tested"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -27,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s 2026‑07‑14 review recommends this olive oil as the best purchase based on quality and price; evidence is fresh (published within the last 60 days).",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "Olio extravergine di oliva: guide ed approfondimenti",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/olio-oliva"
 }
