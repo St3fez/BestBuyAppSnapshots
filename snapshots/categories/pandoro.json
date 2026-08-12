@@ -5,16 +5,28 @@
   "displayQuery": "pandoro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-11T06:08:02+00:00",
+  "lastUpdatedAt": "2026-08-12T06:45:13+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=Tre+Marie+Pandoro&tag=your_amazon_tag-20",
       "name": "Tre Marie Pandoro",
       "pros": [
-        "Awarded 'Migliore del"
+        "Best in Altroconsumo laboratory test",
+        "High consumer satisfaction",
+        "Competitive price"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Conad+Pandoro&tag=your_amazon_tag-20",
+      "name": "Conad Pandoro",
+      "pros": [
+        "Top-rated in Altroconsumo test",
+        "Good value for money",
+        "Widely available"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025‑2026 laboratory and consumer tasting tests identify Tre Marie and Conad as the top pandoro choices, providing recent evidence of quality and value.",
   "videoSource": "Migliori Pandori 2025",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro/comparatore"
 }
