@@ -5,9 +5,30 @@
   "displayQuery": "biscotti",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-12T06:48:46+00:00",
+  "lastUpdatedAt": "2026-08-13T06:50:48+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=GULLON+Cuor+di+Cereale+Integrale+con+Fiocchi+di+Avena+Senza+Zuccheri+Aggiunti&tag=your_amazon_tag-20",
+      "name": "GULLON Cuor di Cereale Integrale con Fiocchi di Avena Senza Zuccheri Aggiunti",
+      "pros": [
+        "High fiber content from whole grain and oats",
+        "No added sugars, suitable for low-sugar diets",
+        "Positive rating in Altroconsumo’s 2026 test"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=BALOCCO+Zeropi%C3%B9+7+cereali+corn+flakes&tag=your_amazon_tag-20",
+      "name": "BALOCCO Zeropiù 7 cereali corn flakes",
+      "pros": [
+        "Contains 7 cereals for balanced nutrition",
+        "No added sugars, low calorie",
+        "Highly rated in Altroconsumo’s 2026 test"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 test identifies GULLON Cuor di Cereale Integrale and BALOCCO Zeropiù 7 cereali as top biscuits without added sugar, offering high fiber and low sugar content.",
   "videoSource": "Migliori biscotti per la colazione",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore"
 }
