@@ -1,22 +1,32 @@
 {
   "cached": true,
   "categoryKey": "acqua",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Water Filter Guru",
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-14T06:47:16+00:00",
+  "lastUpdatedAt": "2026-08-15T05:45:59+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=AquaTru&tag=your_amazon_tag-20",
+      "name": "AquaTru",
+      "pros": [
+        "Top-rated with a 9.59 overall score",
+        "Removes 100% of key contaminants",
+        "Outperformed other countertop filters in tests"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Acqua",
-  "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "Top-Rated Countertop Water Filter? AquaTru Review & Test Results",
+  "videoUrl": "https://www.youtube.com/watch?v=i9CnEUbk87c"
 }
