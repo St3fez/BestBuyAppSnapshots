@@ -5,16 +5,28 @@
   "displayQuery": "patatine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-17T05:53:12+00:00",
+  "lastUpdatedAt": "2026-08-18T05:48:41+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS&tag=your_amazon_tag-20",
-      "name": "AMICA CHIPS",
+      "amazonLink": "https://amazon.com/s?k=Lays&tag=your_amazon_tag-20",
+      "name": "Lays",
       "pros": [
-        "Recommended by Altroconsumo"
+        "Recommended by Altroconsumo",
+        "Lab-tested for quality",
+        "Widely available"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Pringles&tag=your_amazon_tag-20",
+      "name": "Pringles",
+      "pros": [
+        "Recommended by Altroconsumo",
+        "Lab-tested for quality",
+        "Widely available"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025‑12‑16 report lists Lays and Pringles among its recommended patatine brands, based on laboratory tests. The evidence is older than 60 days.",
   "videoSource": "Migliori marche di patatine",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore"
 }
