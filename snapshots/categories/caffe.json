@@ -5,16 +5,16 @@
   "displayQuery": "caffe",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-19T05:47:14+00:00",
+  "lastUpdatedAt": "2026-08-20T05:47:17+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20",
       "name": "Dolce Gusto",
       "pros": [
-        "Best taste according to Altroconsumo test",
-        "Wide compatibility with machines",
-        "Competitive price"
+        "Wide selection of capsule flavors",
+        "High quality espresso",
+        "Compatible with many machines"
       ],
       "rank": 1
     },
@@ -22,9 +22,9 @@
       "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20",
       "name": "Nespresso",
       "pros": [
-        "High quality espresso",
-        "Excellent machine compatibility",
-        "Good value for money"
+        "Premium espresso quality",
+        "Wide range of blends",
+        "Easy to use"
       ],
       "rank": 2
     }
@@ -32,12 +32,13 @@
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
-    "Altroconsumo"
+    "Altroconsumo",
+    "Assoutenti APS"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2025‑03‑21 report recommends Dolce Gusto and Nespresso capsules as top picks based on taste, compatibility and price. The evidence is older than 60 days.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo, Assoutenti APS. Altroconsumo's 2025-03-21 review recommends Dolce Gusto and Nespresso as top capsule brands; the evidence is fresh and directly from the official consumer organization.",
   "videoSource": "Migliori Capsule Caffè : marche e prezzi",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/comparatore"
 }
