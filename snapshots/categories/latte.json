@@ -1,43 +1,31 @@
 {
   "cached": true,
   "categoryKey": "latte",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Mondo Mercato",
   "displayQuery": "latte",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-20T05:46:43+00:00",
+  "lastUpdatedAt": "2026-08-21T05:48:26+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=ARBOREA&tag=your_amazon_tag-20",
       "name": "ARBOREA",
       "pros": [
-        "High quality milk",
-        "Excellent taste",
-        "Affordable price"
+        "recommended by Altroconsumo"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20",
-      "name": "CARREFOUR CLASSIC",
-      "pros": [
-        "Consistent quality",
-        "Good flavor",
-        "Competitive pricing"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
+    "altroconsumo",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's 2025 test recommends ARBOREA and CARREFOUR CLASSIC as top milk choices based on quality, taste, and price. The evidence is from a 2025 publication, older than 60 days.",
-  "videoSource": "Miglior Latte: marche, prezzi, confezioni",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: altroconsumo",
+  "videoSource": "Queste 7 Marche di Latte Sono le Peggiori in Italia: Altroconsumo Svela Tutto",
+  "videoUrl": "https://www.youtube.com/watch?v=9dKbx1v1NX0"
 }
