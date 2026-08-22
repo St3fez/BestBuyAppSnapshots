@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-08-21T06:03:34+00:00",
+  "generatedAt": "2026-08-22T05:58:09+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -88,7 +88,7 @@
     },
     {
       "category": "biscotti",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'biscotti'. Last status: refreshing"
     },
     {
       "category": "birra",
@@ -108,7 +108,7 @@
     },
     {
       "category": "panettone",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'panettone'. Last status: refreshing"
     },
     {
       "category": "fette biscottate",

@@ -1,43 +1,42 @@
 {
   "cached": true,
   "categoryKey": "miele",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Tech-quisitions",
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-21T05:57:46+00:00",
+  "lastUpdatedAt": "2026-08-22T05:51:58+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Miele+WEI885+WCS+125+GALA+Edition&tag=your_amazon_tag-20",
-      "name": "Miele WEI885 WCS 125 GALA Edition",
+      "amazonLink": "https://amazon.com/s?k=MIELE+WEI885+WCS+125+GALA+Edition&tag=your_amazon_tag-20",
+      "name": "MIELE WEI885 WCS 125 GALA Edition",
       "pros": [
-        "5-star rating from Altroconsumo",
-        "9 kg load capacity",
-        "1600 rpm spin speed"
+        "9 kg capacity",
+        "1,600 rpm spin speed",
+        "inverter motor"
       ],
       "rank": 1
     },
     {
-      "amazonLink": "https://amazon.com/s?k=Miele+WDD131+WPS+Guideline&tag=your_amazon_tag-20",
-      "name": "Miele WDD131 WPS Guideline",
+      "amazonLink": "https://amazon.com/s?k=MIELE+WDD131+WPS+Guideline&tag=your_amazon_tag-20",
+      "name": "MIELE WDD131 WPS Guideline",
       "pros": [
-        "4-star rating from Altroconsumo",
-        "8 kg load capacity",
-        "1400 rpm spin speed"
+        "8 kg capacity",
+        "1,400 rpm spin speed",
+        "inverter motor"
       ],
       "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo reviews give these Miele models high ratings and highlight their load capacities and spin speeds. The documents lack publication dates, so the evidence is likely older than 60 days.",
-  "videoSource": "MIELE WEI885 WCS 125 GALA EDITION",
-  "videoUrl": "https://www.altroconsumo.it/elettrodomestici/lavatrici/comparatore/miele-wei885-wcs-125-gala-edition/165/ITR173338"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "Migliore Lavasciuga 2026: Non buttare soldi! La Classifica Top 5 (Slim & Smart)",
+  "videoUrl": "https://www.youtube.com/watch?v=bNw7E3l9q5E"
 }
