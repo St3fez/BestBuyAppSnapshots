@@ -5,9 +5,30 @@
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-24T05:59:35+00:00",
+  "lastUpdatedAt": "2026-08-25T05:54:05+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Miele+WEI885+WCS+125+GALA+Edition&tag=your_amazon_tag-20",
+      "name": "Miele WEI885 WCS 125 GALA Edition",
+      "pros": [
+        "9 kg load capacity",
+        "1600 rpm spin speed",
+        "Inverter motor for energy efficiency"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Miele+G+7040+SC+Front+Autodos&tag=your_amazon_tag-20",
+      "name": "Miele G 7040 SC Front Autodos",
+      "pros": [
+        "14-seat capacity",
+        "5‑star overall rating",
+        "Front‑loading independent design with time‑remaining indicator"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Miele di manuka: proprietà, prezzo, benefici e controindicazioni",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/speciali/miele-di-manuka"
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo reviews highlight these Miele models as top picks, citing high capacity, advanced motor technology, and strong overall ratings. Publication dates are unknown, so freshness cannot be confirmed.",
+  "videoSource": "MIELE WEI885 WCS 125 GALA EDITION",
+  "videoUrl": "https://www.altroconsumo.it/elettrodomestici/lavatrici/comparatore/miele-wei885-wcs-125-gala-edition/165/ITR173338"
 }

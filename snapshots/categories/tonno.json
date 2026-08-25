@@ -5,9 +5,20 @@
   "displayQuery": "tonno",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-24T06:00:51+00:00",
+  "lastUpdatedAt": "2026-08-25T05:55:06+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Tonno+in+lattina&tag=your_amazon_tag-20",
+      "name": "Tonno in lattina",
+      "pros": [
+        "Convenient ready-to-use format",
+        "Affordable price compared to glass",
+        "Comparable quality to glass versions"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +27,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo (May 2026) recommends canned tuna for its convenience, affordability, and quality.",
   "videoSource": "Tonno in scatola e in vetro: consigli e recensioni",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/tonno"
 }
