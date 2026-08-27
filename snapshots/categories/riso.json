@@ -5,28 +5,16 @@
   "displayQuery": "riso",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-26T05:48:53+00:00",
+  "lastUpdatedAt": "2026-08-27T16:30:28+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Carnaroli&tag=your_amazon_tag-20",
-      "name": "Carnaroli",
+      "amazonLink": "https://amazon.com/s?k=CAROSIO+%28LIDL%29&tag=your_amazon_tag-20",
+      "name": "CAROSIO (LIDL)",
       "pros": [
-        "Best performing in Altroconsumo lab tests",
-        "Recommended by Altroconsumo for risotto and salads",
-        "High cooking quality and excellent absorption"
+        "Explicitly recommended"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Basmati&tag=your_amazon_tag-20",
-      "name": "Basmati",
-      "pros": [
-        "Highly rated in Altroconsumo tests",
-        "Recommended for its long grains and distinct aroma",
-        "Suitable for a variety of dishes"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -37,7 +25,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's recent lab tests (published 2025-11-20) recommend Carnaroli and Basmati as top rice choices.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
   "videoSource": "Migliori marche di Riso",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore"
 }

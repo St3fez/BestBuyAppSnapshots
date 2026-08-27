@@ -1,22 +1,30 @@
 {
   "cached": true,
   "categoryKey": "biscotti",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "nutri.andrea.filipponi",
   "displayQuery": "biscotti",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-26T05:55:09+00:00",
+  "lastUpdatedAt": "2026-08-27T16:37:18+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=MARZANI+BISCOTTO+CASARECCIO&tag=your_amazon_tag-20",
+      "name": "MARZANI BISCOTTO CASARECCIO",
+      "pros": [
+        "Tested"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Migliori biscotti per la colazione",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/biscotti/comparatore"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "🏅BISCOTTI PER DIMAGRIRE: la mia classifica #nutrizionista #nutrizione #dieta #dimagrire #biscotti",
+  "videoUrl": "https://www.youtube.com/watch?v=9s5cXqX-Yzg"
 }

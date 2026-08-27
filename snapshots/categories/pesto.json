@@ -5,26 +5,26 @@
   "displayQuery": "pesto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-26T05:51:18+00:00",
+  "lastUpdatedAt": "2026-08-27T16:33:35+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
-      "name": "BARILLA",
-      "pros": [
-        "Recommended by Altroconsumo",
-        "Listed among top pesto sauces",
-        "Good price-performance"
-      ],
-      "rank": 1
-    },
     {
       "amazonLink": "https://amazon.com/s?k=ESSELUNGA&tag=your_amazon_tag-20",
       "name": "ESSELUNGA",
       "pros": [
-        "Recommended by Altroconsumo",
-        "Listed among top pesto sauces",
-        "High quality ingredients"
+        "Recommended by Altroconsumo in the 2026 study on pesto sauces",
+        "High quality rating in Altroconsumo's assessment",
+        "Good price‑to‑quality ratio"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
+      "name": "BARILLA",
+      "pros": [
+        "Recommended by Altroconsumo in the 2026 study on pesto sauces",
+        "Widely available and trusted brand",
+        "Positive taste profile according to Altroconsumo evaluation"
       ],
       "rank": 2
     }
@@ -37,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2026 review lists BARILLA and ESSELUNGA as top pesto sauce picks, providing fresh evidence.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 study recommends ESSELUNGA and BARILLA as top pesto options, though the evidence is older than 60 days.",
   "videoSource": "Migliori marche di Sughi Rossi e al Pesto",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/sughi-pronti/comparatore"
 }

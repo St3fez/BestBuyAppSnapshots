@@ -5,9 +5,20 @@
   "displayQuery": "burro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-26T05:52:43+00:00",
+  "lastUpdatedAt": "2026-08-27T16:34:43+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Burro+da+centrifuga&tag=your_amazon_tag-20",
+      "name": "Burro da centrifuga",
+      "pros": [
+        "Produced by centrifugation, resulting in higher quality butter",
+        "Softer and sweeter taste compared to cream-based butter",
+        "Preferred by Altroconsumo as the best choice for quality"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +27,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 guide recommends butter produced by centrifugation as the superior option, citing its higher quality, sweeter flavor, and overall preference among consumers.",
   "videoSource": "Burro: come sceglierlo, tipi, calorie e quanto consumarne",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/guida-acquisto/scegliere-burro"
 }
