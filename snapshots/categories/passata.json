@@ -5,30 +5,9 @@
   "displayQuery": "passata",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-08-27T16:32:56+00:00",
+  "lastUpdatedAt": "2026-08-28T17:29:22+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
-      "name": "ALCE NERO",
-      "pros": [
-        "Top-ranked in Altroconsumo's laboratory tests for passata di pomodoro",
-        "100% tomato passata with no added water",
-        "Available in a range of price points"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=CASAR&tag=your_amazon_tag-20",
-      "name": "CASAR",
-      "pros": [
-        "Second-ranked in Altroconsumo's laboratory tests for passata di pomodoro",
-        "100% tomato passata with no added water",
-        "Widely available in supermarkets"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -37,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 laboratory tests recommend ALCE NERO and CASAR as top choices for passata di pomodoro; the evidence is recent (published June 2025).",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "Migliori Passate di pomodoro",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore"
 }
