@@ -5,16 +5,28 @@
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-01T10:13:32+00:00",
+  "lastUpdatedAt": "2026-09-02T09:47:50+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Miele+di+manuka&tag=your_amazon_tag-20",
-      "name": "Miele di manuka",
+      "amazonLink": "https://amazon.com/s?k=MIELE+G+5853+SCVI+Active+PLUS&tag=your_amazon_tag-20",
+      "name": "MIELE G 5853 SCVI Active PLUS",
       "pros": [
-        "Has therapeutic properties"
+        "Energy class A",
+        "Capacity for 14 people",
+        "Built‑in timer indicator"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=MIELE+WEI885+WCS+125+GALA+EDITION&tag=your_amazon_tag-20",
+      "name": "MIELE WEI885 WCS 125 GALA EDITION",
+      "pros": [
+        "9 kg load capacity",
+        "1600 rpm spin speed",
+        "Gala edition design"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
