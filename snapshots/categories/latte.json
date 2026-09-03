@@ -5,16 +5,28 @@
   "displayQuery": "latte",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-02T09:37:37+00:00",
+  "lastUpdatedAt": "2026-09-03T09:47:22+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=ARBOREA&tag=your_amazon_tag-20",
       "name": "ARBOREA",
       "pros": [
-        "Recommended by Altroconsumo"
+        "Highest overall score in Altroconsumo's lab test of 16 UHT partially skimmed milk samples",
+        "Good price point relative to quality",
+        "Long shelf life due to UHT treatment"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CARREFOUR+CLASSIC&tag=your_amazon_tag-20",
+      "name": "CARREFOUR CLASSIC",
+      "pros": [
+        "Strong performance in Altroconsumo's taste and quality assessment",
+        "Competitive price",
+        "Widely available in supermarkets"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
-  "videoSource": "Miglior Latte: marche, prezzi, confezioni",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026‑07‑14 lab tests recommend ARBOREA and CARREFOUR CLASSIC as top choices for UHT partially skimmed milk, citing quality, price, and shelf life. Fresh evidence (within 60 days).",
+  "videoSource": "Migliori marche di latte: !Altroconsumo",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/comparatore"
 }
