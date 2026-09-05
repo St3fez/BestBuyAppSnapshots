@@ -5,9 +5,30 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-04T09:37:05+00:00",
+  "lastUpdatedAt": "2026-09-05T09:02:49+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+ECCELLENTE+%28EUROSPIN%29&tag=your_amazon_tag-20",
+      "name": "AMO ESSERE ECCELLENTE (EUROSPIN)",
+      "pros": [
+        "High quality fresh stuffed pasta",
+        "Excellent taste profile",
+        "Competitive price per kg"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=AVESANI&tag=your_amazon_tag-20",
+      "name": "AVESANI",
+      "pros": [
+        "Consistent texture and flavor",
+        "Trusted brand reputation",
+        "Good value for money"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2025 test on fresh stuffed pasta lists AMO ESSERE ECCELLENTE (EUROSPIN) and AVESANI as top recommendations, indicating they offer high quality, good taste, and competitive pricing.",
   "videoSource": "Migliori paste fresche ripiene",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-ripiena-comparatore"
 }
