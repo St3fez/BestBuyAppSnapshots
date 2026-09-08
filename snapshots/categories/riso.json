@@ -1,42 +1,43 @@
 {
   "cached": true,
   "categoryKey": "riso",
-  "channelTitle": "Il Carrello degli Italiani",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "riso",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-07T10:15:26+00:00",
+  "lastUpdatedAt": "2026-09-08T09:39:49+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Carnaroli&tag=your_amazon_tag-20",
-      "name": "Carnaroli",
+      "amazonLink": "https://amazon.com/s?k=Riso+Carnaroli&tag=your_amazon_tag-20",
+      "name": "Riso Carnaroli",
       "pros": [
-        "Large grains that absorb condiments well",
-        "Stays al dente",
-        "Widely used in haute cuisine"
+        "Excellent cooking consistency, stays al dente",
+        "Absorbs flavors well, ideal for risotto",
+        "Versatile for salads and timballi"
       ],
       "rank": 1
     },
     {
-      "amazonLink": "https://amazon.com/s?k=Basmati&tag=your_amazon_tag-20",
-      "name": "Basmati",
+      "amazonLink": "https://amazon.com/s?k=Riso+Basmati&tag=your_amazon_tag-20",
+      "name": "Riso Basmati",
       "pros": [
-        "Long, thin grains that elongate while cooking",
-        "Low stickiness",
-        "Delicate, distinctive aroma"
+        "Long, aromatic grains",
+        "Ideal for pilaf and salads",
+        "Cooks quickly with distinct flavor"
       ],
       "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "Le Marche di RISO che è MEGLIO EVITARE",
-  "videoUrl": "https://www.youtube.com/watch?v=aT9cX120Am8"
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s November 2025 test highlights Riso Carnaroli and Riso Basmati as top picks for their superior cooking qualities.",
+  "videoSource": "Migliori marche di Riso",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore"
 }
