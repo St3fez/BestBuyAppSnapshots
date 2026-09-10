@@ -5,7 +5,7 @@
       "displayQuery": "grana padano",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T10:02:12+00:00",
+      "lastUpdatedAt": "2026-09-10T09:55:50+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source"
@@ -19,7 +19,7 @@
       "displayQuery": "mozzarella di bufala",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T10:01:36+00:00",
+      "lastUpdatedAt": "2026-09-10T09:55:13+00:00",
       "productCount": 1,
       "sourceSignals": [
         "official consumer source",
@@ -34,7 +34,7 @@
       "displayQuery": "mozzarella",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T10:01:04+00:00",
+      "lastUpdatedAt": "2026-09-10T09:54:45+00:00",
       "productCount": 1,
       "sourceSignals": [
         "official consumer source",
@@ -49,7 +49,7 @@
       "displayQuery": "cracker",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T10:00:32+00:00",
+      "lastUpdatedAt": "2026-09-10T09:54:11+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -64,7 +64,7 @@
       "displayQuery": "maionese",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:59:49+00:00",
+      "lastUpdatedAt": "2026-09-10T09:53:38+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -79,7 +79,7 @@
       "displayQuery": "fette biscottate",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:59:07+00:00",
+      "lastUpdatedAt": "2026-09-10T09:52:58+00:00",
       "productCount": 1,
       "sourceSignals": [
         "official consumer source",
@@ -94,14 +94,14 @@
       "displayQuery": "panettone",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:58:23+00:00",
-      "productCount": 1,
+      "lastUpdatedAt": "2026-09-10T09:52:17+00:00",
+      "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
       "videoSource": "Migliori Panettoni 2025"
     },
     {
@@ -109,7 +109,7 @@
       "displayQuery": "tonno",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:57:42+00:00",
+      "lastUpdatedAt": "2026-09-10T09:51:45+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -124,7 +124,7 @@
       "displayQuery": "farina",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:57:00+00:00",
+      "lastUpdatedAt": "2026-09-10T09:51:01+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -139,7 +139,7 @@
       "displayQuery": "miele",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:56:13+00:00",
+      "lastUpdatedAt": "2026-09-10T09:50:12+00:00",
       "productCount": 2,
       "sourceSignals": [
         "Altroconsumo"
@@ -153,7 +153,7 @@
       "displayQuery": "birra",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:55:01+00:00",
+      "lastUpdatedAt": "2026-09-10T09:49:17+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -168,21 +168,21 @@
       "displayQuery": "biscotti",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:54:20+00:00",
+      "lastUpdatedAt": "2026-09-10T09:48:51+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source"
       ],
       "status": "ready",
       "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "Prezzi in salita, fedeltà in calo: come stanno cambiando le abitudini dei consumatori italiani nel rapporto EY Future Consumer Index"
+      "videoSource": "PREZZI, CODACONS: DAL 15 LUGLIO VIA LIBERA ALLE NUOVE REGOLE CONTRO LA SHRINKFLATION SU BENI DI LARGO CONSUMO CHE VALGONO 120 MILIARDI DI EURO IN ITALIA"
     },
     {
       "categoryKey": "yogurt",
       "displayQuery": "yogurt",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:53:36+00:00",
+      "lastUpdatedAt": "2026-09-10T09:48:20+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source"
@@ -194,88 +194,90 @@
     {
       "categoryKey": "acqua",
       "displayQuery": "acqua",
-      "hasProducts": true,
+      "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:52:31+00:00",
-      "productCount": 2,
+      "lastUpdatedAt": "2026-09-10T09:47:49+00:00",
+      "productCount": 0,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026‑06‑29 test recommends Acqua di Nepi and Alpe Guizza as top picks based on purity, taste, and price. The evidence is older than 60 days.",
+      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
       "videoSource": "Migliori marche​ di acqua in bottiglia"
     },
     {
       "categoryKey": "olio",
       "displayQuery": "olio",
-      "hasProducts": false,
+      "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:51:33+00:00",
-      "productCount": 0,
+      "lastUpdatedAt": "2026-09-10T09:47:02+00:00",
+      "productCount": 1,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo's July 2026 review recommends Altroconsumo 86 as the best purchase, based on lab testing and quality assessment.",
       "videoSource": "Olio extravergine di oliva: guide ed approfondimenti"
     },
     {
       "categoryKey": "burro",
       "displayQuery": "burro",
-      "hasProducts": false,
+      "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:50:48+00:00",
-      "productCount": 0,
+      "lastUpdatedAt": "2026-09-10T09:46:42+00:00",
+      "productCount": 1,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s September 2025 test highlights this bar as a solid choice for consumers seeking a cereal bar with peanut butter, noting its high oat content, protein‑rich peanut butter, and natural sweeteners.",
       "videoSource": "NATURE VALLEY CRUNCHY FIOCCHI D'AVENA E BURRO D'ARACHIDI"
-    },
-    {
-      "categoryKey": "patatine",
-      "displayQuery": "patatine",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:50:01+00:00",
-      "productCount": 1,
-      "sourceSignals": [],
-      "status": "ready",
-      "trustedSourceSummary": "Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-      "videoSource": "The Top 5 Best Variety Chips in 2026 - Must Watch Before Buying!"
     },
     {
       "categoryKey": "pandoro",
       "displayQuery": "pandoro",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:49:57+00:00",
+      "lastUpdatedAt": "2026-09-10T09:46:24+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s recent lab tests (December 2025) recommend BALOCCO and FAVORINA (LIDL) PANDORO CLASSICO as top‑rated pandori, citing superior quality, good price and consumer approval.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s December 2025 laboratory tests recommend CONAD PANDORO and FAVORINA (LIDL) PANDORO CLASSICO as top picks, citing good quality and competitive prices.",
       "videoSource": "Migliori Pandori 2025"
+    },
+    {
+      "categoryKey": "patatine",
+      "displayQuery": "patatine",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-09-10T09:46:01+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "videoSource": "Rassegna stampa del 16 e 17 maggio 2026"
     },
     {
       "categoryKey": "pesto",
       "displayQuery": "pesto",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:47:50+00:00",
+      "lastUpdatedAt": "2026-09-10T09:45:25+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 review lists BARILLA and ESSELUNGA as top pesto brands, indicating fresh evidence.",
       "videoSource": "Migliori marche di Sughi Rossi e al Pesto"
     },
     {
@@ -283,14 +285,14 @@
       "displayQuery": "passata di pomodoro",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:47:05+00:00",
+      "lastUpdatedAt": "2026-09-10T09:45:02+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "Exact official tests for \"passata di pomodoro\" were not available in 2025-2026, so the broader official category \"passata\" was used. No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025-06-24 lab tests recommend these brands; the evidence is older than 60 days.",
+      "trustedSourceSummary": "Exact official tests for \"passata di pomodoro\" were not available in 2025-2026, so the broader official category \"passata\" was used. No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 lab tests recommend ALCE NERO and MUTTI as top passata brands, with fresh evidence from June 2025.",
       "videoSource": "Migliori Passate di pomodoro"
     },
     {
@@ -298,14 +300,14 @@
       "displayQuery": "passata",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:46:38+00:00",
+      "lastUpdatedAt": "2026-09-10T09:44:26+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 test recommends these brands; evidence is fresh",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 test recommends these brands; evidence is fresh (published 2025-06-24).",
       "videoSource": "Migliori Passate di pomodoro"
     },
     {
@@ -313,7 +315,7 @@
       "displayQuery": "aceto",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:46:04+00:00",
+      "lastUpdatedAt": "2026-09-10T09:43:54+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -328,14 +330,14 @@
       "displayQuery": "caffe",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:45:09+00:00",
-      "productCount": 2,
+      "lastUpdatedAt": "2026-09-10T09:43:12+00:00",
+      "productCount": 1,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s March 2025 capsule coffee test recommends Dolce Gusto and Nespresso as top picks, citing quality, compatibility and price. The data is fresh (published within the last 60 days).",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
       "videoSource": "Migliori Capsule Caffè : marche e prezzi"
     },
     {
@@ -343,14 +345,14 @@
       "displayQuery": "latte",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:44:29+00:00",
+      "lastUpdatedAt": "2026-09-10T09:42:35+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2025‑04‑22 laboratory test ranks ARBOREA and CARREFOUR CLASSIC among the best UHT partially skimmed milks, citing favorable composition, thermal stability and consumer taste ratings. The evidence is older than 60 days.",
+      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2025 laboratory tests list ARBOREA and CARREFOUR CLASSIC as top milk brands, highlighting their quality and price.",
       "videoSource": "Migliori marche di latte: !Altroconsumo"
     },
     {
@@ -358,14 +360,14 @@
       "displayQuery": "riso",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:43:49+00:00",
+      "lastUpdatedAt": "2026-09-10T09:41:57+00:00",
       "productCount": 2,
       "sourceSignals": [
         "official consumer source",
         "Altroconsumo"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 laboratory tests and 2026 review identify Carnaroli and Basmati as the best rice varieties for texture and flavor, providing fresh evidence from the latest tests.",
+      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s recent tests (Nov 2025) identify Riso Carnaroli and Riso Basmati as the top‑rated varieties, with clear performance and sensory advantages.",
       "videoSource": "Migliori marche di Riso"
     },
     {
@@ -373,7 +375,7 @@
       "displayQuery": "pasta",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-09-09T09:43:06+00:00",
+      "lastUpdatedAt": "2026-09-10T09:41:15+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
@@ -384,6 +386,6 @@
       "videoSource": "Migliori paste fresche ripiene"
     }
   ],
-  "generatedAt": "2026-09-09T10:02:13+00:00",
+  "generatedAt": "2026-09-10T09:55:50+00:00",
   "success": true
 }

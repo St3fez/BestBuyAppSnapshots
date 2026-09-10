@@ -5,26 +5,26 @@
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-09T09:56:13+00:00",
+  "lastUpdatedAt": "2026-09-10T09:50:12+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=MIELE+G+5851+SCVI+ACTIVE+PLUS&tag=your_amazon_tag-20",
-      "name": "MIELE G 5851 SCVI ACTIVE PLUS",
-      "pros": [
-        "High washing effectiveness",
-        "High drying effectiveness",
-        "Low environmental impact"
-      ],
-      "rank": 1
-    },
     {
       "amazonLink": "https://amazon.com/s?k=MIELE+WEI885+WCS+125+GALA+Edition&tag=your_amazon_tag-20",
       "name": "MIELE WEI885 WCS 125 GALA Edition",
       "pros": [
-        "9 kg load capacity",
-        "1600 rpm spin speed",
-        "Inverter motor technology"
+        "Inverter motor technology",
+        "Automatic detergent/softener dosing",
+        "High spin speed 1600 rpm"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=MIELE+WDD131+WPS+Guideline&tag=your_amazon_tag-20",
+      "name": "MIELE WDD131 WPS Guideline",
+      "pros": [
+        "Inverter motor technology",
+        "High spin speed 1400 rpm",
+        "Large capacity 8 kg"
       ],
       "rank": 2
     }

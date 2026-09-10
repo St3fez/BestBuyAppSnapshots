@@ -5,9 +5,20 @@
   "displayQuery": "burro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-09T09:50:48+00:00",
+  "lastUpdatedAt": "2026-09-10T09:46:42+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=NATURE+VALLEY+Crunchy+Fiocchi+d%27Avena+e+Burro+d%27arachidi&tag=your_amazon_tag-20",
+      "name": "NATURE VALLEY Crunchy Fiocchi d'Avena e Burro d'arachidi",
+      "pros": [
+        "55% whole oat flakes provide fiber and complex carbs",
+        "Contains peanut butter for protein and healthy fats",
+        "Includes honey and molasses for natural sweetness"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +27,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s September 2025 test highlights this bar as a solid choice for consumers seeking a cereal bar with peanut butter, noting its high oat content, protein‑rich peanut butter, and natural sweeteners.",
   "videoSource": "NATURE VALLEY CRUNCHY FIOCCHI D'AVENA E BURRO D'ARACHIDI",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/merenda/barrette-cereali-comparatore/nature-valley-crunchy-fiocchi-d-avena-e-burro-d-arachidi/580/109262"
 }
