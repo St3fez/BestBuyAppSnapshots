@@ -1,21 +1,30 @@
 {
   "cached": true,
   "categoryKey": "patatine",
-  "channelTitle": "Codacons",
+  "channelTitle": "Battle of the Best",
   "displayQuery": "patatine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-10T09:46:01+00:00",
+  "lastUpdatedAt": "2026-09-11T09:46:08+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS+Patatine+gusto+paprika&tag=your_amazon_tag-20",
+      "name": "AMICA CHIPS Patatine gusto paprika",
+      "pros": [
+        "Tested by Al"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source"
+    "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Rassegna stampa del 16 e 17 maggio 2026",
-  "videoUrl": "https://codacons.it/rassegna-stampa-del-16-e-17-maggio-2026/"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "The Top 5 Best Variety Chips in 2026 - Must Watch Before Buying!",
+  "videoUrl": "https://www.youtube.com/watch?v=08Js_NtV-yU"
 }
