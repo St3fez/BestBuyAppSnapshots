@@ -5,9 +5,30 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-11T09:39:53+00:00",
+  "lastUpdatedAt": "2026-09-12T09:18:15+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=PASTA+REALE+%28MD%29+PENNE+RIGATE&tag=your_amazon_tag-20",
+      "name": "PASTA REALE (MD) PENNE RIGATE",
+      "pros": [
+        "Affordable price of 1.18 €/kg",
+        "Short cooking time of 9 minutes",
+        "High quality as per Altroconsumo laboratory test"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+ECCELLENTE+%28EUROSPIN%29&tag=your_amazon_tag-20",
+      "name": "AMO ESSERE ECCELLENTE (EUROSPIN)",
+      "pros": [
+        "Recommended by Altroconsumo in the \"Migliori paste fresche ripiene\" test",
+        "High quality pasta with good taste",
+        "Competitive price"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo's test from January 2025 recommends these products; the evidence is older than 60 days.",
   "videoSource": "Migliori paste fresche ripiene",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-ripiena-comparatore"
 }
