@@ -5,9 +5,18 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-17T09:58:51+00:00",
+  "lastUpdatedAt": "2026-09-18T09:43:54+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=AGNESI&tag=your_amazon_tag-20",
+      "name": "AGNESI",
+      "pros": [
+        "Recommended by Altroconsumo's"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +25,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Migliori paste fresche ripiene",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-ripiena-comparatore"
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
+  "videoSource": "Migliori marche di pasta: marche, recensioni e confronti",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-comparatore"
 }
