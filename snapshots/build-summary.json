@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-09-18T10:00:11+00:00",
+  "generatedAt": "2026-09-19T09:42:36+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -64,7 +64,7 @@
     },
     {
       "category": "patatine",
-      "status": "error: Timed out while preparing snapshot for 'patatine'. Last status: refreshing"
+      "status": "ready"
     },
     {
       "category": "pandoro",
@@ -80,7 +80,7 @@
     },
     {
       "category": "acqua",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'acqua'. Last status: refreshing"
     },
     {
       "category": "yogurt",
@@ -112,7 +112,7 @@
     },
     {
       "category": "fette biscottate",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'fette biscottate'. Last status: refreshing"
     },
     {
       "category": "maionese",
