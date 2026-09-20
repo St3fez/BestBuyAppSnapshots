@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-09-19T09:42:36+00:00",
+  "generatedAt": "2026-09-20T10:04:47+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -80,7 +80,7 @@
     },
     {
       "category": "acqua",
-      "status": "error: Timed out while preparing snapshot for 'acqua'. Last status: refreshing"
+      "status": "ready"
     },
     {
       "category": "yogurt",
@@ -112,7 +112,7 @@
     },
     {
       "category": "fette biscottate",
-      "status": "error: Timed out while preparing snapshot for 'fette biscottate'. Last status: refreshing"
+      "status": "ready"
     },
     {
       "category": "maionese",
