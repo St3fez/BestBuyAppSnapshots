@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-09-21T10:58:40+00:00",
+  "generatedAt": "2026-09-22T10:11:01+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -64,7 +64,7 @@
     },
     {
       "category": "patatine",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'patatine'. Last status: refreshing"
     },
     {
       "category": "pandoro",

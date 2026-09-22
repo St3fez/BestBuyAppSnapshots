@@ -5,16 +5,28 @@
   "displayQuery": "caffe",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-21T10:43:10+00:00",
+  "lastUpdatedAt": "2026-09-22T09:57:58+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Dolce+Gusto+%28capsules%29&tag=your_amazon_tag-20",
-      "name": "Dolce Gusto (capsules)",
+      "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20",
+      "name": "Dolce Gusto",
       "pros": [
-        "Recommended"
+        "Top-rated in Altroconsumo's 2025 capsule test",
+        "Excellent espresso flavor",
+        "Compatible with a wide range of Dolce Gusto machines"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20",
+      "name": "Nespresso",
+      "pros": [
+        "Highly recommended by Altroconsumo in 2025 capsule review",
+        "Consistent quality and taste",
+        "Compatible with many Nespresso machines"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 capsule test recommends Dolce Gusto and Nespresso as top picks, providing evidence of quality, taste, and machine compatibility.",
   "videoSource": "Migliori Capsule Caffè : marche e prezzi",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/capsule-caffe-comparatore"
 }
