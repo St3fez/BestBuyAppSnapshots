@@ -5,9 +5,30 @@
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-22T10:03:27+00:00",
+  "lastUpdatedAt": "2026-09-23T10:04:48+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=EVIAN&tag=your_amazon_tag-20",
+      "name": "EVIAN",
+      "pros": [
+        "Low contaminants",
+        "Excellent taste",
+        "Competitive price"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=PERRIER&tag=your_amazon_tag-20",
+      "name": "PERRIER",
+      "pros": [
+        "Low contaminants",
+        "Excellent taste",
+        "Competitive price"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Acqua",
-  "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 test recommends EVIAN and PERRIER based on low contaminants, good taste, and competitive price.",
+  "videoSource": "Migliori marche​ di acqua in bottiglia",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/acqua-in-bottiglia/comparatore"
 }
