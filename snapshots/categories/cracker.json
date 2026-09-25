@@ -1,22 +1,32 @@
 {
   "cached": true,
   "categoryKey": "cracker",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Ambition IQ",
   "displayQuery": "cracker",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-24T10:14:31+00:00",
+  "lastUpdatedAt": "2026-09-25T10:26:47+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Malkist+Cheese+Flavoured+Cracker+Biscuits&tag=your_amazon_tag-20",
+      "name": "Malkist Cheese Flavoured Cracker Biscuits",
+      "pros": [
+        "Cheesy",
+        "Crunchy"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
+    "unc",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Migliori braccialetti fitness",
-  "videoUrl": "https://www.altroconsumo.it/hi-tech/wearable/fitness-tracker-comparatore"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: unc",
+  "videoSource": "Malkist Cheese Flavoured Cracker Biscuits Review | Cheesy & Crunchy! #ambitioniq #viral #shorts",
+  "videoUrl": "https://www.youtube.com/watch?v=CNZfBDe6-qQ"
 }
