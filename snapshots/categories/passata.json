@@ -5,16 +5,28 @@
   "displayQuery": "passata",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-09-28T11:44:02+00:00",
+  "lastUpdatedAt": "2026-09-29T11:23:19+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Mutti&tag=your_amazon_tag-20",
-      "name": "Mutti",
+      "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
+      "name": "ALCE NERO",
       "pros": [
-        "Recommended by Altroconsumo"
+        "recommended by Altroconsumo",
+        "contains real passata, no added water",
+        "no fraud or industrial shortcuts"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CASAR&tag=your_amazon_tag-20",
+      "name": "CASAR",
+      "pros": [
+        "recommended by Altroconsumo",
+        "contains real passata, no added water",
+        "no fraud or industrial shortcuts"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The recommendations are based on Altroconsumo's 2025-06-24 test, which is older than 60 days.",
   "videoSource": "Migliori Passate di pomodoro",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore"
 }
