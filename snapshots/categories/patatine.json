@@ -1,21 +1,33 @@
 {
   "cached": true,
   "categoryKey": "patatine",
-  "channelTitle": "Codacons",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "patatine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-02T11:09:00+00:00",
+  "lastUpdatedAt": "2026-10-03T10:27:20+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS+Patatine+Gusto+Classico&tag=your_amazon_tag-20",
+      "name": "AMICA CHIPS Patatine Gusto Classico",
+      "pros": [
+        "Good composition according to Altroconsumo test",
+        "Gluten‑free formulation",
+        "High quality ingredients such as potato and sunflower oil"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source"
+    "official consumer source",
+    "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Rassegna stampa del 16 e 17 maggio 2026",
-  "videoUrl": "https://codacons.it/rassegna-stampa-del-16-e-17-maggio-2026/"
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s December 2025 test highlights AMICA CHIPS Patatine Gusto Classico as a top pick with a good composition, gluten‑free status and quality ingredients.",
+  "videoSource": "AMICA CHIPS AMICA CHIPS PATATINE GUSTO CLASSICO",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/merenda/merendine-salate-comparatore/amica-chips-amica-chips-patatine-gusto-classico/581/111682"
 }
