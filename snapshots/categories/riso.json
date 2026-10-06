@@ -5,16 +5,28 @@
   "displayQuery": "riso",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-05T12:15:45+00:00",
+  "lastUpdatedAt": "2026-10-06T12:01:33+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=SORRISI+DI+SPIGA+Carnaroli&tag=your_amazon_tag-20",
-      "name": "SORRISI DI SPIGA Carnaroli",
+      "amazonLink": "https://amazon.com/s?k=CAROSIO+%28LIDL%29&tag=your_amazon_tag-20",
+      "name": "CAROSIO (LIDL)",
       "pros": [
-        "Explicit"
+        "Recommended by Altroconsumo in 2025 laboratory test",
+        "Laboratory-tested for quality and taste",
+        "Available in major Italian retailers"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=RISO+SCOTTI&tag=your_amazon_tag-20",
+      "name": "RISO SCOTTI",
+      "pros": [
+        "Recommended by Altroconsumo in 2025 laboratory test",
+        "Laboratory-tested for quality and taste",
+        "Widely available in Italian supermarkets"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025-11-20 laboratory test lists CAROSIO (LIDL) and RISO SCOTTI as top recommended rice brands, indicating fresh evidence.",
   "videoSource": "Migliori marche di Riso",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore"
 }
