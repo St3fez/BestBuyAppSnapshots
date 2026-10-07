@@ -1,42 +1,22 @@
 {
   "cached": true,
   "categoryKey": "aceto",
-  "channelTitle": "Spesa Intelligente",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "aceto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-06T12:03:03+00:00",
+  "lastUpdatedAt": "2026-10-07T11:47:56+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP&tag=your_amazon_tag-20",
-      "name": "Aceto Balsamico Tradizionale di Modena DOP",
-      "pros": [
-        "DOP designation guarantees authenticity",
-        "Long aging period enhances flavor",
-        "High quality ingredients"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Reggio+Emilia+DOP&tag=your_amazon_tag-20",
-      "name": "Aceto Balsamico Tradizionale di Reggio Emilia DOP",
-      "pros": [
-        "DOP designation ensures authenticity",
-        "Distinct regional characteristics",
-        "Long aging process"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "5 Detersivi Piatti che Devi EVITARE (Svelto, Fairy, Chanteclair...)",
-  "videoUrl": "https://www.youtube.com/watch?v=MYC_jnjqcdg"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Aceto balsamico: come scegliere quello giusto",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico"
 }
