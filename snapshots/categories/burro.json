@@ -5,9 +5,20 @@
   "displayQuery": "burro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-07T11:50:23+00:00",
+  "lastUpdatedAt": "2026-10-08T12:04:50+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Butter+produced+by+centrifugation+%28burro+da+centrifuga%29&tag=your_amazon_tag-20",
+      "name": "Butter produced by centrifugation (burro da centrifuga)",
+      "pros": [
+        "Higher quality due to centrifugation method",
+        "Softer and sweeter taste",
+        "Better overall quality compared to churned butter"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +27,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo (Feb 2026) recommends butter made by centrifugation as the superior choice.",
   "videoSource": "Burro di arachidi: composizione, caratteristiche e scelta",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/speciali/burro-di-arachidi"
 }

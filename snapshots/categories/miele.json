@@ -1,43 +1,32 @@
 {
   "cached": true,
   "categoryKey": "miele",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-07T11:53:54+00:00",
+  "lastUpdatedAt": "2026-10-08T12:07:48+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Miele+Triflex+HX3+Hardfloor&tag=your_amazon_tag-20",
-      "name": "Miele Triflex HX3 Hardfloor",
+      "amazonLink": "https://amazon.com/s?k=Miele+di+Manuka&tag=your_amazon_tag-20",
+      "name": "Miele di Manuka",
       "pros": [
-        "4‑star overall rating from Altroconsumo",
-        "Aspirabriciole feature for easy floor cleaning",
-        "70‑minute battery life"
+        "Antimicrobial properties",
+        "Low water activity",
+        "Low pH"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Miele+Triflex+HX3+Plus&tag=your_amazon_tag-20",
-      "name": "Miele Triflex HX3 Plus",
-      "pros": [
-        "140‑minute battery life, longest among tested models",
-        "Aspirabriciole feature",
-        "Dust container for easy disposal"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo laboratory tests highlight the Miele Triflex HX3 Hardfloor and HX3 Plus as strong performers, noting their high battery life, aspirabriciole capability, and dust‑container design. The reviews are from Altroconsumo but the publication dates are older than 60 days.",
-  "videoSource": "MIELE TRIFLEX HX2 125 EDITION",
-  "videoUrl": "https://www.altroconsumo.it/elettrodomestici/scope-elettriche/comparatore/miele-triflex-hx2-125-edition/190/104803"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "9 Marche di MIELE Venduto in Italia: dalla Peggiore alla Migliore",
+  "videoUrl": "https://www.youtube.com/watch?v=_FqPHC9SAD0"
 }
