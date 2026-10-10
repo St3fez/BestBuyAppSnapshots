@@ -1,22 +1,32 @@
 {
   "cached": true,
   "categoryKey": "maionese",
-  "channelTitle": "U.Di.Con.",
+  "channelTitle": "amicojeko",
   "displayQuery": "maionese",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-09T12:01:47+00:00",
+  "lastUpdatedAt": "2026-10-10T11:19:19+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Kewpie&tag=your_amazon_tag-20",
+      "name": "Kewpie",
+      "pros": [
+        "Considered by some as the best mayonnaise in the world",
+        "Has a long history, established in 1925",
+        "Acts as a secret ingredient to make dishes unique"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "U.Di.Con."
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Ue, addio alle bustine monouso al ristorante: dal 2026 cambiano le nostre abitudini",
-  "videoUrl": "https://www.udicon.org/2026/01/21/ue-addio-alle-bustine-monouso-al-ristorante-dal-2026-cambiano-le-nostre-abitudini/"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: U.Di.Con.. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "100 Anni di Kewpie: La Maionese Più Buona al Mondo? 😋",
+  "videoUrl": "https://www.youtube.com/watch?v=aVBxLm8QQMY"
 }

@@ -5,28 +5,16 @@
   "displayQuery": "passata",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-09T11:54:26+00:00",
+  "lastUpdatedAt": "2026-10-10T11:12:06+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=ALCE+NERO&tag=your_amazon_tag-20",
       "name": "ALCE NERO",
       "pros": [
-        "Highest ranking in Altroconsumo lab tests",
-        "Made with 100% tomato passata, no added water",
-        "Excellent flavor and consistency"
+        "Recommended by Altro"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=CASAR&tag=your_amazon_tag-20",
-      "name": "CASAR",
-      "pros": [
-        "Second highest ranking in Altroconsumo lab tests",
-        "Pure tomato passata, no additives",
-        "Great value for price"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -37,7 +25,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 lab tests recommend ALCE NERO as the top pick for passata, with CASAR as a close second. The recommendations are based on fresh testing data from June 2025.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
   "videoSource": "Migliori Passate di pomodoro",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore"
 }
