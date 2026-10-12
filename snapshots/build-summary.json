@@ -1,33 +1,151 @@
 {
   "success": true,
-  "generatedAt": "2026-10-12T13:20:33+00:00",
+  "generatedAt": "2026-10-12T20:37:46+00:00",
   "categoriesRequested": [
     "pasta",
+    "pasta integrale",
     "riso",
-    "latte",
-    "caffe",
-    "aceto",
+    "riso basmati",
+    "farro",
+    "orzo",
+    "cous cous",
+    "quinoa",
+    "polenta",
+    "gnocchi",
     "passata",
     "passata di pomodoro",
+    "pomodori pelati",
+    "sugo pronto",
     "pesto",
-    "patatine",
-    "pandoro",
-    "burro",
-    "olio",
-    "acqua",
-    "yogurt",
-    "biscotti",
-    "birra",
-    "miele",
-    "farina",
     "tonno",
-    "panettone",
+    "tonno in scatola",
+    "sgombro in scatola",
+    "ceci",
+    "lenticchie",
+    "fagioli",
+    "legumi in scatola",
+    "mais in scatola",
+    "aceto",
+    "aceto balsamico",
+    "olio",
+    "olio extravergine",
+    "sale",
+    "sale iodato",
+    "zucchero",
+    "dolcificante",
+    "farina",
+    "semola",
+    "lievito",
+    "brodo",
+    "dado da brodo",
+    "biscotti",
+    "frollini",
     "fette biscottate",
-    "maionese",
     "cracker",
+    "grissini",
+    "taralli",
+    "cereali",
+    "muesli",
+    "corn flakes",
+    "plumcake",
+    "merendine",
+    "pane",
+    "pancarre",
+    "piadina",
+    "panettone",
+    "pandoro",
+    "colomba",
+    "miele",
+    "marmellata",
+    "confettura",
+    "crema spalmabile",
+    "crema al cioccolato",
+    "cioccolato fondente",
+    "cioccolato al latte",
+    "patatine",
+    "popcorn",
+    "frutta secca",
+    "latte",
+    "latte uht",
+    "latte alta digeribilita",
+    "latte di soia",
+    "latte di avena",
+    "yogurt",
+    "yogurt greco",
+    "burro",
     "mozzarella",
     "mozzarella di bufala",
-    "grana padano"
+    "ricotta",
+    "stracchino",
+    "grana padano",
+    "parmigiano reggiano",
+    "formaggio spalmabile",
+    "uova",
+    "prosciutto cotto",
+    "prosciutto crudo",
+    "bresaola",
+    "wurstel",
+    "salmone affumicato",
+    "pizza surgelata",
+    "gelato",
+    "hamburger vegetali",
+    "bastoncini di pesce",
+    "verdure surgelate",
+    "maionese",
+    "ketchup",
+    "senape",
+    "salsa barbecue",
+    "besciamella",
+    "acqua",
+    "birra",
+    "succo di arancia",
+    "succhi di frutta",
+    "te freddo",
+    "bevanda vegetale",
+    "caffe",
+    "capsule caffe",
+    "detersivo bucato",
+    "ammorbidente",
+    "detersivo piatti",
+    "detersivo lavastoviglie",
+    "pastiglie lavastoviglie",
+    "sgrassatore",
+    "igienizzante",
+    "detergente pavimenti",
+    "detergente bagno",
+    "candeggina",
+    "carta igienica",
+    "carta da cucina",
+    "fazzoletti",
+    "pannolini",
+    "salviette",
+    "assorbenti",
+    "shampoo",
+    "balsamo",
+    "docciaschiuma",
+    "sapone liquido",
+    "dentifricio",
+    "collutorio",
+    "deodorante",
+    "crema viso",
+    "crema corpo",
+    "creme solari",
+    "rasoi",
+    "lamette",
+    "crocchette cane",
+    "crocchette gatto",
+    "friggitrice ad aria",
+    "forno a microonde",
+    "aspirapolvere",
+    "robot aspirapolvere",
+    "ferro da stiro",
+    "bollitore",
+    "tostapane",
+    "macchina caffe",
+    "phon",
+    "frigorifero",
+    "lavatrice",
+    "lavastoviglie"
   ],
   "results": [
     {
@@ -35,19 +153,39 @@
       "status": "ready"
     },
     {
+      "category": "pasta integrale",
+      "status": "ready"
+    },
+    {
       "category": "riso",
       "status": "ready"
     },
     {
-      "category": "latte",
+      "category": "riso basmati",
       "status": "ready"
     },
     {
-      "category": "caffe",
+      "category": "farro",
       "status": "ready"
     },
     {
-      "category": "aceto",
+      "category": "orzo",
+      "status": "ready"
+    },
+    {
+      "category": "cous cous",
+      "status": "ready"
+    },
+    {
+      "category": "quinoa",
+      "status": "ready"
+    },
+    {
+      "category": "polenta",
+      "status": "ready"
+    },
+    {
+      "category": "gnocchi",
       "status": "ready"
     },
     {
@@ -59,47 +197,15 @@
       "status": "ready"
     },
     {
+      "category": "pomodori pelati",
+      "status": "ready"
+    },
+    {
+      "category": "sugo pronto",
+      "status": "ready"
+    },
+    {
       "category": "pesto",
-      "status": "ready"
-    },
-    {
-      "category": "patatine",
-      "status": "ready"
-    },
-    {
-      "category": "pandoro",
-      "status": "ready"
-    },
-    {
-      "category": "burro",
-      "status": "ready"
-    },
-    {
-      "category": "olio",
-      "status": "ready"
-    },
-    {
-      "category": "acqua",
-      "status": "ready"
-    },
-    {
-      "category": "yogurt",
-      "status": "ready"
-    },
-    {
-      "category": "biscotti",
-      "status": "ready"
-    },
-    {
-      "category": "birra",
-      "status": "ready"
-    },
-    {
-      "category": "miele",
-      "status": "ready"
-    },
-    {
-      "category": "farina",
       "status": "ready"
     },
     {
@@ -107,7 +213,91 @@
       "status": "ready"
     },
     {
-      "category": "panettone",
+      "category": "tonno in scatola",
+      "status": "ready"
+    },
+    {
+      "category": "sgombro in scatola",
+      "status": "ready"
+    },
+    {
+      "category": "ceci",
+      "status": "ready"
+    },
+    {
+      "category": "lenticchie",
+      "status": "ready"
+    },
+    {
+      "category": "fagioli",
+      "status": "ready"
+    },
+    {
+      "category": "legumi in scatola",
+      "status": "ready"
+    },
+    {
+      "category": "mais in scatola",
+      "status": "ready"
+    },
+    {
+      "category": "aceto",
+      "status": "ready"
+    },
+    {
+      "category": "aceto balsamico",
+      "status": "ready"
+    },
+    {
+      "category": "olio",
+      "status": "ready"
+    },
+    {
+      "category": "olio extravergine",
+      "status": "ready"
+    },
+    {
+      "category": "sale",
+      "status": "ready"
+    },
+    {
+      "category": "sale iodato",
+      "status": "ready"
+    },
+    {
+      "category": "zucchero",
+      "status": "ready"
+    },
+    {
+      "category": "dolcificante",
+      "status": "ready"
+    },
+    {
+      "category": "farina",
+      "status": "ready"
+    },
+    {
+      "category": "semola",
+      "status": "ready"
+    },
+    {
+      "category": "lievito",
+      "status": "ready"
+    },
+    {
+      "category": "brodo",
+      "status": "ready"
+    },
+    {
+      "category": "dado da brodo",
+      "status": "ready"
+    },
+    {
+      "category": "biscotti",
+      "status": "ready"
+    },
+    {
+      "category": "frollini",
       "status": "ready"
     },
     {
@@ -115,11 +305,131 @@
       "status": "ready"
     },
     {
-      "category": "maionese",
+      "category": "cracker",
       "status": "ready"
     },
     {
-      "category": "cracker",
+      "category": "grissini",
+      "status": "ready"
+    },
+    {
+      "category": "taralli",
+      "status": "ready"
+    },
+    {
+      "category": "cereali",
+      "status": "ready"
+    },
+    {
+      "category": "muesli",
+      "status": "ready"
+    },
+    {
+      "category": "corn flakes",
+      "status": "ready"
+    },
+    {
+      "category": "plumcake",
+      "status": "ready"
+    },
+    {
+      "category": "merendine",
+      "status": "ready"
+    },
+    {
+      "category": "pane",
+      "status": "ready"
+    },
+    {
+      "category": "pancarre",
+      "status": "ready"
+    },
+    {
+      "category": "piadina",
+      "status": "ready"
+    },
+    {
+      "category": "panettone",
+      "status": "ready"
+    },
+    {
+      "category": "pandoro",
+      "status": "ready"
+    },
+    {
+      "category": "colomba",
+      "status": "ready"
+    },
+    {
+      "category": "miele",
+      "status": "ready"
+    },
+    {
+      "category": "marmellata",
+      "status": "ready"
+    },
+    {
+      "category": "confettura",
+      "status": "ready"
+    },
+    {
+      "category": "crema spalmabile",
+      "status": "ready"
+    },
+    {
+      "category": "crema al cioccolato",
+      "status": "ready"
+    },
+    {
+      "category": "cioccolato fondente",
+      "status": "ready"
+    },
+    {
+      "category": "cioccolato al latte",
+      "status": "ready"
+    },
+    {
+      "category": "patatine",
+      "status": "ready"
+    },
+    {
+      "category": "popcorn",
+      "status": "ready"
+    },
+    {
+      "category": "frutta secca",
+      "status": "ready"
+    },
+    {
+      "category": "latte",
+      "status": "ready"
+    },
+    {
+      "category": "latte uht",
+      "status": "ready"
+    },
+    {
+      "category": "latte alta digeribilita",
+      "status": "ready"
+    },
+    {
+      "category": "latte di soia",
+      "status": "ready"
+    },
+    {
+      "category": "latte di avena",
+      "status": "ready"
+    },
+    {
+      "category": "yogurt",
+      "status": "ready"
+    },
+    {
+      "category": "yogurt greco",
+      "status": "ready"
+    },
+    {
+      "category": "burro",
       "status": "ready"
     },
     {
@@ -131,7 +441,287 @@
       "status": "ready"
     },
     {
+      "category": "ricotta",
+      "status": "ready"
+    },
+    {
+      "category": "stracchino",
+      "status": "ready"
+    },
+    {
       "category": "grana padano",
+      "status": "ready"
+    },
+    {
+      "category": "parmigiano reggiano",
+      "status": "ready"
+    },
+    {
+      "category": "formaggio spalmabile",
+      "status": "ready"
+    },
+    {
+      "category": "uova",
+      "status": "ready"
+    },
+    {
+      "category": "prosciutto cotto",
+      "status": "ready"
+    },
+    {
+      "category": "prosciutto crudo",
+      "status": "ready"
+    },
+    {
+      "category": "bresaola",
+      "status": "ready"
+    },
+    {
+      "category": "wurstel",
+      "status": "ready"
+    },
+    {
+      "category": "salmone affumicato",
+      "status": "ready"
+    },
+    {
+      "category": "pizza surgelata",
+      "status": "ready"
+    },
+    {
+      "category": "gelato",
+      "status": "ready"
+    },
+    {
+      "category": "hamburger vegetali",
+      "status": "ready"
+    },
+    {
+      "category": "bastoncini di pesce",
+      "status": "ready"
+    },
+    {
+      "category": "verdure surgelate",
+      "status": "ready"
+    },
+    {
+      "category": "maionese",
+      "status": "ready"
+    },
+    {
+      "category": "ketchup",
+      "status": "ready"
+    },
+    {
+      "category": "senape",
+      "status": "ready"
+    },
+    {
+      "category": "salsa barbecue",
+      "status": "ready"
+    },
+    {
+      "category": "besciamella",
+      "status": "ready"
+    },
+    {
+      "category": "acqua",
+      "status": "ready"
+    },
+    {
+      "category": "birra",
+      "status": "ready"
+    },
+    {
+      "category": "succo di arancia",
+      "status": "ready"
+    },
+    {
+      "category": "succhi di frutta",
+      "status": "ready"
+    },
+    {
+      "category": "te freddo",
+      "status": "ready"
+    },
+    {
+      "category": "bevanda vegetale",
+      "status": "ready"
+    },
+    {
+      "category": "caffe",
+      "status": "ready"
+    },
+    {
+      "category": "capsule caffe",
+      "status": "ready"
+    },
+    {
+      "category": "detersivo bucato",
+      "status": "ready"
+    },
+    {
+      "category": "ammorbidente",
+      "status": "ready"
+    },
+    {
+      "category": "detersivo piatti",
+      "status": "ready"
+    },
+    {
+      "category": "detersivo lavastoviglie",
+      "status": "ready"
+    },
+    {
+      "category": "pastiglie lavastoviglie",
+      "status": "ready"
+    },
+    {
+      "category": "sgrassatore",
+      "status": "ready"
+    },
+    {
+      "category": "igienizzante",
+      "status": "ready"
+    },
+    {
+      "category": "detergente pavimenti",
+      "status": "ready"
+    },
+    {
+      "category": "detergente bagno",
+      "status": "ready"
+    },
+    {
+      "category": "candeggina",
+      "status": "ready"
+    },
+    {
+      "category": "carta igienica",
+      "status": "ready"
+    },
+    {
+      "category": "carta da cucina",
+      "status": "ready"
+    },
+    {
+      "category": "fazzoletti",
+      "status": "ready"
+    },
+    {
+      "category": "pannolini",
+      "status": "ready"
+    },
+    {
+      "category": "salviette",
+      "status": "ready"
+    },
+    {
+      "category": "assorbenti",
+      "status": "ready"
+    },
+    {
+      "category": "shampoo",
+      "status": "ready"
+    },
+    {
+      "category": "balsamo",
+      "status": "ready"
+    },
+    {
+      "category": "docciaschiuma",
+      "status": "ready"
+    },
+    {
+      "category": "sapone liquido",
+      "status": "ready"
+    },
+    {
+      "category": "dentifricio",
+      "status": "ready"
+    },
+    {
+      "category": "collutorio",
+      "status": "ready"
+    },
+    {
+      "category": "deodorante",
+      "status": "ready"
+    },
+    {
+      "category": "crema viso",
+      "status": "ready"
+    },
+    {
+      "category": "crema corpo",
+      "status": "ready"
+    },
+    {
+      "category": "creme solari",
+      "status": "ready"
+    },
+    {
+      "category": "rasoi",
+      "status": "ready"
+    },
+    {
+      "category": "lamette",
+      "status": "ready"
+    },
+    {
+      "category": "crocchette cane",
+      "status": "ready"
+    },
+    {
+      "category": "crocchette gatto",
+      "status": "ready"
+    },
+    {
+      "category": "friggitrice ad aria",
+      "status": "ready"
+    },
+    {
+      "category": "forno a microonde",
+      "status": "ready"
+    },
+    {
+      "category": "aspirapolvere",
+      "status": "ready"
+    },
+    {
+      "category": "robot aspirapolvere",
+      "status": "ready"
+    },
+    {
+      "category": "ferro da stiro",
+      "status": "ready"
+    },
+    {
+      "category": "bollitore",
+      "status": "ready"
+    },
+    {
+      "category": "tostapane",
+      "status": "ready"
+    },
+    {
+      "category": "macchina caffe",
+      "status": "ready"
+    },
+    {
+      "category": "phon",
+      "status": "ready"
+    },
+    {
+      "category": "frigorifero",
+      "status": "ready"
+    },
+    {
+      "category": "lavatrice",
+      "status": "ready"
+    },
+    {
+      "category": "lavastoviglie",
       "status": "ready"
     }
   ]

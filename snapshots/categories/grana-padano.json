@@ -1,22 +1,263 @@
 {
   "cached": true,
   "categoryKey": "grana-padano",
-  "channelTitle": "Mondo Mercato",
+  "channelTitle": "Open Food Facts",
   "displayQuery": "grana padano",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-12T13:20:28+00:00",
+  "lastUpdatedAt": "2026-10-12T20:21:32+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.it/s?k=Carrefour+Grana+Padano",
+      "barcode": "3560070151493",
+      "name": "Carrefour Grana Padano",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 1,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560070151493"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Esselunga+Grana+Padano+DOP",
+      "barcode": "8002330020910",
+      "name": "Esselunga Grana Padano DOP",
+      "pros": [
+        "Nutri-Score C on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 2,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8002330020910"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Italiamo+Grana+Padano+Dop+a+cubetti",
+      "barcode": "20158545",
+      "name": "Italiamo Grana Padano Dop a cubetti",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 3,
+      "sourceUrl": "https://world.openfoodfacts.org/product/20158545"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=coop+Grana+padano",
+      "barcode": "8001120989772",
+      "name": "coop Grana padano",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (3 unique scans)."
+      ],
+      "rank": 4,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001120989772"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Colla+Parmesan+grana+padano",
+      "barcode": "8010883001744",
+      "name": "Colla Parmesan",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 5,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8010883001744"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Casa+Azzurra+Gran+Padano+AOP+grana+padano",
+      "barcode": "3760056260069",
+      "name": "Casa Azzurra Gran Padano AOP",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 6,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3760056260069"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Conad+Grana+Padano+Dop",
+      "barcode": "8003170023987",
+      "name": "Conad Grana Padano Dop",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 7,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8003170023987"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Despar+Grana+padano+D.O.P.",
+      "barcode": "8001300652113",
+      "name": "Despar Grana padano D.O.P.",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 8,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001300652113"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=MD+Grano+Padano+grattugiato+grana+padano",
+      "barcode": "8019730035475",
+      "name": "MD Grano Padano grattugiato",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (7 unique scans)."
+      ],
+      "rank": 9,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8019730035475"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Lidl+Grana+Padano+Dop+Riserva",
+      "barcode": "4056489043072",
+      "name": "Lidl Grana Padano Dop Riserva",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (7 unique scans)."
+      ],
+      "rank": 10,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4056489043072"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Gran+castelli+grana+padano",
+      "barcode": "10018608",
+      "name": "Gran castelli",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (7 unique scans)."
+      ],
+      "rank": 11,
+      "sourceUrl": "https://world.openfoodfacts.org/product/10018608"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Brazzale+Grana+padano+grattuggiato",
+      "barcode": "8032618610564",
+      "name": "Brazzale Grana padano grattuggiato",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 12,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8032618610564"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Grana+padano",
+      "barcode": "20532000",
+      "name": "Grana padano",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 13,
+      "sourceUrl": "https://world.openfoodfacts.org/product/20532000"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Eurospin+Grana+Padano+Grattugiato",
+      "barcode": "8017596018564",
+      "name": "Eurospin Grana Padano Grattugiato",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (6 unique scans)."
+      ],
+      "rank": 14,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8017596018564"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Malaga+Paradiso+Grana+Padano",
+      "barcode": "8019730048932",
+      "name": "Malaga Paradiso Grana Padano",
+      "pros": [
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (1 unique scans).",
+        "Package size: 300g."
+      ],
+      "rank": 15,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8019730048932"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Grana+Padano+Dop+grattugiato+Esselunga",
+      "barcode": "8002330010355",
+      "name": "Grana Padano Dop grattugiato Esselunga",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (5 unique scans)."
+      ],
+      "rank": 16,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8002330010355"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=brescialat+Fromage+Grana+Padano",
+      "barcode": "8014952256615",
+      "name": "brescialat Fromage Grana Padano",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 17,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8014952256615"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=10+-+Pascoli+Italiani+Grana+Padano+DOP",
+      "barcode": "8017596075123",
+      "name": "10 - Pascoli Italiani Grana Padano DOP",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (4 unique scans)."
+      ],
+      "rank": 18,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8017596075123"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Vivi+Verde+Grana+Padano+DOP+biologico",
+      "barcode": "8001120831132",
+      "name": "Vivi Verde Grana Padano DOP biologico",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 19,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001120831132"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Trentin+Grana+padano+scaglie",
+      "barcode": "8000407039025",
+      "name": "Trentin Grana padano scaglie",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (3 unique scans)."
+      ],
+      "rank": 20,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8000407039025"
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "altroconsumo"
+    "open product database",
+    "Open Food Facts"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Queste 7 Marche di Latte Sono le Peggiori in Italia: Altroconsumo Svela Tutto",
-  "videoUrl": "https://www.youtube.com/watch?v=9dKbx1v1NX0"
+  "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
+  "videoSource": "Open Food Facts: grana padano",
+  "videoUrl": "https://world.openfoodfacts.org/category/grana-padano"
 }

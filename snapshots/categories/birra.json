@@ -1,22 +1,263 @@
 {
   "cached": true,
   "categoryKey": "birra",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Laura Di Pietrantonio",
   "displayQuery": "birra",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-12T13:15:34+00:00",
+  "lastUpdatedAt": "2026-10-12T20:25:12+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.it/s?k=Bex+birra",
+      "name": "Bex",
+      "pros": [
+        "Made with noble ingredients—only barley malt",
+        "Excellent aroma and appearance",
+        "Pleasant to drink, not overly fizzy, moderate bitterness"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Birra+Moretti",
+      "barcode": "8001435500013",
+      "name": "Birra Moretti",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Widely scanned in Italy on Open Food Facts (21 unique scans)."
+      ],
+      "rank": 2,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001435500013"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Birra+Heineken+66+cl",
+      "barcode": "8006890454208",
+      "name": "Birra Heineken 66 cl",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (15 unique scans)."
+      ],
+      "rank": 3,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8006890454208"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Ichnusa+non+filtrata+birra",
+      "barcode": "8006890681543",
+      "name": "Ichnusa non filtrata",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (10 unique scans)."
+      ],
+      "rank": 4,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8006890681543"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Peroni+Birra",
+      "barcode": "80838296",
+      "name": "Peroni Birra",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (17 unique scans)."
+      ],
+      "rank": 5,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80838296"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Peroni+birra",
+      "barcode": "8008440410016",
+      "name": "Peroni",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (7 unique scans)."
+      ],
+      "rank": 6,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8008440410016"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Birra+Moretti+Ricetta+Originale",
+      "barcode": "80114024",
+      "name": "Birra Moretti Ricetta Originale",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (7 unique scans)."
+      ],
+      "rank": 7,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80114024"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Corona+Beer+-+ABV+4.5%25+birra",
+      "barcode": "75032814",
+      "name": "Corona Beer - ABV 4.5%",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Widely scanned in Italy on Open Food Facts (81 unique scans)."
+      ],
+      "rank": 8,
+      "sourceUrl": "https://world.openfoodfacts.org/product/75032814"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Perlenbacher+Patronus+-+Premium+weissbier+birra",
+      "barcode": "4056489305224",
+      "name": "Perlenbacher Patronus - Premium weissbier",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (6 unique scans)."
+      ],
+      "rank": 9,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4056489305224"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Birra+Messina+Cristalli+di+Sale",
+      "barcode": "8006890686319",
+      "name": "Birra Messina Cristalli di Sale",
+      "pros": [
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (16 unique scans).",
+        "Package size: 50 cl."
+      ],
+      "rank": 10,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8006890686319"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Angelo+Poretti+birra",
+      "barcode": "8007950015247",
+      "name": "Angelo Poretti",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (5 unique scans)."
+      ],
+      "rank": 11,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8007950015247"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Franziskaner+Birra",
+      "barcode": "4072700006152",
+      "name": "Franziskaner Birra",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (5 unique scans)."
+      ],
+      "rank": 12,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4072700006152"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Paulaner+M%C3%BCncher+hell+birra",
+      "barcode": "4066600211815",
+      "name": "Paulaner Müncher hell",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (4 unique scans)."
+      ],
+      "rank": 13,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4066600211815"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Kozel+Premium+lager+birra",
+      "barcode": "8008440249036",
+      "name": "Kozel Premium lager",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (4 unique scans)."
+      ],
+      "rank": 14,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8008440249036"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Carrefour+Koenigsbier+birra",
+      "barcode": "3560071189495",
+      "name": "Carrefour Koenigsbier",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (4 unique scans)."
+      ],
+      "rank": 15,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560071189495"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Lidl+Birra+Finkbr%C3%A4u+Lager",
+      "barcode": "20160227",
+      "name": "Lidl Birra Finkbräu Lager",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (7 unique scans)."
+      ],
+      "rank": 16,
+      "sourceUrl": "https://world.openfoodfacts.org/product/20160227"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Birrificio+Angelo+Poretti+Tre+Luppoli+birra",
+      "barcode": "8007950010020",
+      "name": "Birrificio Angelo Poretti Tre Luppoli",
+      "pros": [
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (4 unique scans).",
+        "Package size: 660 ml."
+      ],
+      "rank": 17,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8007950010020"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=stella+artois+birra",
+      "barcode": "5410228143376",
+      "name": "stella artois birra",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (5 unique scans)."
+      ],
+      "rank": 18,
+      "sourceUrl": "https://world.openfoodfacts.org/product/5410228143376"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Ichnusa+inchusa+birra",
+      "barcode": "8006890758467",
+      "name": "Ichnusa inchusa",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (4 unique scans)."
+      ],
+      "rank": 19,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8006890758467"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Beck%27s+original+pils+birra",
+      "barcode": "42040613",
+      "name": "Beck's original pils",
+      "pros": [
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (4 unique scans)."
+      ],
+      "rank": 20,
+      "sourceUrl": "https://world.openfoodfacts.org/product/42040613"
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
+    "Altroconsumo",
     "official consumer source",
-    "Altroconsumo"
+    "open product database",
+    "Open Food Facts"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Birra, come sceglierla? La nostra guida",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/birra/come-scegliere"
+  "trustedSourceSummary": "This refresh found no newer explicit product list, so the picks verified on 2026-04-12 are kept. Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets. Showing the last verified snapshot from 2026-04-12 until a fresher extraction succeeds. The official list was short, so 19 more product(s) were added from Open Food Facts. Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
+  "videoSource": "La birra bionda migliore da compare al supermercato per qualità/prezzo #tastetest #birra #spesa",
+  "videoUrl": "https://www.youtube.com/watch?v=w2GoqJulr98"
 }

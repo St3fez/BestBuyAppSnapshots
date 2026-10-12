@@ -1,0 +1,61 @@
+{
+  "cached": true,
+  "categoryKey": "sale-iodato",
+  "channelTitle": "Open Food Facts",
+  "displayQuery": "sale iodato",
+  "error": null,
+  "freshnessDays": 60,
+  "lastUpdatedAt": "2026-10-12T20:09:50+00:00",
+  "message": "Downloaded snapshot ready.",
+  "products": [
+    {
+      "amazonLink": "https://amazon.it/s?k=Eurospin+Sale+marino+sale+iodato",
+      "barcode": "8017596062987",
+      "name": "Eurospin Sale marino",
+      "pros": [
+        "NOVA group 2: processed culinary ingredient.",
+        "Green-Score A+ for environmental impact.",
+        "Listed in Italy on Open Food Facts (6 unique scans)."
+      ],
+      "rank": 1,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8017596062987"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=COOP+Sale+iodato+italiano",
+      "barcode": "8001120903273",
+      "name": "COOP Sale iodato italiano",
+      "pros": [
+        "NOVA group 2: processed culinary ingredient.",
+        "Green-Score A for environmental impact.",
+        "Listed in Italy on Open Food Facts (6 unique scans)."
+      ],
+      "rank": 2,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001120903273"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Sale+iodato+Esselunga+%28grosso%29",
+      "barcode": "8002330025120",
+      "name": "Sale iodato Esselunga (grosso)",
+      "pros": [
+        "NOVA group 2: processed culinary ingredient.",
+        "Green-Score A for environmental impact.",
+        "Listed in Italy on Open Food Facts (5 unique scans)."
+      ],
+      "rank": 3,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8002330025120"
+    }
+  ],
+  "refreshRequested": false,
+  "sourceSignals": [
+    "open product database",
+    "Open Food Facts",
+    "Altroconsumo",
+    "Il Fatto Alimentare"
+  ],
+  "stale": false,
+  "status": "ready",
+  "success": true,
+  "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (Altroconsumo, Il Fatto Alimentare) but did not contain an explicit product list for this category.",
+  "videoSource": "Open Food Facts: sale iodato",
+  "videoUrl": "https://world.openfoodfacts.org/category/iodised-salts"
+}

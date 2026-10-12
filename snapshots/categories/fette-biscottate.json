@@ -5,27 +5,257 @@
   "displayQuery": "fette biscottate",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-12T13:18:16+00:00",
+  "lastUpdatedAt": "2026-10-12T20:12:04+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+%28EUROSPIN%29&tag=your_amazon_tag-20",
-      "name": "AMO ESSERE (EUROSPIN)",
+      "amazonLink": "https://amazon.it/s?k=Amo+Essere+%28Eurospin%29+fette+biscottate",
+      "name": "Amo Essere (Eurospin)",
       "pros": [
-        "Recommended by Al"
+        "Explicitly selected under"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Misura+Fette+biscottate+con+Grani+germogliati",
+      "barcode": "8002590065485",
+      "name": "Misura Fette biscottate con Grani germogliati",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score A for environmental impact."
+      ],
+      "rank": 2,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8002590065485"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Gentilini+Fette+biscottate+integrali",
+      "barcode": "8007465141110",
+      "name": "Gentilini Fette biscottate integrali",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score A for environmental impact."
+      ],
+      "rank": 3,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8007465141110"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Wasa+Fit+fette+biscottate",
+      "barcode": "7300400481670",
+      "name": "Wasa Fit",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score A+ for environmental impact."
+      ],
+      "rank": 4,
+      "sourceUrl": "https://world.openfoodfacts.org/product/7300400481670"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Mulino+Bianco+Granetti+classici+fette+biscottate",
+      "barcode": "8076809527026",
+      "name": "Mulino Bianco Granetti classici",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score A for environmental impact."
+      ],
+      "rank": 5,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8076809527026"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Misura+Fette+biscottate+cereali+antichi",
+      "barcode": "8002590045135",
+      "name": "Misura Fette biscottate cereali antichi",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score A for environmental impact."
+      ],
+      "rank": 6,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8002590045135"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Pasquier+Fette+biscottate+integrali+farro",
+      "barcode": "3182180000845",
+      "name": "Pasquier Fette biscottate integrali farro",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score A+ for environmental impact."
+      ],
+      "rank": 7,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3182180000845"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Baule+Volante+Fette+biscottate+integrali+Bio",
+      "barcode": "8018848015850",
+      "name": "Baule Volante Fette biscottate integrali Bio",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score A+ for environmental impact."
+      ],
+      "rank": 8,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8018848015850"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Yukybio+Fette+biscottate+Bio+Integrali+A+pasta+madre",
+      "barcode": "8057288361066",
+      "name": "Yukybio Fette biscottate Bio Integrali A pasta madre",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "Green-Score A+ for environmental impact.",
+        "Listed in Italy on Open Food Facts (5 unique scans)."
+      ],
+      "rank": 9,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8057288361066"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Carrefour+Fette+biscottate+Frumento+integrale",
+      "barcode": "3560070401826",
+      "name": "Carrefour Fette biscottate Frumento integrale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 4: ultra-processed food.",
+        "Green-Score A for environmental impact."
+      ],
+      "rank": 10,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560070401826"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Mulino+Bianco+Mulino+B.+fette+Armonie+Cereali+fette+biscottate",
+      "barcode": "8076809519984",
+      "name": "Mulino Bianco Mulino B. fette Armonie Cereali",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score A for environmental impact."
+      ],
+      "rank": 11,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8076809519984"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Esselunga+Equilibrio+-+Fette+biscottate+integrali",
+      "barcode": "8002330124618",
+      "name": "Esselunga Equilibrio - Fette biscottate integrali",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 4: ultra-processed food.",
+        "Green-Score A for environmental impact."
+      ],
+      "rank": 12,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8002330124618"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Carrefour+Fette+biscottate+Classiche",
+      "barcode": "3245412589980",
+      "name": "Carrefour Fette biscottate Classiche",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "NOVA group 4: ultra-processed food.",
+        "Green-Score A+ for environmental impact."
+      ],
+      "rank": 13,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3245412589980"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Colussi+Fette+biscottate+integrali",
+      "barcode": "8002590075460",
+      "name": "Colussi Fette biscottate integrali",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "Green-Score A for environmental impact.",
+        "Listed in Italy on Open Food Facts (7 unique scans)."
+      ],
+      "rank": 14,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8002590075460"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=MD+Fette+biscottate+integrali",
+      "barcode": "8019730093819",
+      "name": "MD Fette biscottate integrali",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "Green-Score A for environmental impact.",
+        "Listed in Italy on Open Food Facts (6 unique scans)."
+      ],
+      "rank": 15,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8019730093819"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Colussi+Fette+biscottate",
+      "barcode": "8002590075446",
+      "name": "Colussi Fette biscottate",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "Green-Score A for environmental impact.",
+        "Listed in Italy on Open Food Facts (4 unique scans)."
+      ],
+      "rank": 16,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8002590075446"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=GrissinBon+Le+Fresche+Biscottate+Integrali+fette+biscottate",
+      "barcode": "8001405000024",
+      "name": "GrissinBon Le Fresche Biscottate Integrali",
+      "pros": [
+        "Nutri-Score C on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score A for environmental impact."
+      ],
+      "rank": 17,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001405000024"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Buitoni+Granfetta+fette+biscottate",
+      "barcode": "8000270706796",
+      "name": "Buitoni Granfetta",
+      "pros": [
+        "Nutri-Score C on Open Food Facts.",
+        "Green-Score A for environmental impact.",
+        "Listed in Italy on Open Food Facts (12 unique scans)."
+      ],
+      "rank": 18,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8000270706796"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Vivi+Verde+Fette+biscottate+al+cereali+biologiche",
+      "barcode": "8001120829788",
+      "name": "Vivi Verde Fette biscottate al cereali biologiche",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "Green-Score A+ for environmental impact.",
+        "Listed in Italy on Open Food Facts (7 unique scans)."
+      ],
+      "rank": 19,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001120829788"
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Coop+Fette+biscottate+biologiche",
+      "barcode": "8001120448248",
+      "name": "Coop Fette biscottate biologiche",
+      "pros": [
+        "Nutri-Score C on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score A+ for environmental impact."
+      ],
+      "rank": 20,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001120448248"
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
-    "Altroconsumo"
+    "Altroconsumo",
+    "open product database",
+    "Open Food Facts"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The official list was short, so 19 more product(s) were added from Open Food Facts. Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
   "videoSource": "Migliori marche di fette biscottate",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/colazione/fette-biscottate-comparatore"
 }

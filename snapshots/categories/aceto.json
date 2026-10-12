@@ -5,28 +5,38 @@
   "displayQuery": "aceto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-12T13:10:15+00:00",
+  "lastUpdatedAt": "2026-10-12T20:08:43+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP&tag=your_amazon_tag-20",
+      "amazonLink": "https://amazon.it/s?k=Aceto+Balsamico+Tradizionale+di+Modena+DOP",
       "name": "Aceto Balsamico Tradizionale di Modena DOP",
       "pros": [
-        "Authentic traditional production",
-        "High quality from selected grapes",
-        "Long aging process"
+        "Considered the most authentic expression of the tradition",
+        "Obtained exclusively from cooked grape must of selected vineyards",
+        "Strict production rules ensure high quality"
       ],
       "rank": 1
     },
     {
-      "amazonLink": "https://amazon.com/s?k=Aceto+Balsamico+di+Modena+IGP&tag=your_amazon_tag-20",
-      "name": "Aceto Balsamico di Modena IGP",
+      "amazonLink": "https://amazon.it/s?k=Aceto+Balsamico+Tradizionale+di+Reggio+Emilia+DOP",
+      "name": "Aceto Balsamico Tradizionale di Reggio Emilia DOP",
       "pros": [
-        "Widely available and affordable",
-        "Good quality for everyday use",
-        "Regulated production standards"
+        "Produced under strict DOP regulations",
+        "Uses selected grape varieties for superior flavor",
+        "Maintains traditional aging process"
       ],
       "rank": 2
+    },
+    {
+      "amazonLink": "https://amazon.it/s?k=Aceto+Balsamico+di+Modena+IGP",
+      "name": "Aceto Balsamico di Modena IGP",
+      "pros": [
+        "Most widespread and accessible option",
+        "Produced with regulated methods ensuring consistency",
+        "Offers good value for everyday use"
+      ],
+      "rank": 3
     }
   ],
   "refreshRequested": false,
@@ -37,7 +47,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The Altroconsumo article (2025‑08‑29) highlights the Modena DOP as the most authentic and the IGP as the most accessible, providing clear recommendations based on quality and availability.",
+  "trustedSourceSummary": "This refresh found no newer explicit product list, so the picks verified on 2026-04-13 are kept. No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The Altroconsumo article from 2025‑08‑29 recommends the three main types of aceto balsamico, highlighting their authenticity, production methods, and accessibility.",
   "videoSource": "Aceto balsamico: come scegliere quello giusto",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/consigli/come-scegliere-aceto-balsamico"
 }
