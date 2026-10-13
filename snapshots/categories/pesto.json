@@ -5,260 +5,39 @@
   "displayQuery": "pesto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-12T20:06:54+00:00",
+  "lastUpdatedAt": "2026-10-13T12:44:39+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.it/s?k=ACCADEMIA+TOSCANA+pesto",
-      "name": "ACCADEMIA TOSCANA",
+      "amazonLink": "https://amazon.com/s?k=ALCE+NERO+PESTO+ALLA+GENOVESE&tag=your_amazon_tag-20",
+      "name": "ALCE NERO PESTO ALLA GENOVESE",
       "pros": [
-        "Top-rated in Altroconsumo's 2026 evaluation",
-        "Excellent flavor profile",
-        "Competitive price"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2026-04-09.",
+        "Extracted directly from the official comparison page 'Migliori marche di Sughi Rossi e al Pesto'."
       ],
       "rank": 1
     },
     {
-      "amazonLink": "https://amazon.it/s?k=Barilla+Pesto+Rustico+Mediterraneo",
-      "barcode": "8076809576581",
-      "name": "Barilla Pesto Rustico Mediterraneo",
+      "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+ECCELLENTE+%28EUROSPIN%29+PESTO+ALLA+GENOVESE&tag=your_amazon_tag-20",
+      "name": "AMO ESSERE ECCELLENTE (EUROSPIN) PESTO ALLA GENOVESE",
       "pros": [
-        "Nutri-Score C on Open Food Facts.",
-        "NOVA group 3: processed food.",
-        "Green-Score C for environmental impact."
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2026-04-09.",
+        "Extracted directly from the official comparison page 'Migliori marche di Sughi Rossi e al Pesto'."
       ],
-      "rank": 2,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8076809576581"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Sacla+olivoli+oliva+pesto",
-      "barcode": "8001060004474",
-      "name": "Sacla olivoli oliva",
-      "pros": [
-        "Nutri-Score C on Open Food Facts.",
-        "NOVA group 3: processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 3,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8001060004474"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Barilla+Pesto+rustico",
-      "barcode": "8076809576598",
-      "name": "Barilla Pesto rustico",
-      "pros": [
-        "Nutri-Score C on Open Food Facts.",
-        "NOVA group 4: ultra-processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 4,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8076809576598"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Eurospin+Pesto+Pistacchio",
-      "barcode": "8017596126573",
-      "name": "Eurospin Pesto Pistacchio",
-      "pros": [
-        "Nutri-Score C on Open Food Facts.",
-        "Green-Score D for environmental impact.",
-        "Listed in Italy on Open Food Facts (4 unique scans)."
-      ],
-      "rank": 5,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8017596126573"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Rewe+Bio+Pesto+Verde",
-      "barcode": "4337256473699",
-      "name": "Rewe Bio Pesto Verde",
-      "pros": [
-        "Nutri-Score D on Open Food Facts.",
-        "NOVA group 3: processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 6,
-      "sourceUrl": "https://world.openfoodfacts.org/product/4337256473699"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Rio+mare+Pesto+al+tonno+con+mandorle+e+pecorino",
-      "barcode": "8004030506091",
-      "name": "Rio mare Pesto al tonno con mandorle e pecorino",
-      "pros": [
-        "Nutri-Score D on Open Food Facts.",
-        "NOVA group 3: processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 7,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8004030506091"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Mutti+Pesto+rosso+di+pomodoro",
-      "barcode": "8005110001550",
-      "name": "Mutti Pesto rosso di pomodoro",
-      "pros": [
-        "Nutri-Score C on Open Food Facts.",
-        "NOVA group 4: ultra-processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 8,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8005110001550"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Carrefour+PESTO+alla+Genovese",
-      "barcode": "3560071420277",
-      "name": "Carrefour PESTO alla Genovese",
-      "pros": [
-        "Nutri-Score D on Open Food Facts.",
-        "NOVA group 4: ultra-processed food.",
-        "Green-Score A for environmental impact."
-      ],
-      "rank": 9,
-      "sourceUrl": "https://world.openfoodfacts.org/product/3560071420277"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Deluxe+rucola+%26+basil+pesto",
-      "barcode": "4056489204183",
-      "name": "Deluxe rucola & basil pesto",
-      "pros": [
-        "Nutri-Score D on Open Food Facts.",
-        "NOVA group 3: processed food.",
-        "Green-Score D for environmental impact."
-      ],
-      "rank": 10,
-      "sourceUrl": "https://world.openfoodfacts.org/product/4056489204183"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Italiamo+Pesto+Siciliano",
-      "barcode": "20469900",
-      "name": "Italiamo Pesto Siciliano",
-      "pros": [
-        "Nutri-Score D on Open Food Facts.",
-        "NOVA group 3: processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 11,
-      "sourceUrl": "https://world.openfoodfacts.org/product/20469900"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Carrefour+Pesto+verde",
-      "barcode": "3245413808196",
-      "name": "Carrefour Pesto verde",
-      "pros": [
-        "Nutri-Score D on Open Food Facts.",
-        "NOVA group 4: ultra-processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 12,
-      "sourceUrl": "https://world.openfoodfacts.org/product/3245413808196"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Rio+Mare+Pesto+di+tonno",
-      "barcode": "8004030506114",
-      "name": "Rio Mare Pesto di tonno",
-      "pros": [
-        "Nutri-Score D on Open Food Facts.",
-        "Green-Score D for environmental impact.",
-        "Listed in Italy on Open Food Facts (5 unique scans)."
-      ],
-      "rank": 13,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8004030506114"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=verderosso+oro+Pesto+rosso",
-      "barcode": "8033520523324",
-      "name": "verderosso oro Pesto rosso",
-      "pros": [
-        "Nutri-Score D on Open Food Facts.",
-        "NOVA group 3: processed food.",
-        "Green-Score D for environmental impact."
-      ],
-      "rank": 14,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8033520523324"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Baresa+Pesto+alla+Genovese",
-      "barcode": "20069490",
-      "name": "Baresa Pesto alla Genovese",
-      "pros": [
-        "Nutri-Score D on Open Food Facts.",
-        "NOVA group 4: ultra-processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 15,
-      "sourceUrl": "https://world.openfoodfacts.org/product/20069490"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Mutti+Pesto+Style+Sauce",
-      "barcode": "8005110001635",
-      "name": "Mutti Pesto Style Sauce",
-      "pros": [
-        "Nutri-Score C on Open Food Facts.",
-        "Green-Score D for environmental impact.",
-        "Listed in Italy on Open Food Facts (3 unique scans)."
-      ],
-      "rank": 16,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8005110001635"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Tradizioni+D%27Italia+Pesto+con+basilico+Genovese+DOP",
-      "barcode": "3760113766121",
-      "name": "Tradizioni D'Italia Pesto con basilico Genovese DOP",
-      "pros": [
-        "Nutri-Score E on Open Food Facts.",
-        "NOVA group 3: processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 17,
-      "sourceUrl": "https://world.openfoodfacts.org/product/3760113766121"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Tigullio+Pomodori+secchi+e+pistacchi+pesto",
-      "barcode": "8000050024645",
-      "name": "Tigullio Pomodori secchi e pistacchi",
-      "pros": [
-        "Nutri-Score D on Open Food Facts.",
-        "NOVA group 4: ultra-processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 18,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8000050024645"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Biffi+Pesto+vegetale",
-      "barcode": "80073109",
-      "name": "Biffi Pesto vegetale",
-      "pros": [
-        "Nutri-Score E on Open Food Facts.",
-        "NOVA group 3: processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 19,
-      "sourceUrl": "https://world.openfoodfacts.org/product/80073109"
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=Il+pesto+di+Pra%27",
-      "barcode": "8032649301509",
-      "name": "Il pesto di Pra'",
-      "pros": [
-        "Nutri-Score E on Open Food Facts.",
-        "NOVA group 3: processed food.",
-        "Green-Score C for environmental impact."
-      ],
-      "rank": 20,
-      "sourceUrl": "https://world.openfoodfacts.org/product/8032649301509"
+      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
-    "Altroconsumo",
-    "Il Salvagente",
-    "open product database",
-    "Open Food Facts"
+    "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo, Il Salvagente. The official list was short, so 19 more product(s) were added from Open Food Facts. Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
   "videoSource": "Migliori marche di Sughi Rossi e al Pesto",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/sughi-pronti/comparatore"
 }

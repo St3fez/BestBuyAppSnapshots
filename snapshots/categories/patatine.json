@@ -1,74 +1,21 @@
 {
   "cached": true,
   "categoryKey": "patatine",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Codacons",
   "displayQuery": "patatine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-12T20:18:53+00:00",
+  "lastUpdatedAt": "2026-10-13T12:45:08+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.it/s?k=AMICA+CHIPS+patatine",
-      "name": "AMICA CHIPS",
-      "pros": [
-        "Lab-tested top quality among tested brands",
-        "Competitive price relative to quality",
-        "Widely available in supermarkets"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=LAYS+patatine",
-      "name": "LAYS",
-      "pros": [
-        "Lab-tested high quality",
-        "Competitive price",
-        "Widely available"
-      ],
-      "rank": 2
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=CARREFOUR+CLASSIC+patatine",
-      "name": "CARREFOUR CLASSIC",
-      "pros": [
-        "Recommended by Altroconsumo",
-        "Lab‑tested quality",
-        "Competitive price"
-      ],
-      "rank": 3
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=AMICA+CHIPS+ELDORADA+GUSTO+SALSA+BARBECUE+patatine",
-      "name": "AMICA CHIPS ELDORADA GUSTO SALSA BARBECUE",
-      "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-12-16.",
-        "Extracted directly from the official comparison page 'Migliori marche di patatine'."
-      ],
-      "rank": 4
-    },
-    {
-      "amazonLink": "https://amazon.it/s?k=AMICA+CHIPS+ELDORADA+RICETTA+GRIGLIATA+patatine",
-      "name": "AMICA CHIPS ELDORADA RICETTA GRIGLIATA",
-      "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-12-16.",
-        "Extracted directly from the official comparison page 'Migliori marche di patatine'."
-      ],
-      "rank": 5
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo",
-    "trusted source memory"
+    "official consumer source"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "This refresh found no newer explicit product list, so the picks verified on 2026-04-13 are kept. Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets. Showing the last verified snapshot from 2026-04-13 until a fresher extraction succeeds.",
-  "videoSource": "Migliori marche di patatine",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/merendine-salate/comparatore"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Rassegna stampa del 16 e 17 maggio 2026",
+  "videoUrl": "https://codacons.it/rassegna-stampa-del-16-e-17-maggio-2026/"
 }
