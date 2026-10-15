@@ -1,30 +1,33 @@
 {
   "cached": true,
   "categoryKey": "miele",
-  "channelTitle": "Italia In Scaffale",
+  "channelTitle": "Matteo Sciaudone",
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-14T10:17:14+00:00",
+  "lastUpdatedAt": "2026-10-15T09:59:33+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=miele+di+manuka&tag=your_amazon_tag-20",
-      "name": "miele di manuka",
+      "amazonLink": "https://amazon.com/s?k=Miele+di+manuka&tag=your_amazon_tag-20",
+      "name": "Miele di manuka",
       "pros": [
-        "Has therapeutic properties"
+        "Antimicrobial properties",
+        "Low water activity",
+        "Low pH"
       ],
       "rank": 1
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
+    "unc",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "8 Marche di MIELE Italiano da EVITARE (e 3 che Sicure)",
-  "videoUrl": "https://www.youtube.com/watch?v=G9qBuhYPSDY"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: unc",
+  "videoSource": "SCOPRI LA CALSSIFICA DEGLI YOGURT MIGLIORI PER DIMAGRIRE!😯",
+  "videoUrl": "https://www.youtube.com/watch?v=AsBjkLFPdB0"
 }
