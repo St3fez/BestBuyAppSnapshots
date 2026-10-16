@@ -22,12 +22,14 @@
   "refreshRequested": false,
   "sourceSignals": [
     "unc",
-    "Altroconsumo"
+    "Altroconsumo",
+    "official consumer source"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: unc",
+  "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets. Showing the last published verified snapshot from 2026-10-15 until a fresher rebuild succeeds.",
   "videoSource": "SCOPRI LA CALSSIFICA DEGLI YOGURT MIGLIORI PER DIMAGRIRE!😯",
-  "videoUrl": "https://www.youtube.com/watch?v=AsBjkLFPdB0"
+  "videoUrl": "https://www.youtube.com/watch?v=AsBjkLFPdB0",
+  "preservedFromPreviousSnapshot": true
 }

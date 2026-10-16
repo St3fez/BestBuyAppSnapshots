@@ -20,11 +20,14 @@
     }
   ],
   "refreshRequested": false,
-  "sourceSignals": [],
+  "sourceSignals": [
+    "official consumer source"
+  ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Open the source and try again later, or refresh when the quota resets. Showing the last published verified snapshot from 2026-10-15 until a fresher rebuild succeeds.",
   "videoSource": "The Top 5 Best Variety Chips in 2026 - Must Watch Before Buying!",
-  "videoUrl": "https://www.youtube.com/watch?v=08Js_NtV-yU"
+  "videoUrl": "https://www.youtube.com/watch?v=08Js_NtV-yU",
+  "preservedFromPreviousSnapshot": true
 }
