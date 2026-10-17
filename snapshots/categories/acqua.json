@@ -5,18 +5,9 @@
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-15T09:57:32+00:00",
+  "lastUpdatedAt": "2026-10-17T09:24:37+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Better+Life+water+purifier&tag=your_amazon_tag-20",
-      "name": "Better Life water purifier",
-      "pros": [
-        "Users are satisfied with"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -25,8 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Official consumer sources were found, but the AI extraction service is temporarily out of quota. Organizations found: Altroconsumo. Open the source and try again later, or refresh when the quota resets. Showing the last published verified snapshot from 2026-10-15 until a fresher rebuild succeeds.",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "Acqua",
-  "videoUrl": "https://www.spreaker.com/episode/acqua--28523645",
-  "preservedFromPreviousSnapshot": true
+  "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
 }
