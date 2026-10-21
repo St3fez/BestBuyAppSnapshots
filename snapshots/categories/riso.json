@@ -5,16 +5,16 @@
   "displayQuery": "riso",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-20T10:01:37+00:00",
+  "lastUpdatedAt": "2026-10-21T10:06:17+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=CAROSIO+%28LIDL%29&tag=your_amazon_tag-20",
       "name": "CAROSIO (LIDL)",
       "pros": [
-        "Recommended by Altroconsumo in the latest lab test",
-        "High quality rice according to laboratory results",
-        "Competitive price per kilogram"
+        "Lab‑tested quality",
+        "Recommended by Altroconsumo",
+        "Widely available in major retailers"
       ],
       "rank": 1
     },
@@ -22,9 +22,9 @@
       "amazonLink": "https://amazon.com/s?k=CARREFOUR&tag=your_amazon_tag-20",
       "name": "CARREFOUR",
       "pros": [
-        "Chosen by Altroconsumo as a top pick in the 2025 test",
-        "Consistent quality across tested batches",
-        "Widely available in major retail chains"
+        "Lab‑tested quality",
+        "Recommended by Altroconsumo",
+        "Widely available in major retailers"
       ],
       "rank": 2
     }
@@ -37,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 laboratory tests explicitly recommend CAROSIO (LIDL) and CARREFOUR as top rice choices, providing evidence of quality and value.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The recommendations are based on Altroconsumo’s November 2025 laboratory tests, which are older than 60 days.",
   "videoSource": "Migliori marche di Riso",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore"
 }
