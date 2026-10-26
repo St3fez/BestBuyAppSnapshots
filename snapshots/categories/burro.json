@@ -1,22 +1,30 @@
 {
   "cached": true,
   "categoryKey": "burro",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "burro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-25T09:51:45+00:00",
+  "lastUpdatedAt": "2026-10-26T11:07:47+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=CALV%C3%89&tag=your_amazon_tag-20",
+      "name": "CALVÉ",
+      "pros": [
+        "Recommended by Altroconsumo"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Burro di arachidi e crema di arachidi: le migliori marche",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/creme-e-confetture/creme-spalmabili-comparatore/caratteristiche/crema-di-arachidi"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "5 Marche di Burro D'Arachidi da EVITARE (ma 2 sono ottime)",
+  "videoUrl": "https://www.youtube.com/watch?v=j1ag4Li5GO8"
 }
