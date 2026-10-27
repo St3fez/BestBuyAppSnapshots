@@ -5,26 +5,26 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-26T11:03:01+00:00",
+  "lastUpdatedAt": "2026-10-27T10:30:42+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
-      "name": "BARILLA",
+      "amazonLink": "https://amazon.com/s?k=GAROFALO+PASTA+DI+GRAGNANO+IGP+PENNE+ZITI+RIGATE+N%C2%B070&tag=your_amazon_tag-20",
+      "name": "GAROFALO PASTA DI GRAGNANO IGP PENNE ZITI RIGATE N°70",
       "pros": [
-        "High quality pasta",
-        "Excellent taste",
-        "Competitive price"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2026-01-26.",
+        "Extracted directly from the official comparison page 'Migliori marche di pasta: marche, recensioni e confronti'."
       ],
       "rank": 1
     },
     {
-      "amazonLink": "https://amazon.com/s?k=AGNESI&tag=your_amazon_tag-20",
-      "name": "AGNESI",
+      "amazonLink": "https://amazon.com/s?k=LIGUORI+Spaghetti+n+.3+Pasta+di+Gragnano+IGP&tag=your_amazon_tag-20",
+      "name": "LIGUORI Spaghetti n .3 Pasta di Gragnano IGP",
       "pros": [
-        "High quality pasta",
-        "Excellent taste",
-        "Competitive price"
+        "Taken from the latest official consumer comparison available in the allowed year window.",
+        "Published by Altroconsumo on 2026-01-26.",
+        "Extracted directly from the official comparison page 'Migliori marche di pasta: marche, recensioni e confronti'."
       ],
       "rank": 2
     }
@@ -37,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 test recommends BARILLA and AGNESI as top pasta brands, based on quality, taste, and price. The evidence is fresh (published 2026-01-26).",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
   "videoSource": "Migliori marche di pasta: marche, recensioni e confronti",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-comparatore"
 }

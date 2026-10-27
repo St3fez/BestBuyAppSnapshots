@@ -1,22 +1,30 @@
 {
   "cached": true,
   "categoryKey": "yogurt",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Dietro il Marchio",
   "displayQuery": "yogurt",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-10-26T11:09:32+00:00",
+  "lastUpdatedAt": "2026-10-27T10:36:46+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Fage+Total+0%25&tag=your_amazon_tag-20",
+      "name": "Fage Total 0%",
+      "pros": [
+        "Most famous strained yogurt"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Yogurt Greco: calorie, proteine e differenze con lo yogurt",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/speciali/yogurt-greco"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "Stesse Proteine, Metà Prezzo: 12 YOGURT GRECI a Confronto (Etichette 2026)",
+  "videoUrl": "https://www.youtube.com/watch?v=Y0Ajijwm7eo"
 }
