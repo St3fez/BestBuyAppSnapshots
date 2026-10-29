@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-10-28T11:30:45+00:00",
+  "generatedAt": "2026-10-29T11:43:07+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -92,7 +92,7 @@
     },
     {
       "category": "birra",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'birra'. Last status: refreshing"
     },
     {
       "category": "miele",
