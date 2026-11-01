@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-10-31T11:08:23+00:00",
+  "generatedAt": "2026-11-01T12:02:20+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -92,7 +92,7 @@
     },
     {
       "category": "birra",
-      "status": "error: Timed out while preparing snapshot for 'birra'. Last status: refreshing"
+      "status": "ready"
     },
     {
       "category": "miele",
@@ -128,7 +128,7 @@
     },
     {
       "category": "mozzarella di bufala",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'mozzarella di bufala'. Last status: refreshing"
     },
     {
       "category": "grana padano",
