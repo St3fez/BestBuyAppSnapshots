@@ -5,28 +5,16 @@
   "displayQuery": "caffe",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-03T12:47:30+00:00",
+  "lastUpdatedAt": "2026-11-04T12:59:29+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20",
-      "name": "Nespresso",
+      "amazonLink": "https://amazon.com/s?k=Lavazza&tag=your_amazon_tag-20",
+      "name": "Lavazza",
       "pros": [
-        "High quality espresso",
-        "Wide range of flavors",
-        "Compatible with many machines"
+        "Recommended by Altroconsumo for coffee"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Starbucks+by+Nespresso&tag=your_amazon_tag-20",
-      "name": "Starbucks by Nespresso",
-      "pros": [
-        "Excellent espresso quality",
-        "Variety of flavors",
-        "Good price point"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -37,7 +25,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s 2026 review recommends Nespresso and Starbucks by Nespresso as top capsule choices, providing fresh evidence of their quality and compatibility.",
+  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo.",
   "videoSource": "Migliori Capsule Caffè : marche e prezzi",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/capsule-caffe-comparatore"
 }
