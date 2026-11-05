@@ -5,9 +5,20 @@
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-04T13:03:22+00:00",
+  "lastUpdatedAt": "2026-11-05T13:15:51+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Better+Life+Water+Purifier&tag=your_amazon_tag-20",
+      "name": "Better Life Water Purifier",
+      "pros": [
+        "Reduces need to buy bottled water",
+        "Provides more palatable water than tap",
+        "Easy under-sink installation"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +27,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2025 review of Better Life water purifiers cites user satisfaction and benefits such as reduced bottled water use, improved taste, and convenient installation. The evidence is older than 60 days.",
   "videoSource": "Acqua",
   "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
 }

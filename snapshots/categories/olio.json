@@ -5,20 +5,9 @@
   "displayQuery": "olio",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-04T13:02:44+00:00",
+  "lastUpdatedAt": "2026-11-05T13:15:18+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Migliore+del+test+Miglior+acquisto+Altroconsumo+86&tag=your_amazon_tag-20",
-      "name": "Migliore del test Miglior acquisto Altroconsumo 86",
-      "pros": [
-        "Qualità ottima",
-        "Prezzo medio competitivo (11,69 €)",
-        "Testato in laboratorio"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -27,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s July 2026 guide recommends the olive oil product “Migliore del test Miglior acquisto Altroconsumo 86” as the best choice, citing its high quality, competitive price, and laboratory testing.",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "Olio extravergine di oliva: guide ed approfondimenti",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/olio-oliva"
 }
