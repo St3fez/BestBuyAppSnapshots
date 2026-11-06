@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-11-05T13:23:26+00:00",
+  "generatedAt": "2026-11-06T13:11:20+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -76,7 +76,7 @@
     },
     {
       "category": "olio",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'olio'. Last status: refreshing"
     },
     {
       "category": "acqua",
@@ -84,7 +84,7 @@
     },
     {
       "category": "yogurt",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'yogurt'. Last status: refreshing"
     },
     {
       "category": "biscotti",
