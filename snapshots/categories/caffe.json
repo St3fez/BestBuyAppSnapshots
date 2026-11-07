@@ -5,16 +5,28 @@
   "displayQuery": "caffe",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-06T12:56:39+00:00",
+  "lastUpdatedAt": "2026-11-07T11:43:16+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=LAVAZZA&tag=your_amazon_tag-20",
-      "name": "LAVAZZA",
+      "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20",
+      "name": "Nespresso",
       "pros": [
-        "Recommended by Altroconsumo for"
+        "High quality espresso",
+        "Wide machine compatibility",
+        "Good price-performance ratio"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Illy&tag=your_amazon_tag-20",
+      "name": "Illy",
+      "pros": [
+        "Premium coffee quality",
+        "Compatible with many machines",
+        "Consistent flavor"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s 2026 review recommends Nespresso and Illy as top capsule coffee brands based on quality, taste, and machine compatibility. The evidence is fresh.",
   "videoSource": "Migliori Capsule Caffè : marche e prezzi",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/capsule-caffe-comparatore"
 }

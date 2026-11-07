@@ -1,20 +1,20 @@
 {
   "cached": true,
   "categoryKey": "panettone",
-  "channelTitle": "Dietro il Marchio",
+  "channelTitle": "Occhio alla Spesa",
   "displayQuery": "panettone",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-06T13:07:38+00:00",
+  "lastUpdatedAt": "2026-11-07T11:51:49+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=COOP+PANETTONE+CLASSICO&tag=your_amazon_tag-20",
       "name": "COOP PANETTONE CLASSICO",
       "pros": [
-        "Average price 6.09 €/kg",
-        "1000g format",
-        "Tested by Altroconsumo"
+        "Tested by Altroconsumo",
+        "Price per kg 6.09 €",
+        "1000 g format"
       ],
       "rank": 1
     },
@@ -22,22 +22,21 @@
       "amazonLink": "https://amazon.com/s?k=MOTTA+IL+PANETTONE+TRADIZIONALE+BRUNO+BARBIERI&tag=your_amazon_tag-20",
       "name": "MOTTA IL PANETTONE TRADIZIONALE BRUNO BARBIERI",
       "pros": [
-        "Average price 13.01 €/kg",
-        "1000g format",
-        "Tested by Altroconsumo"
+        "Tested by Altroconsumo",
+        "Price per kg 13.01 €",
+        "1000 g format"
       ],
       "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "altroconsumo",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: altroconsumo",
-  "videoSource": "12 Panettoni Testati da Altroconsumo: dal Peggiore al Migliore (Test 2025)",
-  "videoUrl": "https://www.youtube.com/watch?v=NDEBbqHuqMc"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "Panettoni: Quale Scegliere e Quale Evitare (Risultato Sorprendente)",
+  "videoUrl": "https://www.youtube.com/watch?v=A41vb7vknvU"
 }

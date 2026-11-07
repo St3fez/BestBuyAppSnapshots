@@ -1,22 +1,40 @@
 {
   "cached": true,
   "categoryKey": "patatine",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Food Verdict",
   "displayQuery": "patatine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-06T12:58:36+00:00",
+  "lastUpdatedAt": "2026-11-07T11:45:49+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=COOP+Patatine+Classiche+Con+Sale+Di+Guerande+Biologiche&tag=your_amazon_tag-20",
+      "name": "COOP Patatine Classiche Con Sale Di Guerande Biologiche",
+      "pros": [
+        "Biological",
+        "High potato content (63.9%)"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=COOP+Patatine+Classiche&tag=your_amazon_tag-20",
+      "name": "COOP Patatine Classiche",
+      "pros": [
+        "Contains 66% potatoes",
+        "Contains sunflower oil"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "AMICA CHIPS PATATINE GUSTO PAPRIKA",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/merenda/merendine-salate-comparatore/amica-chips-patatine-gusto-paprika/581/124369"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "9 Potato Chip Brands You Should NEVER Buy!  | Only 3 Are Worth Your Money!",
+  "videoUrl": "https://www.youtube.com/watch?v=O98EY6HhI7I"
 }

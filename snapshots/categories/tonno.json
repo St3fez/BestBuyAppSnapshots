@@ -5,9 +5,30 @@
   "displayQuery": "tonno",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-06T13:07:07+00:00",
+  "lastUpdatedAt": "2026-11-07T11:51:22+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=MAREBLU+Filetti+di+tonno+VEROSAPORE+in+olio+extravergine+di+oliva&tag=your_amazon_tag-20",
+      "name": "MAREBLU Filetti di tonno VEROSAPORE in olio extravergine di oliva",
+      "pros": [
+        "Laboratory‑tested tuna fillets (May 2024)",
+        "Average price €5.04 per 180 g",
+        "Pack contains olive oil, no added preservatives"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CONSORCIO+Filetti+di+tonno+in+olio+di+oliva&tag=your_amazon_tag-20",
+      "name": "CONSORCIO Filetti di tonno in olio di oliva",
+      "pros": [
+        "Laboratory‑tested tuna fillets (May 2024)",
+        "Average price €7.21 per 175 g",
+        "Produced in Spain, no sustainability certification"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Tonno in scatola e in vetro: consigli e recensioni",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/tonno"
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Both products were evaluated by Altroconsumo in May 2024, providing recent, laboratory‑based evidence of quality and price.",
+  "videoSource": "MAREBLU FILETTI DI TONNO VEROSAPORE IN OLIO EXTRAVERGINE DI OLIVA",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/tonno/comparatore/mareblu-filetti-di-tonno-verosapore-in-olio-extravergine-di-oliva/200/104536"
 }
