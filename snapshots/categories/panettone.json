@@ -1,42 +1,22 @@
 {
   "cached": true,
   "categoryKey": "panettone",
-  "channelTitle": "Occhio alla Spesa",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "panettone",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-07T11:51:49+00:00",
+  "lastUpdatedAt": "2026-11-08T12:04:46+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=COOP+PANETTONE+CLASSICO&tag=your_amazon_tag-20",
-      "name": "COOP PANETTONE CLASSICO",
-      "pros": [
-        "Tested by Altroconsumo",
-        "Price per kg 6.09 €",
-        "1000 g format"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=MOTTA+IL+PANETTONE+TRADIZIONALE+BRUNO+BARBIERI&tag=your_amazon_tag-20",
-      "name": "MOTTA IL PANETTONE TRADIZIONALE BRUNO BARBIERI",
-      "pros": [
-        "Tested by Altroconsumo",
-        "Price per kg 13.01 €",
-        "1000 g format"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "Panettoni: Quale Scegliere e Quale Evitare (Risultato Sorprendente)",
-  "videoUrl": "https://www.youtube.com/watch?v=A41vb7vknvU"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "COOP PANETTONE CLASSICO",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore/coop-panettone-classico/295/124019"
 }
