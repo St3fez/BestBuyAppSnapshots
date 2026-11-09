@@ -1,41 +1,43 @@
 {
   "cached": true,
   "categoryKey": "patatine",
-  "channelTitle": "MarcaViva",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "patatine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-08T11:58:13+00:00",
+  "lastUpdatedAt": "2026-11-09T13:57:38+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=COOP+Patatine+Classiche+Con+Sale+Di+Guerande+Biologiche&tag=your_amazon_tag-20",
-      "name": "COOP Patatine Classiche Con Sale Di Guerande Biologiche",
+      "amazonLink": "https://amazon.com/s?k=CONAD&tag=your_amazon_tag-20",
+      "name": "CONAD",
       "pros": [
-        "Biological",
-        "High potato content (63.9%)",
-        "Sunflower oil"
+        "Recommended by Altroconsumo in 2026-06-03 test",
+        "Best quality among frozen fries",
+        "Competitive price"
       ],
       "rank": 1
     },
     {
-      "amazonLink": "https://amazon.com/s?k=COOP+Patatine+Classiche&tag=your_amazon_tag-20",
-      "name": "COOP Patatine Classiche",
+      "amazonLink": "https://amazon.com/s?k=COOP&tag=your_amazon_tag-20",
+      "name": "COOP",
       "pros": [
-        "High potato content (66%)",
-        "Sunflower oil"
+        "Recommended by Altroconsumo in 2026-06-03 test",
+        "High quality lab results",
+        "Popular choice"
       ],
       "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "Ho provato 11 marche di patatine (ce ne sono di buone)",
-  "videoUrl": "https://www.youtube.com/watch?v=04iM5FZLvRM"
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2026-06-03 laboratory test recommends CONAD and COOP as top picks for frozen fries, based on quality, price, and consumer preference.",
+  "videoSource": "Migliori marche di patatine",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/merenda/merendine-salate-comparatore"
 }

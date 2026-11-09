@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-11-08T12:08:59+00:00",
+  "generatedAt": "2026-11-09T14:10:57+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -84,7 +84,7 @@
     },
     {
       "category": "yogurt",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'yogurt'. Last status: refreshing"
     },
     {
       "category": "biscotti",
@@ -120,7 +120,7 @@
     },
     {
       "category": "cracker",
-      "status": "error: Timed out while preparing snapshot for 'cracker'. Last status: refreshing"
+      "status": "ready"
     },
     {
       "category": "mozzarella",
