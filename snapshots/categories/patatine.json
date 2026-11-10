@@ -1,43 +1,21 @@
 {
   "cached": true,
   "categoryKey": "patatine",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Codacons",
   "displayQuery": "patatine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-09T13:57:38+00:00",
+  "lastUpdatedAt": "2026-11-10T13:30:54+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=CONAD&tag=your_amazon_tag-20",
-      "name": "CONAD",
-      "pros": [
-        "Recommended by Altroconsumo in 2026-06-03 test",
-        "Best quality among frozen fries",
-        "Competitive price"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=COOP&tag=your_amazon_tag-20",
-      "name": "COOP",
-      "pros": [
-        "Recommended by Altroconsumo in 2026-06-03 test",
-        "High quality lab results",
-        "Popular choice"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "official consumer source"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2026-06-03 laboratory test recommends CONAD and COOP as top picks for frozen fries, based on quality, price, and consumer preference.",
-  "videoSource": "Migliori marche di patatine",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/merenda/merendine-salate-comparatore"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Rassegna stampa del 16 e 17 maggio 2026",
+  "videoUrl": "https://codacons.it/rassegna-stampa-del-16-e-17-maggio-2026/"
 }
