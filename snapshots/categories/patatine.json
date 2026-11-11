@@ -1,21 +1,32 @@
 {
   "cached": true,
   "categoryKey": "patatine",
-  "channelTitle": "Codacons",
+  "channelTitle": "Hevim",
   "displayQuery": "patatine",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-10T13:30:54+00:00",
+  "lastUpdatedAt": "2026-11-11T12:45:42+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=AMICA+CHIPS+PATATINE+GUSTO+PAPRIKA&tag=your_amazon_tag-20",
+      "name": "AMICA CHIPS PATATINE GUSTO PAPRIKA",
+      "pros": [
+        "Paprika flavor",
+        "Tested by Altroconsumo",
+        "Energy content 546 kcal per 100g"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source"
+    "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Rassegna stampa del 16 e 17 maggio 2026",
-  "videoUrl": "https://codacons.it/rassegna-stampa-del-16-e-17-maggio-2026/"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "Ho provato tutte le patatine “cotte in padella” del supermercato e mi hanno truffato...",
+  "videoUrl": "https://www.youtube.com/watch?v=bnpuumtSC2o"
 }

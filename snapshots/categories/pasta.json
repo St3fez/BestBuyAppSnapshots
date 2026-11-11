@@ -1,43 +1,32 @@
 {
   "cached": true,
   "categoryKey": "pasta",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-10T13:27:00+00:00",
+  "lastUpdatedAt": "2026-11-11T12:42:01+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=AMO+ESSERE+ECCELLENTE+%28EUROSPIN%29&tag=your_amazon_tag-20",
-      "name": "AMO ESSERE ECCELLENTE (EUROSPIN)",
+      "amazonLink": "https://amazon.com/s?k=PASTA+REALE+%28MD%29+PENNE+RIGATE&tag=your_amazon_tag-20",
+      "name": "PASTA REALE (MD) PENNE RIGATE",
       "pros": [
-        "Recommended by Altroconsumo in 2025 test",
-        "High quality fresh stuffed pasta",
-        "Popular among consumers"
+        "500 g package",
+        "High quality wheat origin declared",
+        "Affordable price at 1.18 €"
       ],
       "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=AVESANI&tag=your_amazon_tag-20",
-      "name": "AVESANI",
-      "pros": [
-        "Recommended by Altroconsumo in 2025 test",
-        "High quality fresh stuffed pasta",
-        "Popular among consumers"
-      ],
-      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 test on fresh stuffed pasta lists AMO ESSERE ECCELLENTE (EUROSPIN) and AVESANI as top picks, indicating strong performance in quality and consumer preference.",
-  "videoSource": "Migliori paste fresche ripiene",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-ripiena-comparatore"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "9 Marche di Pasta Italiana: dalla Peggiore alla Migliore",
+  "videoUrl": "https://www.youtube.com/watch?v=VV8tGRRmiT8"
 }
