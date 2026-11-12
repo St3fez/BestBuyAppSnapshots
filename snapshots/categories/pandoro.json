@@ -5,18 +5,28 @@
   "displayQuery": "pandoro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-11T12:45:59+00:00",
+  "lastUpdatedAt": "2026-11-12T13:48:39+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Tre+Marie&tag=your_amazon_tag-20",
+      "name": "Tre Marie",
+      "pros": [
+        "Best pandoro in Altroconsumo 2025 test",
+        "Highly rated by over 130 consumers",
+        "Excellent ingredient quality"
+      ],
+      "rank": 1
+    },
     {
       "amazonLink": "https://amazon.com/s?k=Conad&tag=your_amazon_tag-20",
       "name": "Conad",
       "pros": [
-        "Best purchase according to Altroconsumo’s 2025 test",
-        "Praised for quality and value",
-        "Chosen by consumers in the tasting"
+        "Best purchase according to Altroconsumo 2025",
+        "Highly appreciated by consumers",
+        "Good value for money"
       ],
-      "rank": 1
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -27,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 pandoro test recommends Tre Marie and Conad as top picks; the evidence is older than 60 days.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 test identified Tre Marie as the top pandoro and Conad as the best purchase; the evidence dates from December 2025, older than 60 days.",
   "videoSource": "Pandoro: consigli e recensioni",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro"
 }
