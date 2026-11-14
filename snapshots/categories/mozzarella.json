@@ -1,22 +1,40 @@
 {
   "cached": true,
   "categoryKey": "mozzarella",
-  "channelTitle": "UNC",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-13T13:15:32+00:00",
+  "lastUpdatedAt": "2026-11-14T12:22:42+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=CONAD+ALIMENTUM+Pizza+Margherita+con+mozzarella+senza+lattosio+-+senza+glutine&tag=your_amazon_tag-20",
+      "name": "CONAD ALIMENTUM Pizza Margherita con mozzarella senza lattosio - senza glutine",
+      "pros": [
+        "Mozzarella senza lattosio",
+        "Senza glutine"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=BUITONI+Bella+Napoli+Margherita+con+extra+mozzarella&tag=your_amazon_tag-20",
+      "name": "BUITONI Bella Napoli Margherita con extra mozzarella",
+      "pros": [
+        "Extra mozzarella",
+        "Tested by Altroconsumo"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "UNC"
+    "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Il packaging come scudo anti-truffa: l’iniziativa Lactalis e Carabinieri",
-  "videoUrl": "https://www.consumatori.it/news/lactalis-packaging-truffa/"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "5 Marche di MOZZARELLA che Devi EVITARE",
+  "videoUrl": "https://www.youtube.com/watch?v=2RnrkbbzGiY"
 }

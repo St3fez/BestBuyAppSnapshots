@@ -5,16 +5,28 @@
   "displayQuery": "caffe",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-13T13:05:14+00:00",
+  "lastUpdatedAt": "2026-11-14T12:10:04+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Lavazza+%28Capsule+Caff%C3%A8%29&tag=your_amazon_tag-20",
-      "name": "Lavazza (Capsule Caffè)",
+      "amazonLink": "https://amazon.com/s?k=Dolce+Gusto&tag=your_amazon_tag-20",
+      "name": "Dolce Gusto",
       "pros": [
-        "Recommended"
+        "Top-rated in Altroconsumo tests",
+        "Compatible with a wide range of machines",
+        "Offers a diverse flavor selection"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20",
+      "name": "Nespresso",
+      "pros": [
+        "Highly rated by Altroconsumo",
+        "Excellent taste and quality",
+        "Compatible with Nespresso machines"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo.",
-  "videoSource": "Migliori Capsule Caffè : marche e prezzi",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/capsule-caffe-comparatore"
+  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo. Altroconsumo’s September 2026 review lists Dolce Gusto and Nespresso as the leading capsule brands for espresso, highlighting their taste, machine compatibility and variety.",
+  "videoSource": "Caffè macinato: guide ed approfondimenti",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/caffe-macinato-comparatore"
 }
