@@ -5,26 +5,26 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-14T12:08:13+00:00",
+  "lastUpdatedAt": "2026-11-15T12:42:29+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=BARILLA&tag=your_amazon_tag-20",
       "name": "BARILLA",
       "pros": [
-        "High quality pasta",
-        "Competitive price",
-        "Widely available"
+        "Recommended by Altroconsumo in its 2026 \"Migliori marche di pasta\" test",
+        "High quality pasta with good taste",
+        "Widely available and competitively priced"
       ],
       "rank": 1
     },
     {
-      "amazonLink": "https://amazon.com/s?k=ESSELUNGA&tag=your_amazon_tag-20",
-      "name": "ESSELUNGA",
+      "amazonLink": "https://amazon.com/s?k=AGNESI&tag=your_amazon_tag-20",
+      "name": "AGNESI",
       "pros": [
-        "Excellent taste",
-        "Affordable price",
-        "Trusted brand"
+        "Recommended by Altroconsumo in its 2026 \"Migliori marche di pasta\" test",
+        "Known for high quality and authentic Italian pasta",
+        "Available in most supermarkets"
       ],
       "rank": 2
     }
@@ -37,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 test recommends BARILLA and ESSELUNGA as top pasta brands, indicating strong quality and value; evidence is fresh.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 test \"Migliori marche di pasta\" lists BARILLA and AGNESI as recommended brands, indicating they meet quality and price criteria.",
   "videoSource": "Migliori marche di pasta: marche, recensioni e confronti",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-comparatore"
 }

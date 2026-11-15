@@ -1,20 +1,20 @@
 {
   "cached": true,
   "categoryKey": "panettone",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Dietro il Marchio",
   "displayQuery": "panettone",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-14T12:20:14+00:00",
+  "lastUpdatedAt": "2026-11-15T12:54:43+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
       "amazonLink": "https://amazon.com/s?k=COOP+PANETTONE+CLASSICO&tag=your_amazon_tag-20",
       "name": "COOP PANETTONE CLASSICO",
       "pros": [
-        "Competitive price of €6.09/kg",
-        "Traditional ingredients such as uva sultanina and scorza d'arancia candite",
-        "Tested in December 2025"
+        "Tested by Altroconsumo",
+        "Price 6.09 €/kg",
+        "1000g size"
       ],
       "rank": 1
     },
@@ -22,22 +22,22 @@
       "amazonLink": "https://amazon.com/s?k=MOTTA+IL+PANETTONE+TRADIZIONALE+BRUNO+BARBIERI&tag=your_amazon_tag-20",
       "name": "MOTTA IL PANETTONE TRADIZIONALE BRUNO BARBIERI",
       "pros": [
-        "Premium ingredients including uvetta sultanina 9.1% and miele millefiori",
-        "Higher quality taste profile",
-        "Tested in December 2025"
+        "Tested by Altroconsumo",
+        "Price 13.01 €/kg",
+        "1000g size"
       ],
       "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
+    "altroconsumo",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Both products were evaluated by Altroconsumo in December 2025, providing recent and reliable evidence.",
-  "videoSource": "COOP PANETTONE CLASSICO",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore/coop-panettone-classico/295/124019"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: altroconsumo",
+  "videoSource": "12 Panettoni Testati da Altroconsumo: dal Peggiore al Migliore (Test 2025)",
+  "videoUrl": "https://www.youtube.com/watch?v=NDEBbqHuqMc"
 }

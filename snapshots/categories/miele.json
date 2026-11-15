@@ -1,33 +1,42 @@
 {
   "cached": true,
   "categoryKey": "miele",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Italia In Scaffale",
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-14T12:18:37+00:00",
+  "lastUpdatedAt": "2026-11-15T12:52:44+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Miele+Guard+L1+Yellow+Flex&tag=your_amazon_tag-20",
-      "name": "Miele Guard L1 Yellow Flex",
+      "amazonLink": "https://amazon.com/s?k=MIELE+G+5851+SCVI+ACTIVE+PLUS&tag=your_amazon_tag-20",
+      "name": "MIELE G 5851 SCVI ACTIVE PLUS",
       "pros": [
-        "5‑star rating from Altroconsumo",
-        "High suction power of 890 W",
-        "Wide coverage radius of 12 m and large 3.5 L dustbin"
+        "High washing effectiveness",
+        "Excellent drying performance",
+        "Long program duration"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=MIELE+GUARD+L1+YELLOW+FLEX&tag=your_amazon_tag-20",
+      "name": "MIELE GUARD L1 YELLOW FLEX",
+      "pros": [
+        "5‑Star rating",
+        "Excellent overall judgment",
+        "Strong performance on smooth floors"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo awarded the Miele Guard L1 Yellow Flex a 5‑star rating, noting its strong suction, wide coverage and ample dustbin capacity, making it a top recommendation.",
-  "videoSource": "MIELE G 5851 SCVI ACTIVE PLUS",
-  "videoUrl": "https://www.altroconsumo.it/elettrodomestici/lavastoviglie/comparatore/miele-g-5851-scvi-active-plus/46/122596"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+  "videoSource": "9 Marche di MIELE Venduto in Italia: dalla Peggiore alla Migliore",
+  "videoUrl": "https://www.youtube.com/watch?v=_FqPHC9SAD0"
 }
