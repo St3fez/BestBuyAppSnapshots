@@ -1,30 +1,31 @@
 {
   "cached": true,
   "categoryKey": "yogurt",
-  "channelTitle": "Dietro il Marchio",
+  "channelTitle": "Leggo",
   "displayQuery": "yogurt",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-15T12:49:56+00:00",
+  "lastUpdatedAt": "2026-11-16T13:43:16+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Fage+Total+0%25&tag=your_amazon_tag-20",
-      "name": "Fage Total 0%",
+      "amazonLink": "https://amazon.com/s?k=MILA+YOGURT+GOURMET+CREMA+DI+FRAGOLA&tag=your_amazon_tag-20",
+      "name": "MILA YOGURT GOURMET CREMA DI FRAGOLA",
       "pros": [
-        "Most famous strained yogurt"
+        "Identified"
       ],
       "rank": 1
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
+    "altroconsumo",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "Stesse Proteine, Metà Prezzo: 12 YOGURT GRECI a Confronto (Etichette 2026)",
-  "videoUrl": "https://www.youtube.com/watch?v=Y0Ajijwm7eo"
+  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: altroconsumo",
+  "videoSource": "Yogurt del supermercato, quali sono i migliori? La classifica di Altroconsumo",
+  "videoUrl": "https://www.youtube.com/watch?v=hDiaU3PGb64"
 }

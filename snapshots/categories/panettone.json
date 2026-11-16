@@ -1,43 +1,22 @@
 {
   "cached": true,
   "categoryKey": "panettone",
-  "channelTitle": "Dietro il Marchio",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "panettone",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-15T12:54:43+00:00",
+  "lastUpdatedAt": "2026-11-16T13:46:31+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=COOP+PANETTONE+CLASSICO&tag=your_amazon_tag-20",
-      "name": "COOP PANETTONE CLASSICO",
-      "pros": [
-        "Tested by Altroconsumo",
-        "Price 6.09 €/kg",
-        "1000g size"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=MOTTA+IL+PANETTONE+TRADIZIONALE+BRUNO+BARBIERI&tag=your_amazon_tag-20",
-      "name": "MOTTA IL PANETTONE TRADIZIONALE BRUNO BARBIERI",
-      "pros": [
-        "Tested by Altroconsumo",
-        "Price 13.01 €/kg",
-        "1000g size"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "altroconsumo",
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: altroconsumo",
-  "videoSource": "12 Panettoni Testati da Altroconsumo: dal Peggiore al Migliore (Test 2025)",
-  "videoUrl": "https://www.youtube.com/watch?v=NDEBbqHuqMc"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Panettone: consigli e recensioni",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone"
 }
