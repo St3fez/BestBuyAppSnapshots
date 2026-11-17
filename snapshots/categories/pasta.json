@@ -5,30 +5,9 @@
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-16T13:36:16+00:00",
+  "lastUpdatedAt": "2026-11-17T14:20:42+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=Pasta+Reale+%28MD%29+Penne+Rigate&tag=your_amazon_tag-20",
-      "name": "Pasta Reale (MD) Penne Rigate",
-      "pros": [
-        "Fast cooking time of 9 minutes",
-        "Affordable price of €0.59 per 500 g",
-        "Made in Italy with high‑quality wheat"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=Felicetti+Spaghetti+n.+105&tag=your_amazon_tag-20",
-      "name": "Felicetti Spaghetti n. 105",
-      "pros": [
-        "Made in Italy with 100% Italian wheat",
-        "Reasonable cooking time of 11 minutes",
-        "Competitive price of €1.41 per 500 g"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -37,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s recent tests (published 2026‑06‑18) highlight these pasta products as top choices, offering good quality, reasonable cooking times, and competitive prices.",
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
   "videoSource": "Migliori paste fresche ripiene",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-ripiena-comparatore"
 }
