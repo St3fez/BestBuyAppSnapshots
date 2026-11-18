@@ -5,30 +5,9 @@
   "displayQuery": "panettone",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-17T14:31:05+00:00",
+  "lastUpdatedAt": "2026-11-18T14:05:20+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=COOP+PANETTONE+CLASSICO&tag=your_amazon_tag-20",
-      "name": "COOP PANETTONE CLASSICO",
-      "pros": [
-        "Price per kg 6.09 € (affordable)",
-        "Contains traditional ingredients such as uva sultanina and scorza d’arancia candite",
-        "Laboratory test by Altroconsumo in December 2025"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=MOTTA+IL+PANETTONE+TRADIZIONALE+BRUNO+BARBIERI&tag=your_amazon_tag-20",
-      "name": "MOTTA IL PANETTONE TRADIZIONALE BRUNO BARBIERI",
-      "pros": [
-        "Premium price 13.01 € per kg",
-        "High‑quality ingredients like uvetta sultanina 9.1 % and scorze d’arancia candite 11.3 %",
-        "Laboratory test by Altroconsumo in December 2025"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -37,7 +16,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Both products were tested by Altroconsumo in December 2025, so the official evidence is older than 60 days.",
-  "videoSource": "COOP PANETTONE CLASSICO",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone/comparatore/coop-panettone-classico/295/124019"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Panettone: consigli e recensioni",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/panettone"
 }

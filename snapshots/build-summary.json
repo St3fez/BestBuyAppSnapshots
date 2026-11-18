@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-11-17T14:34:32+00:00",
+  "generatedAt": "2026-11-18T14:08:19+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -84,7 +84,7 @@
     },
     {
       "category": "yogurt",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'yogurt'. Last status: refreshing"
     },
     {
       "category": "biscotti",
