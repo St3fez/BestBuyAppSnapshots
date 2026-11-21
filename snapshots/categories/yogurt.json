@@ -1,30 +1,22 @@
 {
   "cached": true,
   "categoryKey": "yogurt",
-  "channelTitle": "Italia In Scaffale",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "yogurt",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-20T14:08:10+00:00",
+  "lastUpdatedAt": "2026-11-21T13:33:38+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=MILA+YOGURT+GOURMET+CREMA+DI+FRAGOLA&tag=your_amazon_tag-20",
-      "name": "MILA YOGURT GOURMET CREMA DI FRAGOLA",
-      "pros": [
-        "Tested by"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "Ho Indagato 8 Marche di YOGURT (Solo 3 Sono Sicure)",
-  "videoUrl": "https://www.youtube.com/watch?v=PtOcBTX8ngQ"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "MILA YOGURT GOURMET CREMA DI FRAGOLA",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/yogurt-comparatore/mila-yogurt-gourmet-crema-di-fragola/203/133550"
 }
