@@ -5,16 +5,28 @@
   "displayQuery": "caffe",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-21T13:28:11+00:00",
+  "lastUpdatedAt": "2026-11-22T13:19:52+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=LAVAZZA+%28Capsule+Caff%C3%A8%29&tag=your_amazon_tag-20",
-      "name": "LAVAZZA (Capsule Caffè)",
+      "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20",
+      "name": "Nespresso",
       "pros": [
-        "Recommended"
+        "Recommended by Altroconsumo",
+        "High quality espresso",
+        "Wide machine compatibility"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Illy&tag=your_amazon_tag-20",
+      "name": "Illy",
+      "pros": [
+        "Recommended by Altroconsumo",
+        "High quality espresso",
+        "Wide machine compatibility"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Recommendations extracted from fresh official consumer sources. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 review lists Nespresso and Illy as top capsule choices, highlighting their quality and compatibility with a range of machines. The recommendations are fresh, published on 2026-09-23.",
   "videoSource": "Migliori Capsule Caffè : marche e prezzi",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/capsule-caffe-comparatore"
 }
