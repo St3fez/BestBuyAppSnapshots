@@ -5,16 +5,28 @@
   "displayQuery": "pandoro",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-23T15:59:47+00:00",
+  "lastUpdatedAt": "2026-11-24T15:54:40+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Tre+Marie+Pandoro&tag=your_amazon_tag-20",
-      "name": "Tre Marie Pandoro",
+      "amazonLink": "https://amazon.com/s?k=Tre+Marie&tag=your_amazon_tag-20",
+      "name": "Tre Marie",
       "pros": [
-        "Awarded 'Best"
+        "Best overall score in Altroconsumo 2025 test",
+        "High quality ingredients like eggs and butter",
+        "Highly rated by over 130 consumers"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Conad&tag=your_amazon_tag-20",
+      "name": "Conad",
+      "pros": [
+        "Top performer in Altroconsumo 2025 test",
+        "Excellent taste and texture",
+        "Consumer favorite"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 test highlights Tre Marie and Conad as the best pandori, based on laboratory analysis and consumer tasting.",
   "videoSource": "Pandoro: consigli e recensioni",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/pandoro"
 }

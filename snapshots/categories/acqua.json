@@ -5,9 +5,20 @@
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-23T16:01:24+00:00",
+  "lastUpdatedAt": "2026-11-24T15:56:26+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Happy+Frizz&tag=your_amazon_tag-20",
+      "name": "Happy Frizz",
+      "pros": [
+        "Best purchase value according to Altroconsumo test",
+        "Offers reliable carbonation performance",
+        "Affordable price point for home use"
+      ],
+      "rank": 1
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +27,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026‑11‑23 test identifies Philips ADD4902BK/10 GoZero as the top gasator and Happy Frizz as the best purchase, providing fresh evidence for these recommendations.",
   "videoSource": "Acqua",
   "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
 }
