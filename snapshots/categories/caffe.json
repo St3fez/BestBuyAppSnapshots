@@ -5,16 +5,28 @@
   "displayQuery": "caffe",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-24T15:52:03+00:00",
+  "lastUpdatedAt": "2026-11-25T15:35:08+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=LAVAZZA&tag=your_amazon_tag-20",
-      "name": "LAVAZZA",
+      "amazonLink": "https://amazon.com/s?k=CAFFE+VERGNANO+1882&tag=your_amazon_tag-20",
+      "name": "CAFFE VERGNANO 1882",
       "pros": [
-        "Recommended by Altroconsumo for"
+        "Recommended by Altroconsumo in recent tests",
+        "Offers a balanced flavor profile",
+        "Available in multiple retail chains"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=KIMBO&tag=your_amazon_tag-20",
+      "name": "KIMBO",
+      "pros": [
+        "Highlighted by Altroconsumo as a top pick",
+        "Competitive price per kilogram",
+        "Widely distributed in supermarkets"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
@@ -25,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
+  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2026 reviews list CAFFE VERGNANO 1882 and KIMBO as recommended options for ground coffee and capsules, reflecting recent testing and consumer preference.",
   "videoSource": "Caffè macinato: guide ed approfondimenti",
   "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/caffe-macinato-comparatore"
 }
