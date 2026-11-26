@@ -1,42 +1,22 @@
 {
   "cached": true,
   "categoryKey": "biscotti",
-  "channelTitle": "Italia In Scaffale",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "biscotti",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-25T15:40:58+00:00",
+  "lastUpdatedAt": "2026-11-26T15:15:35+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=CARREFOUR+BIO+BISCOTTO+CON+FARINA+INTEGRALE+DI+FARRO&tag=your_amazon_tag-20",
-      "name": "CARREFOUR BIO BISCOTTO CON FARINA INTEGRALE DI FARRO",
-      "pros": [
-        "Whole grain with barley flour",
-        "High fiber content",
-        "Organic"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=SARCHIO+MIGLIORI+BISCOTTI+AL+MIGLIO&tag=your_amazon_tag-20",
-      "name": "SARCHIO MIGLIORI BISCOTTI AL MIGLIO",
-      "pros": [
-        "Low sugar",
-        "Gluten-free",
-        "Organic"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "8 Marche di BISCOTTI Italiani da EVITARE (attenzione anziani)",
-  "videoUrl": "https://www.youtube.com/watch?v=WCW9VWvQCQw"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "PAN DI STELLE PAN DI STELLE BISCOTTO AL CACAO NOCCIOLE E LATTE FRESCO 100% ITALIANO 350G",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/colazione/biscotti-comparatore/pan-di-stelle-pan-di-stelle-biscotto-al-cacao-nocciole-e-latte-fresco-100-italiano-350g/493/103261"
 }

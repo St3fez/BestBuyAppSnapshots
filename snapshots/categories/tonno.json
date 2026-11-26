@@ -1,42 +1,22 @@
 {
   "cached": true,
   "categoryKey": "tonno",
-  "channelTitle": "Italia In Scaffale",
+  "channelTitle": "Altroconsumo",
   "displayQuery": "tonno",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-25T15:43:17+00:00",
+  "lastUpdatedAt": "2026-11-26T15:17:45+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=MAREBLU+Filetti+di+tonno+VEROSAPORE+in+olio+extravergine+di+oliva&tag=your_amazon_tag-20",
-      "name": "MAREBLU Filetti di tonno VEROSAPORE in olio extravergine di oliva",
-      "pros": [
-        "tested by Altroconsumo",
-        "lab analysis",
-        "expert tasting"
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=CONSORCIO+Filetti+di+tonno+in+olio+di+oliva&tag=your_amazon_tag-20",
-      "name": "CONSORCIO Filetti di tonno in olio di oliva",
-      "pros": [
-        "tested by Altroconsumo",
-        "lab analysis",
-        "expert tasting"
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
+    "official consumer source",
     "Altroconsumo"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "7 Marche Di TONNO Da EVITARE (ma 2 sono ottime)",
-  "videoUrl": "https://www.youtube.com/watch?v=_qc2sBjhggE"
+  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "videoSource": "Tonno in scatola e in vetro: consigli e recensioni",
+  "videoUrl": "https://www.altroconsumo.it/alimentazione/tonno"
 }
