@@ -5,9 +5,30 @@
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-26T15:14:10+00:00",
+  "lastUpdatedAt": "2026-11-27T15:08:51+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [],
+  "products": [
+    {
+      "amazonLink": "https://amazon.com/s?k=Philips+ADD4902BK%2F10+GoZero&tag=your_amazon_tag-20",
+      "name": "Philips ADD4902BK/10 GoZero",
+      "pros": [
+        "High output of sparkling water (up to 240 L with minimal carbonation)",
+        "Large bottle capacity (up to 890 ml per fill)",
+        "Easy bottle insertion and maintenance"
+      ],
+      "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Happy+Frizz&tag=your_amazon_tag-20",
+      "name": "Happy Frizz",
+      "pros": [
+        "Best value for money",
+        "User‑friendly design",
+        "Reliable carbonation performance"
+      ],
+      "rank": 2
+    }
+  ],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
@@ -16,7 +37,7 @@
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 test identifies Philips ADD4902BK/10 GoZero as the top gasatore d’acqua and Happy Frizz as the best purchase, providing fresh, evidence‑based recommendations.",
   "videoSource": "Acqua",
   "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
 }

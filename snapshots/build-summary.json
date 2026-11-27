@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generatedAt": "2026-11-26T15:20:58+00:00",
+  "generatedAt": "2026-11-27T15:15:59+00:00",
   "categoriesRequested": [
     "pasta",
     "riso",
@@ -32,7 +32,7 @@
   "results": [
     {
       "category": "pasta",
-      "status": "ready"
+      "status": "error: Timed out while preparing snapshot for 'pasta'. Last status: refreshing"
     },
     {
       "category": "riso",

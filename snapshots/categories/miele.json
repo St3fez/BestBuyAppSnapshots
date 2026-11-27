@@ -5,18 +5,28 @@
   "displayQuery": "miele",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-26T15:16:42+00:00",
+  "lastUpdatedAt": "2026-11-27T15:11:29+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Miele+di+Manuka&tag=your_amazon_tag-20",
-      "name": "Miele di Manuka",
+      "amazonLink": "https://amazon.com/s?k=MIELE+WEI885+WCS+125+GALA+Edition&tag=your_amazon_tag-20",
+      "name": "MIELE WEI885 WCS 125 GALA Edition",
       "pros": [
-        "Antimicrobial properties",
-        "Low water activity",
-        "Low pH"
+        "9 kg load capacity",
+        "1600 rpm spin speed",
+        "inverter motor technology"
       ],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=MIELE+TRIFLEX+HX2+125+EDITION&tag=your_amazon_tag-20",
+      "name": "MIELE TRIFLEX HX2 125 EDITION",
+      "pros": [
+        "suction on smooth floors",
+        "suction on carpets",
+        "dust container"
+      ],
+      "rank": 2
     }
   ],
   "refreshRequested": false,
