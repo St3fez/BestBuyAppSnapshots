@@ -1,7 +1,7 @@
 {
   "cached": true,
   "categoryKey": "grana-padano",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": null,
   "displayQuery": "grana padano",
   "error": null,
   "freshnessDays": 60,
@@ -10,13 +10,12 @@
   "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "official consumer source"
   ],
   "stale": false,
-  "status": "ready",
+  "status": "missing",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "SELEX TORTELLINI FRESCHI PROSCIUTTO CRUDO CON GRANA PADANO DOP",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-ripiena-comparatore/selex-tortellini-freschi-prosciutto-crudo-con-grana-padano-dop/570/104244"
+  "trustedSourceSummary": null,
+  "videoSource": null,
+  "videoUrl": null
 }

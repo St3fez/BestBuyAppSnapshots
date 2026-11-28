@@ -1,7 +1,7 @@
 {
   "cached": true,
   "categoryKey": "passata-di-pomodoro",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": null,
   "displayQuery": "passata di pomodoro",
   "error": null,
   "freshnessDays": 60,
@@ -10,13 +10,12 @@
   "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "official consumer source"
   ],
   "stale": false,
-  "status": "ready",
+  "status": "missing",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Migliori Passate di pomodoro",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/passata-di-pomodoro/comparatore"
+  "trustedSourceSummary": null,
+  "videoSource": null,
+  "videoUrl": null
 }

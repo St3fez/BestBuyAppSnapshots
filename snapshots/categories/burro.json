@@ -1,7 +1,7 @@
 {
   "cached": true,
   "categoryKey": "burro",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": null,
   "displayQuery": "burro",
   "error": null,
   "freshnessDays": 60,
@@ -10,13 +10,12 @@
   "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "official consumer source"
   ],
   "stale": false,
-  "status": "ready",
+  "status": "missing",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Burro di arachidi: composizione, caratteristiche e scelta",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/fare-la-spesa/speciali/burro-di-arachidi"
+  "trustedSourceSummary": null,
+  "videoSource": null,
+  "videoUrl": null
 }

@@ -1,7 +1,7 @@
 {
   "cached": true,
   "categoryKey": "cracker",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": null,
   "displayQuery": "cracker",
   "error": null,
   "freshnessDays": 60,
@@ -11,13 +11,12 @@
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
-    "Altroconsumo",
     "Codacons"
   ],
   "stale": false,
-  "status": "ready",
+  "status": "missing",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "Migliori braccialetti fitness",
-  "videoUrl": "https://www.altroconsumo.it/hi-tech/wearable/fitness-tracker-comparatore"
+  "trustedSourceSummary": null,
+  "videoSource": null,
+  "videoUrl": null
 }

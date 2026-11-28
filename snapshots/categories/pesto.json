@@ -1,31 +1,262 @@
 {
   "cached": true,
   "categoryKey": "pesto",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Open Food Facts",
   "displayQuery": "pesto",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-27T15:06:24+00:00",
+  "lastUpdatedAt": "2026-11-28T14:14:13+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=BIFFI+Pesto&tag=your_amazon_tag-20",
-      "name": "BIFFI Pesto",
-      "pros": [
-        "Explicitly tested"
-      ],
+      "amazonLink": "https://amazon.com/s?k=Cereal+Terra+pesto+biologico+per+NaturaS%C3%AC",
+      "citedBy": {
+        "organization": "Il Salvagente",
+        "title": "Pesto: “Esiste l’ora giusta per raccogliere le foglie di basilico”",
+        "url": "https://ilsalvagente.it/2025/07/20/pesto-esiste-lora-giusta-per-raccogliere-le-foglie-di-basilico/"
+      },
+      "name": "Cereal Terra pesto biologico per NaturaSì",
+      "pros": [],
       "rank": 1
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Barilla+Pesto+Rustico+Mediterraneo",
+      "barcode": "8076809576581",
+      "name": "Barilla Pesto Rustico Mediterraneo",
+      "pros": [
+        "Nutri-Score C on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 2,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8076809576581"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Bio+Gustiamo+Pesto+Rosso",
+      "barcode": "8029689025847",
+      "name": "Bio Gustiamo Pesto Rosso",
+      "pros": [
+        "Nutri-Score C on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score B for environmental impact."
+      ],
+      "rank": 3,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8029689025847"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Vemondo+Pesto+vegano+al+basilico",
+      "barcode": "4056489441281",
+      "name": "Vemondo Pesto vegano al basilico",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 4,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4056489441281"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Barilla+Pesto+rustico",
+      "barcode": "8076809576598",
+      "name": "Barilla Pesto rustico",
+      "pros": [
+        "Nutri-Score C on Open Food Facts.",
+        "NOVA group 4: ultra-processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 5,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8076809576598"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=REWE+Bio+Pesto+Verde",
+      "barcode": "4337256473699",
+      "name": "REWE Bio Pesto Verde",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 6,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4337256473699"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Mutti+Pesto+verde+di+pomodoro",
+      "barcode": "8005110001574",
+      "name": "Mutti Pesto verde di pomodoro",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "Green-Score C for environmental impact.",
+        "Listed in Italy on Open Food Facts (14 unique scans)."
+      ],
+      "rank": 7,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8005110001574"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Deluxe+Pesto+con+rucola",
+      "barcode": "4056489204183",
+      "name": "Deluxe Pesto con rucola",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 8,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4056489204183"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=CARREFOUR+FRANCE+PESTO+alla+Genovese",
+      "barcode": "3560071420277",
+      "name": "CARREFOUR FRANCE PESTO alla Genovese",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 4: ultra-processed food.",
+        "Green-Score B for environmental impact."
+      ],
+      "rank": 9,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560071420277"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Carrefour+Pesto+verde",
+      "barcode": "3245413808196",
+      "name": "Carrefour Pesto verde",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 4: ultra-processed food.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 10,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3245413808196"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Alce+nero+Frollini+con+Muesli+pesto",
+      "barcode": "10090048",
+      "name": "Alce nero Frollini con Muesli",
+      "pros": [
+        "Nutri-Score C on Open Food Facts.",
+        "Green-Score F for environmental impact.",
+        "Widely scanned in Italy on Open Food Facts (28 unique scans)."
+      ],
+      "rank": 11,
+      "sourceUrl": "https://world.openfoodfacts.org/product/10090048"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Baresa+Pesto+alla+Siciliana",
+      "barcode": "20469900",
+      "name": "Baresa Pesto alla Siciliana",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 12,
+      "sourceUrl": "https://world.openfoodfacts.org/product/20469900"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Tradizioni+d%27Italia+Pesto+con+basilico+Genovese+DOP",
+      "barcode": "3760113766121",
+      "name": "Tradizioni d'Italia Pesto con basilico Genovese DOP",
+      "pros": [
+        "Nutri-Score E on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 13,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3760113766121"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Vemondo+Vegan+Pesto+alla+Calabrese",
+      "barcode": "4056489441304",
+      "name": "Vemondo Vegan Pesto alla Calabrese",
+      "pros": [
+        "Nutri-Score D on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 14,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4056489441304"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Il+pesto+di+Pra%27",
+      "barcode": "8032649301509",
+      "name": "Il pesto di Pra'",
+      "pros": [
+        "Nutri-Score E on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 15,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8032649301509"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Polli+Pesto+pomodori+secchi+e+formaggio",
+      "barcode": "8001310004216",
+      "name": "Polli Pesto pomodori secchi e formaggio",
+      "pros": [
+        "Green-Score D for environmental impact.",
+        "Listed in Italy on Open Food Facts (10 unique scans)."
+      ],
+      "rank": 16,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001310004216"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Polli+Pesto+alla+calabrese",
+      "barcode": "8001310003592",
+      "name": "Polli Pesto alla calabrese",
+      "pros": [
+        "Nutri-Score E on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 17,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001310003592"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Star+Peperoni+%26+Noci+pesto",
+      "barcode": "80024040",
+      "name": "Star Peperoni & Noci",
+      "pros": [
+        "Nutri-Score E on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 18,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80024040"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Pesto+Giovanni+Rana",
+      "barcode": "80948735",
+      "name": "Pesto Giovanni Rana",
+      "pros": [
+        "Nutri-Score E on Open Food Facts.",
+        "Green-Score D for environmental impact.",
+        "Widely scanned in Italy on Open Food Facts (20 unique scans)."
+      ],
+      "rank": 19,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80948735"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Biffi+Pesto+100%25vegetale",
+      "barcode": "8009320037774",
+      "name": "Biffi Pesto 100%vegetale",
+      "pros": [
+        "Nutri-Score E on Open Food Facts.",
+        "NOVA group 3: processed food.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 20,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8009320037774"
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "open product database",
+    "Open Food Facts",
+    "Il Salvagente"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
-  "videoSource": "Migliori marche di Sughi Rossi e al Pesto",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/sughi-pronti/comparatore"
+  "trustedSourceSummary": "The first product is the winner named by Il Salvagente, linked to its article. Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (Il Salvagente) but did not contain an explicit product list for this category.",
+  "videoSource": "Open Food Facts: pesto",
+  "videoUrl": "https://world.openfoodfacts.org/category/pestos"
 }

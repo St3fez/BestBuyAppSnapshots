@@ -1,7 +1,7 @@
 {
   "cached": true,
   "categoryKey": "mozzarella-di-bufala",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": null,
   "displayQuery": "mozzarella di bufala",
   "error": null,
   "freshnessDays": 60,
@@ -10,13 +10,12 @@
   "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "official consumer source"
   ],
   "stale": false,
-  "status": "ready",
+  "status": "missing",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "SAPORI & DINTORNI CONAD CAPPELLACCI FRIARIELLI E \"MOZZARELLA DI BUFALA CAMPANA DOP\"",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-ripiena-comparatore/sapori-dintorni-conad-cappellacci-friarielli-e-mozzarella-di-bufala-campana-dop/570/104251"
+  "trustedSourceSummary": null,
+  "videoSource": null,
+  "videoUrl": null
 }

@@ -1,7 +1,7 @@
 {
   "cached": true,
   "categoryKey": "mozzarella",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": null,
   "displayQuery": "mozzarella",
   "error": null,
   "freshnessDays": 60,
@@ -10,13 +10,12 @@
   "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "official consumer source"
   ],
   "stale": false,
-  "status": "ready",
+  "status": "missing",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "GIOVANNI RANA DUETTO POMODORO & MOZZARELLA",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/pasta/pasta-ripiena-comparatore/giovanni-rana-duetto-pomodoro-mozzarella/570/118868"
+  "trustedSourceSummary": null,
+  "videoSource": null,
+  "videoUrl": null
 }

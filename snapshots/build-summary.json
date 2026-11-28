@@ -1,53 +1,111 @@
 {
   "success": true,
-  "generatedAt": "2026-11-27T15:15:59+00:00",
+  "generatedAt": "2026-11-28T14:21:02+00:00",
   "categoriesRequested": [
     "pasta",
+    "pasta integrale",
     "riso",
-    "latte",
-    "caffe",
-    "aceto",
+    "riso basmati",
+    "farro",
+    "orzo",
+    "cous cous",
+    "quinoa",
+    "polenta",
+    "gnocchi",
     "passata",
     "passata di pomodoro",
+    "pomodori pelati",
+    "sugo pronto",
     "pesto",
-    "patatine",
-    "pandoro",
-    "burro",
-    "olio",
-    "acqua",
-    "yogurt",
-    "biscotti",
-    "birra",
-    "miele",
-    "farina",
     "tonno",
-    "panettone",
+    "tonno in scatola",
+    "sgombro in scatola",
+    "ceci",
+    "lenticchie",
+    "fagioli",
+    "legumi in scatola",
+    "mais in scatola",
+    "aceto",
     "fette biscottate",
-    "maionese",
-    "cracker",
-    "mozzarella",
-    "mozzarella di bufala",
-    "grana padano"
+    "pandoro",
+    "latte",
+    "yogurt",
+    "acqua",
+    "caffe"
   ],
+  "categoriesTotal": 144,
+  "carriedForward": 14,
+  "attempts": {
+    "pasta": "2026-11-28T14:08:41+00:00",
+    "pasta integrale": "2026-11-28T14:09:11+00:00",
+    "riso": "2026-11-28T14:09:27+00:00",
+    "riso basmati": "2026-11-28T14:09:57+00:00",
+    "farro": "2026-11-28T14:10:07+00:00",
+    "orzo": "2026-11-28T14:10:32+00:00",
+    "cous cous": "2026-11-28T14:11:22+00:00",
+    "quinoa": "2026-11-28T14:11:32+00:00",
+    "polenta": "2026-11-28T14:12:02+00:00",
+    "gnocchi": "2026-11-28T14:12:32+00:00",
+    "passata": "2026-11-28T14:12:47+00:00",
+    "passata di pomodoro": "2026-11-28T14:13:22+00:00",
+    "pomodori pelati": "2026-11-28T14:13:37+00:00",
+    "sugo pronto": "2026-11-28T14:13:52+00:00",
+    "pesto": "2026-11-28T14:14:02+00:00",
+    "tonno": "2026-11-28T14:14:17+00:00",
+    "tonno in scatola": "2026-11-28T14:14:47+00:00",
+    "sgombro in scatola": "2026-11-28T14:15:17+00:00",
+    "ceci": "2026-11-28T14:15:42+00:00",
+    "lenticchie": "2026-11-28T14:16:02+00:00",
+    "fagioli": "2026-11-28T14:16:37+00:00",
+    "legumi in scatola": "2026-11-28T14:16:52+00:00",
+    "mais in scatola": "2026-11-28T14:17:07+00:00",
+    "aceto": "2026-11-28T14:17:22+00:00",
+    "fette biscottate": "2026-11-28T14:17:52+00:00",
+    "pandoro": "2026-11-28T14:18:07+00:00",
+    "latte": "2026-11-28T14:18:22+00:00",
+    "yogurt": "2026-11-28T14:19:02+00:00",
+    "acqua": "2026-11-28T14:19:22+00:00",
+    "caffe": "2026-11-28T14:19:47+00:00"
+  },
   "results": [
     {
       "category": "pasta",
-      "status": "error: Timed out while preparing snapshot for 'pasta'. Last status: refreshing"
+      "status": "ready"
+    },
+    {
+      "category": "pasta integrale",
+      "status": "ready"
     },
     {
       "category": "riso",
       "status": "ready"
     },
     {
-      "category": "latte",
+      "category": "riso basmati",
       "status": "ready"
     },
     {
-      "category": "caffe",
+      "category": "farro",
       "status": "ready"
     },
     {
-      "category": "aceto",
+      "category": "orzo",
+      "status": "ready"
+    },
+    {
+      "category": "cous cous",
+      "status": "ready"
+    },
+    {
+      "category": "quinoa",
+      "status": "ready"
+    },
+    {
+      "category": "polenta",
+      "status": "ready"
+    },
+    {
+      "category": "gnocchi",
       "status": "ready"
     },
     {
@@ -59,47 +117,15 @@
       "status": "ready"
     },
     {
+      "category": "pomodori pelati",
+      "status": "ready"
+    },
+    {
+      "category": "sugo pronto",
+      "status": "ready"
+    },
+    {
       "category": "pesto",
-      "status": "ready"
-    },
-    {
-      "category": "patatine",
-      "status": "ready"
-    },
-    {
-      "category": "pandoro",
-      "status": "ready"
-    },
-    {
-      "category": "burro",
-      "status": "ready"
-    },
-    {
-      "category": "olio",
-      "status": "ready"
-    },
-    {
-      "category": "acqua",
-      "status": "ready"
-    },
-    {
-      "category": "yogurt",
-      "status": "ready"
-    },
-    {
-      "category": "biscotti",
-      "status": "ready"
-    },
-    {
-      "category": "birra",
-      "status": "ready"
-    },
-    {
-      "category": "miele",
-      "status": "ready"
-    },
-    {
-      "category": "farina",
       "status": "ready"
     },
     {
@@ -107,7 +133,35 @@
       "status": "ready"
     },
     {
-      "category": "panettone",
+      "category": "tonno in scatola",
+      "status": "ready"
+    },
+    {
+      "category": "sgombro in scatola",
+      "status": "ready"
+    },
+    {
+      "category": "ceci",
+      "status": "ready"
+    },
+    {
+      "category": "lenticchie",
+      "status": "ready"
+    },
+    {
+      "category": "fagioli",
+      "status": "ready"
+    },
+    {
+      "category": "legumi in scatola",
+      "status": "ready"
+    },
+    {
+      "category": "mais in scatola",
+      "status": "ready"
+    },
+    {
+      "category": "aceto",
       "status": "ready"
     },
     {
@@ -115,23 +169,23 @@
       "status": "ready"
     },
     {
-      "category": "maionese",
+      "category": "pandoro",
       "status": "ready"
     },
     {
-      "category": "cracker",
+      "category": "latte",
       "status": "ready"
     },
     {
-      "category": "mozzarella",
+      "category": "yogurt",
       "status": "ready"
     },
     {
-      "category": "mozzarella di bufala",
+      "category": "acqua",
       "status": "ready"
     },
     {
-      "category": "grana padano",
+      "category": "caffe",
       "status": "ready"
     }
   ]

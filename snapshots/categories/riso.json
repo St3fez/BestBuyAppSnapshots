@@ -1,31 +1,119 @@
 {
   "cached": true,
   "categoryKey": "riso",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Open Food Facts",
   "displayQuery": "riso",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-27T15:01:59+00:00",
+  "lastUpdatedAt": "2026-11-28T14:09:56+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=SORRISI+DI+SPIGA+Carnaroli&tag=your_amazon_tag-20",
-      "name": "SORRISI DI SPIGA Carnaroli",
+      "amazonLink": "https://amazon.com/s?k=Carrefour+Riso+integrale",
+      "barcode": "3560070510771",
+      "name": "Carrefour Riso integrale",
       "pros": [
-        "Recommended"
+        "Nutri-Score B on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score C for environmental impact."
       ],
-      "rank": 1
+      "rank": 1,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560070510771"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Carrefour+Riso+BASMATI+Integrale",
+      "barcode": "3560071254179",
+      "name": "Carrefour Riso BASMATI Integrale",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 2,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560071254179"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Golden+Sun+Basmati+Reis+riso",
+      "barcode": "20073763",
+      "name": "Golden Sun Basmati Reis",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 3,
+      "sourceUrl": "https://world.openfoodfacts.org/product/20073763"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Carrefour+Riso+BASMATI+BIO",
+      "barcode": "3560070393619",
+      "name": "Carrefour Riso BASMATI BIO",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 4,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560070393619"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Carrefour+Riso+BASMATI",
+      "barcode": "3560071272555",
+      "name": "Carrefour Riso BASMATI",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 5,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560071272555"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Carrefour+Basmati+riso",
+      "barcode": "3560070837984",
+      "name": "Carrefour Basmati",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score D for environmental impact."
+      ],
+      "rank": 6,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560070837984"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Carrefour+BASMATI+Semilavorato+riso",
+      "barcode": "3560071230685",
+      "name": "Carrefour BASMATI Semilavorato",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score C for environmental impact."
+      ],
+      "rank": 7,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560071230685"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Carrefour+Riso",
+      "barcode": "3245411573669",
+      "name": "Carrefour Riso",
+      "pros": [
+        "Nutri-Score C on Open Food Facts.",
+        "NOVA group 4: ultra-processed food.",
+        "Green-Score A+ for environmental impact."
+      ],
+      "rank": 8,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3245411573669"
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "open product database",
+    "Open Food Facts"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
-  "videoSource": "Migliori marche di Riso",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/riso/comparatore"
+  "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (no explicit product list) but did not contain an explicit product list for this category.",
+  "videoSource": "Open Food Facts: riso",
+  "videoUrl": "https://world.openfoodfacts.org/category/rices"
 }

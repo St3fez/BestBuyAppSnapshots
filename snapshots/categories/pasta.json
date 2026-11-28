@@ -1,32 +1,22 @@
 {
   "cached": true,
   "categoryKey": "pasta",
-  "channelTitle": "Italia In Scaffale",
+  "channelTitle": null,
   "displayQuery": "pasta",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-27T15:02:03+00:00",
+  "lastUpdatedAt": "2026-11-28T14:09:08+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=PASTA+REALE+%28MD%29+PENNE+RIGATE&tag=your_amazon_tag-20",
-      "name": "PASTA REALE (MD) PENNE RIGATE",
-      "pros": [
-        "500g package",
-        "Affordable price",
-        "Lab-tested quality"
-      ],
-      "rank": 1
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "Altroconsumo"
+    "official consumer source",
+    "Assoutenti APS"
   ],
   "stale": false,
-  "status": "ready",
+  "status": "missing",
   "success": true,
-  "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-  "videoSource": "7 Marche di PASTA da EVITARE (ma 2 sono ottime)",
-  "videoUrl": "https://www.youtube.com/watch?v=iewUWJrs-i0"
+  "trustedSourceSummary": null,
+  "videoSource": null,
+  "videoUrl": null
 }

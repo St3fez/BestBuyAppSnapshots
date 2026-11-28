@@ -1,170 +1,464 @@
 {
   "categories": [
     {
-      "categoryKey": "grana-padano",
-      "displayQuery": "grana padano",
-      "hasProducts": false,
+      "categoryKey": "caffe",
+      "displayQuery": "caffe",
+      "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:15:58+00:00",
-      "productCount": 0,
+      "lastUpdatedAt": "2026-11-28T14:21:01+00:00",
+      "productCount": 20,
       "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
+        "open product database",
+        "Open Food Facts"
       ],
       "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "SELEX TORTELLINI FRESCHI PROSCIUTTO CRUDO CON GRANA PADANO DOP"
+      "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (no explicit product list) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: caffe"
     },
     {
-      "categoryKey": "mozzarella-di-bufala",
-      "displayQuery": "mozzarella di bufala",
-      "hasProducts": false,
+      "categoryKey": "acqua",
+      "displayQuery": "acqua",
+      "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:15:24+00:00",
-      "productCount": 0,
+      "lastUpdatedAt": "2026-11-28T14:19:44+00:00",
+      "productCount": 20,
       "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
+        "open product database",
+        "Open Food Facts",
+        "ADICONSUM APS"
       ],
       "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "SAPORI & DINTORNI CONAD CAPPELLACCI FRIARIELLI E \"MOZZARELLA DI BUFALA CAMPANA DOP\""
+      "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (ADICONSUM APS) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: acqua"
     },
     {
-      "categoryKey": "mozzarella",
-      "displayQuery": "mozzarella",
-      "hasProducts": false,
+      "categoryKey": "yogurt",
+      "displayQuery": "yogurt",
+      "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:14:46+00:00",
-      "productCount": 0,
+      "lastUpdatedAt": "2026-11-28T14:19:19+00:00",
+      "productCount": 20,
       "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
+        "open product database",
+        "Open Food Facts",
+        "Il Salvagente",
+        "Il Fatto Alimentare"
       ],
       "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "GIOVANNI RANA DUETTO POMODORO & MOZZARELLA"
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (Il Salvagente, Il Fatto Alimentare) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: yogurt"
     },
     {
-      "categoryKey": "cracker",
-      "displayQuery": "cracker",
+      "categoryKey": "latte",
+      "displayQuery": "latte",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:14:19+00:00",
+      "lastUpdatedAt": "2026-11-28T14:19:00+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
-        "Altroconsumo",
+        "Il Salvagente",
         "Codacons"
       ],
-      "status": "ready",
+      "status": "missing",
       "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "Migliori braccialetti fitness"
+      "videoSource": "Uova e latte, rapporto Lav: “27,6 miliardi di costi nascosti”. Meglio le alternative veg (con un’eccezione)"
     },
     {
-      "categoryKey": "maionese",
-      "displayQuery": "maionese",
-      "hasProducts": false,
+      "categoryKey": "pandoro",
+      "displayQuery": "pandoro",
+      "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:13:53+00:00",
-      "productCount": 0,
+      "lastUpdatedAt": "2026-11-28T14:18:21+00:00",
+      "productCount": 20,
       "sourceSignals": [
-        "official consumer source",
-        "U.Di.Con.",
-        "UNC"
+        "open product database",
+        "Open Food Facts",
+        "Il Fatto Alimentare"
       ],
       "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "Ue, addio alle bustine monouso al ristorante: dal 2026 cambiano le nostre abitudini"
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (Il Fatto Alimentare) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: pandoro"
     },
     {
       "categoryKey": "fette-biscottate",
       "displayQuery": "fette biscottate",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:13:23+00:00",
-      "productCount": 2,
+      "lastUpdatedAt": "2026-11-28T14:18:03+00:00",
+      "productCount": 20,
       "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
+        "open product database",
+        "Open Food Facts",
+        "Il Fatto Alimentare"
       ],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
-      "videoSource": "Migliori marche di fette biscottate"
+      "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (Il Fatto Alimentare) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: fette biscottate"
     },
     {
-      "categoryKey": "panettone",
-      "displayQuery": "panettone",
+      "categoryKey": "aceto",
+      "displayQuery": "aceto",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:12:56+00:00",
+      "lastUpdatedAt": "2026-11-28T14:17:50+00:00",
       "productCount": 1,
       "sourceSignals": [
-        "altroconsumo",
-        "Altroconsumo"
+        "Il Salvagente"
       ],
       "status": "ready",
-      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Trusted consumer references detected in the source material: altroconsumo",
-      "videoSource": "9 Marche di PANETTONE in Italia: dalla Peggiore alla Migliore (Classifica 2026)"
+      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Il Salvagente. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+      "videoSource": "Ho Indagato 7 Marche Di OLIO DI OLIVA (Solo 2 sono Sicure)"
+    },
+    {
+      "categoryKey": "mais-in-scatola",
+      "displayQuery": "mais in scatola",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:17:19+00:00",
+      "productCount": 4,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
+      "videoSource": "Open Food Facts: mais in scatola"
+    },
+    {
+      "categoryKey": "legumi-in-scatola",
+      "displayQuery": "legumi in scatola",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:17:03+00:00",
+      "productCount": 20,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
+      "videoSource": "Open Food Facts: legumi in scatola"
+    },
+    {
+      "categoryKey": "fagioli",
+      "displayQuery": "fagioli",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:16:51+00:00",
+      "productCount": 4,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts",
+        "Il Salvagente"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (Il Salvagente) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: fagioli"
+    },
+    {
+      "categoryKey": "lenticchie",
+      "displayQuery": "lenticchie",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:16:36+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source",
+        "Il Salvagente"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "videoSource": "Legumi, nasce la rete europea degli “scienziati cittadini” sugli alleati della biodiversità"
+    },
+    {
+      "categoryKey": "ceci",
+      "displayQuery": "ceci",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:15:59+00:00",
+      "productCount": 20,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts",
+        "Il Salvagente"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (Il Salvagente) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: ceci"
+    },
+    {
+      "categoryKey": "sgombro-in-scatola",
+      "displayQuery": "sgombro in scatola",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:15:39+00:00",
+      "productCount": 20,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (no explicit product list) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: sgombro in scatola"
+    },
+    {
+      "categoryKey": "tonno-in-scatola",
+      "displayQuery": "tonno in scatola",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:15:14+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source",
+        "Il Salvagente",
+        "Il Fatto Alimentare"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "videoSource": "Tonno in scatola, Foodwatch denuncia l’inganno del marchio Msc"
     },
     {
       "categoryKey": "tonno",
       "displayQuery": "tonno",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:12:29+00:00",
-      "productCount": 2,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo tested two tuna products in May 2024, both laboratory‑tested and priced competitively, supporting their recommendation as good choices.",
-      "videoSource": "MAREBLU FILETTI DI TONNO VEROSAPORE IN OLIO EXTRAVERGINE DI OLIVA"
-    },
-    {
-      "categoryKey": "farina",
-      "displayQuery": "farina",
       "hasProducts": false,
       "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:11:59+00:00",
+      "lastUpdatedAt": "2026-11-28T14:14:44+00:00",
       "productCount": 0,
       "sourceSignals": [
         "official consumer source",
-        "Altroconsumo"
+        "Il Salvagente",
+        "Il Fatto Alimentare"
       ],
-      "status": "ready",
+      "status": "missing",
       "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "MULINO BIANCO BUONFARRO CON FARINA INTEGRALE DI FARRO, MANDORLE E MIELE"
+      "videoSource": "Tonno in vetro: quanto resta sicuro dopo l’apertura del barattolo?"
     },
     {
-      "categoryKey": "miele",
-      "displayQuery": "miele",
+      "categoryKey": "pesto",
+      "displayQuery": "pesto",
       "hasProducts": true,
       "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:11:29+00:00",
-      "productCount": 2,
+      "lastUpdatedAt": "2026-11-28T14:14:13+00:00",
+      "productCount": 20,
       "sourceSignals": [
-        "Altroconsumo"
+        "open product database",
+        "Open Food Facts",
+        "Il Salvagente"
       ],
       "status": "ready",
-      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-      "videoSource": "Ho Indagato 7 Marche di MIELE Italiano (Solo 2 Sono Sicure)"
+      "trustedSourceSummary": "The first product is the winner named by Il Salvagente, linked to its article. Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (Il Salvagente) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: pesto"
+    },
+    {
+      "categoryKey": "sugo-pronto",
+      "displayQuery": "sugo pronto",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:14:02+00:00",
+      "productCount": 20,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
+      "videoSource": "Open Food Facts: sugo pronto"
+    },
+    {
+      "categoryKey": "pomodori-pelati",
+      "displayQuery": "pomodori pelati",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:13:48+00:00",
+      "productCount": 9,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
+      "videoSource": "Open Food Facts: pomodori pelati"
+    },
+    {
+      "categoryKey": "passata",
+      "displayQuery": "passata",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:13:33+00:00",
+      "productCount": 20,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts",
+        "Il Salvagente",
+        "ADICONSUM APS",
+        "U.Di.Con.",
+        "Assoutenti APS",
+        "Il Fatto Alimentare"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (Il Salvagente, ADICONSUM APS, U.Di.Con., Assoutenti APS, Il Fatto Alimentare) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: passata di pomodoro"
+    },
+    {
+      "categoryKey": "gnocchi",
+      "displayQuery": "gnocchi",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:12:46+00:00",
+      "productCount": 10,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts",
+        "Il Salvagente"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (Il Salvagente) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: gnocchi"
+    },
+    {
+      "categoryKey": "polenta",
+      "displayQuery": "polenta",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:12:28+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "videoSource": "Dieta africana versus dieta occidentale: risultati già dopo pochi giorni"
+    },
+    {
+      "categoryKey": "quinoa",
+      "displayQuery": "quinoa",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:12:00+00:00",
+      "productCount": 1,
+      "sourceSignals": [],
+      "status": "ready",
+      "trustedSourceSummary": "Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+      "videoSource": "10 Marche di Crocchette per Gatti Sterilizzati da EVITARE e le 3 Migliori del Test"
+    },
+    {
+      "categoryKey": "cous-cous",
+      "displayQuery": "cous cous",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:11:31+00:00",
+      "productCount": 4,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
+      "videoSource": "Open Food Facts: cous cous"
+    },
+    {
+      "categoryKey": "orzo",
+      "displayQuery": "orzo",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:11:17+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "videoSource": "Energia, Udicon: “Bene Plenitude ed Enel, ma aumentare misure per consumatori più fragili”"
+    },
+    {
+      "categoryKey": "farro",
+      "displayQuery": "farro",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:10:29+00:00",
+      "productCount": 20,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (no explicit product list) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: farro"
+    },
+    {
+      "categoryKey": "riso-basmati",
+      "displayQuery": "riso basmati",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:10:06+00:00",
+      "productCount": 20,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
+      "videoSource": "Open Food Facts: riso basmati"
+    },
+    {
+      "categoryKey": "riso",
+      "displayQuery": "riso",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:09:56+00:00",
+      "productCount": 8,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (no explicit product list) but did not contain an explicit product list for this category.",
+      "videoSource": "Open Food Facts: riso"
+    },
+    {
+      "categoryKey": "pasta-integrale",
+      "displayQuery": "pasta integrale",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:09:22+00:00",
+      "productCount": 20,
+      "sourceSignals": [
+        "open product database",
+        "Open Food Facts"
+      ],
+      "status": "ready",
+      "trustedSourceSummary": "Products listed worldwide were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test.",
+      "videoSource": "Open Food Facts: pasta integrale"
+    },
+    {
+      "categoryKey": "pasta",
+      "displayQuery": "pasta",
+      "hasProducts": false,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-28T14:09:08+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source",
+        "Assoutenti APS"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
+      "videoSource": "Pasta, studio Assoutenti-Crc: in due anni prezzi calano del -23,7%"
     },
     {
       "categoryKey": "birra",
       "displayQuery": "birra",
       "hasProducts": false,
-      "isFresh": true,
+      "isFresh": false,
       "lastUpdatedAt": "2026-11-27T15:10:46+00:00",
       "productCount": 0,
       "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
+        "official consumer source"
       ],
-      "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "Birra, come sceglierla? La nostra guida"
+      "status": "missing",
+      "trustedSourceSummary": null,
+      "videoSource": null
     },
     {
       "categoryKey": "biscotti",
@@ -173,87 +467,163 @@
       "isFresh": true,
       "lastUpdatedAt": "2026-11-27T15:10:17+00:00",
       "productCount": 2,
-      "sourceSignals": [
-        "Altroconsumo"
-      ],
+      "sourceSignals": [],
       "status": "ready",
-      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+      "trustedSourceSummary": "Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
       "videoSource": "8 Marche Di Biscotti Da EVITARE A Tutti I Costi (E 2 Che Sono Davvero Buone)"
-    },
-    {
-      "categoryKey": "yogurt",
-      "displayQuery": "yogurt",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:09:25+00:00",
-      "productCount": 2,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. The Altroconsumo tests from October 2026 provide fresh evidence supporting these yogurt choices.",
-      "videoSource": "MILA YOGURT GOURMET CREMA DI FRAGOLA"
-    },
-    {
-      "categoryKey": "acqua",
-      "displayQuery": "acqua",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:08:51+00:00",
-      "productCount": 2,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 test identifies Philips ADD4902BK/10 GoZero as the top gasatore d’acqua and Happy Frizz as the best purchase, providing fresh, evidence‑based recommendations.",
-      "videoSource": "Acqua"
-    },
-    {
-      "categoryKey": "olio",
-      "displayQuery": "olio",
-      "hasProducts": false,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:08:22+00:00",
-      "productCount": 0,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "Olio extravergine di oliva: guide ed approfondimenti"
     },
     {
       "categoryKey": "burro",
       "displayQuery": "burro",
       "hasProducts": false,
-      "isFresh": true,
+      "isFresh": false,
       "lastUpdatedAt": "2026-11-27T15:07:51+00:00",
       "productCount": 0,
       "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
+        "official consumer source"
       ],
-      "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "Burro di arachidi: composizione, caratteristiche e scelta"
+      "status": "missing",
+      "trustedSourceSummary": null,
+      "videoSource": null
     },
     {
-      "categoryKey": "pandoro",
-      "displayQuery": "pandoro",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:07:23+00:00",
-      "productCount": 2,
+      "categoryKey": "cracker",
+      "displayQuery": "cracker",
+      "hasProducts": false,
+      "isFresh": false,
+      "lastUpdatedAt": "2026-11-27T15:14:19+00:00",
+      "productCount": 0,
       "sourceSignals": [
         "official consumer source",
-        "Altroconsumo"
+        "Codacons"
       ],
+      "status": "missing",
+      "trustedSourceSummary": null,
+      "videoSource": null
+    },
+    {
+      "categoryKey": "farina",
+      "displayQuery": "farina",
+      "hasProducts": false,
+      "isFresh": false,
+      "lastUpdatedAt": "2026-11-27T15:11:59+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": null,
+      "videoSource": null
+    },
+    {
+      "categoryKey": "grana-padano",
+      "displayQuery": "grana padano",
+      "hasProducts": false,
+      "isFresh": false,
+      "lastUpdatedAt": "2026-11-27T15:15:58+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": null,
+      "videoSource": null
+    },
+    {
+      "categoryKey": "maionese",
+      "displayQuery": "maionese",
+      "hasProducts": false,
+      "isFresh": false,
+      "lastUpdatedAt": "2026-11-27T15:13:53+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source",
+        "U.Di.Con.",
+        "UNC"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": null,
+      "videoSource": null
+    },
+    {
+      "categoryKey": "miele",
+      "displayQuery": "miele",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-27T15:11:29+00:00",
+      "productCount": 2,
+      "sourceSignals": [],
       "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2025 test identifies Tre Marie and Conad as top pandoro choices; evidence is older than 60 days.",
-      "videoSource": "Pandoro: consigli e recensioni"
+      "trustedSourceSummary": "Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
+      "videoSource": "Ho Indagato 7 Marche di MIELE Italiano (Solo 2 Sono Sicure)"
+    },
+    {
+      "categoryKey": "mozzarella",
+      "displayQuery": "mozzarella",
+      "hasProducts": false,
+      "isFresh": false,
+      "lastUpdatedAt": "2026-11-27T15:14:46+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": null,
+      "videoSource": null
+    },
+    {
+      "categoryKey": "mozzarella-di-bufala",
+      "displayQuery": "mozzarella di bufala",
+      "hasProducts": false,
+      "isFresh": false,
+      "lastUpdatedAt": "2026-11-27T15:15:24+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": null,
+      "videoSource": null
+    },
+    {
+      "categoryKey": "olio",
+      "displayQuery": "olio",
+      "hasProducts": false,
+      "isFresh": false,
+      "lastUpdatedAt": "2026-11-27T15:08:22+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": null,
+      "videoSource": null
+    },
+    {
+      "categoryKey": "panettone",
+      "displayQuery": "panettone",
+      "hasProducts": true,
+      "isFresh": true,
+      "lastUpdatedAt": "2026-11-27T15:12:56+00:00",
+      "productCount": 1,
+      "sourceSignals": [],
+      "status": "ready",
+      "trustedSourceSummary": "",
+      "videoSource": "9 Marche di PANETTONE in Italia: dalla Peggiore alla Migliore (Classifica 2026)"
+    },
+    {
+      "categoryKey": "passata-di-pomodoro",
+      "displayQuery": "passata di pomodoro",
+      "hasProducts": false,
+      "isFresh": false,
+      "lastUpdatedAt": "2026-11-27T15:05:50+00:00",
+      "productCount": 0,
+      "sourceSignals": [
+        "official consumer source"
+      ],
+      "status": "missing",
+      "trustedSourceSummary": null,
+      "videoSource": null
     },
     {
       "categoryKey": "patatine",
@@ -266,127 +636,8 @@
       "status": "ready",
       "trustedSourceSummary": "Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
       "videoSource": "The Top 5 Best Variety Chips in 2026 - Must Watch Before Buying!"
-    },
-    {
-      "categoryKey": "pesto",
-      "displayQuery": "pesto",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:06:24+00:00",
-      "productCount": 1,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo.",
-      "videoSource": "Migliori marche di Sughi Rossi e al Pesto"
-    },
-    {
-      "categoryKey": "passata-di-pomodoro",
-      "displayQuery": "passata di pomodoro",
-      "hasProducts": false,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:05:50+00:00",
-      "productCount": 0,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "Migliori Passate di pomodoro"
-    },
-    {
-      "categoryKey": "passata",
-      "displayQuery": "passata",
-      "hasProducts": false,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:05:17+00:00",
-      "productCount": 0,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-      "videoSource": "Migliori Passate di pomodoro"
-    },
-    {
-      "categoryKey": "aceto",
-      "displayQuery": "aceto",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:04:38+00:00",
-      "productCount": 2,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo’s 2025 guide compares and highlights the DOP varieties of Aceto Balsamico as top choices, noting their strict production rules, aging, and origin. The evidence is older than 60 days.",
-      "videoSource": "Aceto balsamico: come scegliere quello giusto"
-    },
-    {
-      "categoryKey": "caffe",
-      "displayQuery": "caffe",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:04:14+00:00",
-      "productCount": 2,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2026 guide lists Nespresso and Starbucks by Nespresso as top capsule choices, indicating fresh official recommendations.",
-      "videoSource": "Caffè macinato: guide ed approfondimenti"
-    },
-    {
-      "categoryKey": "latte",
-      "displayQuery": "latte",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:03:02+00:00",
-      "productCount": 2,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
-      "videoSource": "Migliori marche di latte a lunga conservazione"
-    },
-    {
-      "categoryKey": "pasta",
-      "displayQuery": "pasta",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:02:03+00:00",
-      "productCount": 1,
-      "sourceSignals": [
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "YouTube review analysis supported by official consumer sources: Altroconsumo. Transcript was unavailable, so the recommendations were extracted from the video title, channel, and description.",
-      "videoSource": "7 Marche di PASTA da EVITARE (ma 2 sono ottime)"
-    },
-    {
-      "categoryKey": "riso",
-      "displayQuery": "riso",
-      "hasProducts": true,
-      "isFresh": true,
-      "lastUpdatedAt": "2026-11-27T15:01:59+00:00",
-      "productCount": 1,
-      "sourceSignals": [
-        "official consumer source",
-        "Altroconsumo"
-      ],
-      "status": "ready",
-      "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo.",
-      "videoSource": "Migliori marche di Riso"
     }
   ],
-  "generatedAt": "2026-11-27T15:15:59+00:00",
+  "generatedAt": "2026-11-28T14:21:02+00:00",
   "success": true
 }

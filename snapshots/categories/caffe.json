@@ -1,43 +1,262 @@
 {
   "cached": true,
   "categoryKey": "caffe",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Open Food Facts",
   "displayQuery": "caffe",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-27T15:04:14+00:00",
+  "lastUpdatedAt": "2026-11-28T14:21:01+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Nespresso&tag=your_amazon_tag-20",
-      "name": "Nespresso",
+      "amazonLink": "https://amazon.com/s?k=Illy+Caff%C3%A8+decaffeinato",
+      "barcode": "8003753900490",
+      "name": "Illy Caffè decaffeinato",
       "pros": [
-        "Recommended by Altroconsumo for best espresso capsules",
-        "Compatible with a wide range of Nespresso machines",
-        "Offers consistent quality and flavor"
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (31 unique scans).",
+        "Package size: 250 g."
       ],
-      "rank": 1
+      "rank": 1,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8003753900490"
     },
     {
-      "amazonLink": "https://amazon.com/s?k=Starbucks+by+Nespresso&tag=your_amazon_tag-20",
-      "name": "Starbucks by Nespresso",
+      "amazonLink": "https://amazon.com/s?k=Nestl%C3%A9+Nescaf%C3%A9+per+latte+caffe",
+      "barcode": "80002239",
+      "name": "Nestlé Nescafé per latte",
       "pros": [
-        "Altroconsumo recommends for premium flavor",
-        "Compatible with Nespresso machines",
-        "Available in various coffee blends"
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Listed in Italy on Open Food Facts (14 unique scans).",
+        "Package size: 100 g."
       ],
-      "rank": 2
+      "rank": 2,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80002239"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Nescafe%27+Classic+caffe",
+      "barcode": "80000822",
+      "name": "Nescafe' Classic",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Listed in Italy on Open Food Facts (14 unique scans).",
+        "Package size: 100 g."
+      ],
+      "rank": 3,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80000822"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Carrefour+Classic+caffe",
+      "barcode": "8431876006438",
+      "name": "Carrefour Classic",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Listed in Italy on Open Food Facts (14 unique scans).",
+        "Package size: 200g."
+      ],
+      "rank": 4,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8431876006438"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Pellini+Caff%C3%A8",
+      "barcode": "8001685093228",
+      "name": "Pellini Caffè",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "Widely scanned in Italy on Open Food Facts (21 unique scans).",
+        "Package size: 250."
+      ],
+      "rank": 5,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001685093228"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Dm+Caff%C3%A8+solubile+decaffeinato",
+      "barcode": "4066447075540",
+      "name": "Dm Caffè solubile decaffeinato",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Listed in Italy on Open Food Facts (13 unique scans).",
+        "Package size: 100g."
+      ],
+      "rank": 6,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4066447075540"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Carrefour+Decaffeinato",
+      "barcode": "3560070277315",
+      "name": "Carrefour Decaffeinato",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Listed in Italy on Open Food Facts (13 unique scans).",
+        "Package size: 100 g."
+      ],
+      "rank": 7,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3560070277315"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Illy+Tostato+classico+caff%C3%A8+macinato+ideale+per+moka",
+      "barcode": "8003753915050",
+      "name": "Illy Tostato classico caffè macinato ideale per moka",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score F for environmental impact.",
+        "Widely scanned in Italy on Open Food Facts (30 unique scans)."
+      ],
+      "rank": 8,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8003753915050"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Caff%C3%A8+Hag+Caff%C3%A8",
+      "barcode": "8711000483817",
+      "name": "Caffè Hag Caffè",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Listed in Italy on Open Food Facts (7 unique scans).",
+        "Package size: 250g."
+      ],
+      "rank": 9,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8711000483817"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Gimoka+Gran+gusto+caffe",
+      "barcode": "8003012000015",
+      "name": "Gimoka Gran gusto",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score F for environmental impact.",
+        "Listed in Italy on Open Food Facts (18 unique scans)."
+      ],
+      "rank": 10,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8003012000015"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Lavazza+Qualit%C3%A0+Nespresso+caffe",
+      "barcode": "8000070053465",
+      "name": "Lavazza Qualità Nespresso",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score F for environmental impact.",
+        "Listed in Italy on Open Food Facts (13 unique scans)."
+      ],
+      "rank": 11,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8000070053465"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Nescaf%C3%A9+red+cup+crema+caffe",
+      "barcode": "40056449",
+      "name": "Nescafé red cup crema",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score F for environmental impact.",
+        "Listed in Italy on Open Food Facts (12 unique scans)."
+      ],
+      "rank": 12,
+      "sourceUrl": "https://world.openfoodfacts.org/product/40056449"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Dm+Caff%C3%A8+Caff%C3%A8+Crema%2C+in+grani",
+      "barcode": "4058172684159",
+      "name": "Dm Caffè Caffè Crema, in grani",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score F for environmental impact.",
+        "Listed in Italy on Open Food Facts (11 unique scans)."
+      ],
+      "rank": 13,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4058172684159"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Lavazza+Crema+e+gusto+classico+in+grani+caffe",
+      "barcode": "8000070038974",
+      "name": "Lavazza Crema e gusto classico in grani",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score F for environmental impact.",
+        "Listed in Italy on Open Food Facts (10 unique scans)."
+      ],
+      "rank": 14,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8000070038974"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Grand%27M%C3%A8re+Familial+caffe",
+      "barcode": "8711000892091",
+      "name": "Grand'Mère Familial",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score F for environmental impact.",
+        "Widely scanned in Italy on Open Food Facts (47 unique scans)."
+      ],
+      "rank": 15,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8711000892091"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Nestl%C3%A9+%CE%9B%CE%BF%CF%85%CE%BC%CE%AF%CE%B4%CE%B7%CF%82+%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%83%CE%B9%CE%B1%CE%BA%CF%8C%CF%82+caffe",
+      "barcode": "5201219040107",
+      "name": "Nestlé Λουμίδης Παραδοσιακός",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score F for environmental impact.",
+        "Widely scanned in Italy on Open Food Facts (37 unique scans)."
+      ],
+      "rank": 16,
+      "sourceUrl": "https://world.openfoodfacts.org/product/5201219040107"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=L%27Or+Absolu+caffe",
+      "barcode": "3228470062008",
+      "name": "L'Or Absolu",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Listed in Italy on Open Food Facts (10 unique scans).",
+        "Package size: 250g."
+      ],
+      "rank": 17,
+      "sourceUrl": "https://world.openfoodfacts.org/product/3228470062008"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Bellarom+%28Lidl%29+kenya+caffe",
+      "barcode": "4056489639145",
+      "name": "Bellarom (Lidl) kenya",
+      "pros": [
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Green-Score E for environmental impact.",
+        "Listed in Italy on Open Food Facts (10 unique scans)."
+      ],
+      "rank": 18,
+      "sourceUrl": "https://world.openfoodfacts.org/product/4056489639145"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Primia+Caff%C3%A8+solubile",
+      "barcode": "8030582019581",
+      "name": "Primia Caffè solubile",
+      "pros": [
+        "Listed in Italy on Open Food Facts (7 unique scans).",
+        "Package size: 100 grams."
+      ],
+      "rank": 19,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8030582019581"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Kimbo+Aroma+italiano+caffe",
+      "barcode": "8002200502119",
+      "name": "Kimbo Aroma italiano",
+      "pros": [
+        "Nutri-Score B on Open Food Facts.",
+        "Green-Score F for environmental impact.",
+        "Listed in Italy on Open Food Facts (7 unique scans)."
+      ],
+      "rank": 20,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8002200502119"
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "open product database",
+    "Open Food Facts"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "No official consumer documents were found in the last 60 days, so the latest available official sources from 2025-2026 were used. Organizations used: Altroconsumo. Altroconsumo's 2026 guide lists Nespresso and Starbucks by Nespresso as top capsule choices, indicating fresh official recommendations.",
-  "videoSource": "Caffè macinato: guide ed approfondimenti",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/capsule-caffe/caffe-macinato-comparatore"
+  "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (no explicit product list) but did not contain an explicit product list for this category.",
+  "videoSource": "Open Food Facts: caffe",
+  "videoUrl": "https://world.openfoodfacts.org/category/coffees"
 }

@@ -1,43 +1,264 @@
 {
   "cached": true,
   "categoryKey": "acqua",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": "Open Food Facts",
   "displayQuery": "acqua",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-27T15:08:51+00:00",
+  "lastUpdatedAt": "2026-11-28T14:19:44+00:00",
   "message": "Downloaded snapshot ready.",
   "products": [
     {
-      "amazonLink": "https://amazon.com/s?k=Philips+ADD4902BK%2F10+GoZero&tag=your_amazon_tag-20",
-      "name": "Philips ADD4902BK/10 GoZero",
+      "amazonLink": "https://amazon.com/s?k=Acqua+San+Pellegrino",
+      "barcode": "8002270014901",
+      "name": "Acqua San Pellegrino",
       "pros": [
-        "High output of sparkling water (up to 240 L with minimal carbonation)",
-        "Large bottle capacity (up to 890 ml per fill)",
-        "Easy bottle insertion and maintenance"
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (484 unique scans)."
       ],
-      "rank": 1
+      "rank": 1,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8002270014901"
     },
     {
-      "amazonLink": "https://amazon.com/s?k=Happy+Frizz&tag=your_amazon_tag-20",
-      "name": "Happy Frizz",
+      "amazonLink": "https://amazon.com/s?k=Acqua+minerale+naturale+Sant%27Anna",
+      "barcode": "8020141800002",
+      "name": "Acqua minerale naturale Sant'Anna",
       "pros": [
-        "Best value for money",
-        "User‑friendly design",
-        "Reliable carbonation performance"
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (111 unique scans)."
       ],
-      "rank": 2
+      "rank": 2,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8020141800002"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Nestl%C3%A9+acqua+minerale",
+      "barcode": "80000532",
+      "name": "Nestlé acqua minerale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (82 unique scans)."
+      ],
+      "rank": 3,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80000532"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Uliveto+Acqua+minerale+naturale",
+      "barcode": "8008490000021",
+      "name": "Uliveto Acqua minerale naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (79 unique scans)."
+      ],
+      "rank": 4,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8008490000021"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Lete+Acqua+minerale+naturale+frizzante",
+      "barcode": "80412021",
+      "name": "Lete Acqua minerale naturale frizzante",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (75 unique scans)."
+      ],
+      "rank": 5,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80412021"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Eurospin+Acqua+naturale+naturale",
+      "barcode": "8017596057105",
+      "name": "Eurospin Acqua naturale naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (74 unique scans)."
+      ],
+      "rank": 6,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8017596057105"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Ferrarelle+Acqua+minerale+effervescente+naturale",
+      "barcode": "80134091",
+      "name": "Ferrarelle Acqua minerale effervescente naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (74 unique scans)."
+      ],
+      "rank": 7,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80134091"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Sant%27Anna+Acqua+minerale+naturale",
+      "barcode": "8020141640004",
+      "name": "Sant'Anna Acqua minerale naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (67 unique scans)."
+      ],
+      "rank": 8,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8020141640004"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Blues+Acqua+minerale+naturale",
+      "barcode": "8017596066961",
+      "name": "Blues Acqua minerale naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (58 unique scans)."
+      ],
+      "rank": 9,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8017596066961"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Rocchetta+Naturale+acqua",
+      "barcode": "8009245001010",
+      "name": "Rocchetta Naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (50 unique scans)."
+      ],
+      "rank": 10,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8009245001010"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Ferrarelle+Acqua+naturale",
+      "barcode": "80369691",
+      "name": "Ferrarelle Acqua naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (50 unique scans)."
+      ],
+      "rank": 11,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80369691"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Acqua+oligominerale+San+Benedetto+Ecogreen+naturale",
+      "barcode": "8001620012697",
+      "name": "Acqua oligominerale San Benedetto Ecogreen naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (35 unique scans)."
+      ],
+      "rank": 12,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8001620012697"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=San+Benedetto+Acqua+minerale+naturale",
+      "barcode": "8053259800282",
+      "name": "San Benedetto Acqua minerale naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (27 unique scans)."
+      ],
+      "rank": 13,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8053259800282"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Blues+Acqua+minerale+naturale+effervescente",
+      "barcode": "8017596012210",
+      "name": "Blues Acqua minerale naturale effervescente",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (25 unique scans)."
+      ],
+      "rank": 14,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8017596012210"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=San+Bernardo+Acqua+minerale+naturale",
+      "barcode": "80067641",
+      "name": "San Bernardo Acqua minerale naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (22 unique scans)."
+      ],
+      "rank": 15,
+      "sourceUrl": "https://world.openfoodfacts.org/product/80067641"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Nestl%C3%A9+Vera+acqua",
+      "barcode": "8005200106561",
+      "name": "Nestlé Vera",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (22 unique scans)."
+      ],
+      "rank": 16,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8005200106561"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Valmora+Acqua+minerale+naturale+di+sorgente+alpina",
+      "barcode": "8010333004639",
+      "name": "Valmora Acqua minerale naturale di sorgente alpina",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Widely scanned in Italy on Open Food Facts (21 unique scans)."
+      ],
+      "rank": 17,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8010333004639"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Eurospin+Acqua",
+      "barcode": "8017596124876",
+      "name": "Eurospin Acqua",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Listed in Italy on Open Food Facts (18 unique scans)."
+      ],
+      "rank": 18,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8017596124876"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Acqua+della+salute+Rocchetta+naturale",
+      "barcode": "8009245001041",
+      "name": "Acqua della salute Rocchetta naturale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Listed in Italy on Open Food Facts (18 unique scans)."
+      ],
+      "rank": 19,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8009245001041"
+    },
+    {
+      "amazonLink": "https://amazon.com/s?k=Acqua+Fonte+Essenziale",
+      "barcode": "8006290802005",
+      "name": "Acqua Fonte Essenziale",
+      "pros": [
+        "Nutri-Score A on Open Food Facts.",
+        "NOVA group 1: unprocessed or minimally processed.",
+        "Listed in Italy on Open Food Facts (17 unique scans)."
+      ],
+      "rank": 20,
+      "sourceUrl": "https://world.openfoodfacts.org/product/8006290802005"
     }
   ],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "open product database",
+    "Open Food Facts",
+    "ADICONSUM APS"
   ],
   "stale": false,
   "status": "ready",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Altroconsumo’s 2026 test identifies Philips ADD4902BK/10 GoZero as the top gasatore d’acqua and Happy Frizz as the best purchase, providing fresh, evidence‑based recommendations.",
-  "videoSource": "Acqua",
-  "videoUrl": "https://www.spreaker.com/episode/acqua--28523645"
+  "trustedSourceSummary": "Products sold in Italy were ranked with open data from Open Food Facts: Nutri-Score, NOVA processing level, Green-Score and how often each product is scanned. This is a nutrition and popularity ranking, not a laboratory taste test. Official consumer sources were checked first (ADICONSUM APS) but did not contain an explicit product list for this category.",
+  "videoSource": "Open Food Facts: acqua",
+  "videoUrl": "https://world.openfoodfacts.org/category/mineral-waters"
 }

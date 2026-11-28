@@ -1,7 +1,7 @@
 {
   "cached": true,
   "categoryKey": "farina",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": null,
   "displayQuery": "farina",
   "error": null,
   "freshnessDays": 60,
@@ -10,13 +10,12 @@
   "products": [],
   "refreshRequested": false,
   "sourceSignals": [
-    "official consumer source",
-    "Altroconsumo"
+    "official consumer source"
   ],
   "stale": false,
-  "status": "ready",
+  "status": "missing",
   "success": true,
-  "trustedSourceSummary": "AI analysis did not return valid recommendations.",
-  "videoSource": "MULINO BIANCO BUONFARRO CON FARINA INTEGRALE DI FARRO, MANDORLE E MIELE",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/colazione/biscotti-comparatore/mulino-bianco-buonfarro-con-farina-integrale-di-farro-mandorle-e-miele/493/117115"
+  "trustedSourceSummary": null,
+  "videoSource": null,
+  "videoUrl": null
 }

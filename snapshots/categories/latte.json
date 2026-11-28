@@ -1,43 +1,23 @@
 {
   "cached": true,
   "categoryKey": "latte",
-  "channelTitle": "Altroconsumo",
+  "channelTitle": null,
   "displayQuery": "latte",
   "error": null,
   "freshnessDays": 60,
-  "lastUpdatedAt": "2026-11-27T15:03:02+00:00",
+  "lastUpdatedAt": "2026-11-28T14:19:00+00:00",
   "message": "Downloaded snapshot ready.",
-  "products": [
-    {
-      "amazonLink": "https://amazon.com/s?k=MILBONA+%28LIDL%29+LATTE+PARZIALMENTE+SCREMATO+UHT+A+LUNGA+CONSERVAZIONE&tag=your_amazon_tag-20",
-      "name": "MILBONA (LIDL) LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE",
-      "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-04-22.",
-        "Extracted directly from the official comparison page 'Migliori marche di latte a lunga conservazione'."
-      ],
-      "rank": 1
-    },
-    {
-      "amazonLink": "https://amazon.com/s?k=MALGA+PARADISO+%28MD%29+LATTE+PARZIALMENTE+SCREMATO+UHT+A+LUNGA+CONSERVAZIONE&tag=your_amazon_tag-20",
-      "name": "MALGA PARADISO (MD) LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE",
-      "pros": [
-        "Taken from the latest official consumer comparison available in the allowed year window.",
-        "Published by Altroconsumo on 2025-04-22.",
-        "Extracted directly from the official comparison page 'Migliori marche di latte a lunga conservazione'."
-      ],
-      "rank": 2
-    }
-  ],
+  "products": [],
   "refreshRequested": false,
   "sourceSignals": [
     "official consumer source",
-    "Altroconsumo"
+    "Il Salvagente",
+    "Codacons"
   ],
   "stale": false,
-  "status": "ready",
+  "status": "missing",
   "success": true,
-  "trustedSourceSummary": "Fresh official consumer updates were combined with the latest archived comparison pages from 2025-2026. Organizations used: Altroconsumo. Products were extracted directly from official comparison cards because the AI extraction step was unavailable or returned no reliable products.",
-  "videoSource": "Migliori marche di latte a lunga conservazione",
-  "videoUrl": "https://www.altroconsumo.it/alimentazione/latte/latte-comparatore"
+  "trustedSourceSummary": null,
+  "videoSource": null,
+  "videoUrl": null
 }
